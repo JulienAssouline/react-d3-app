@@ -1,0 +1,1521 @@
+,Date,State,City,Address,Killed,Injured,Year,Code,Country,Latitude,Longitude,test
+0,31-Dec-13,New York,Brooklyn,60 Glenmore Ave,0,6,2013,NY,us,40.65,-73.95,False
+1,28-Dec-13,Alabama,Montgomery,954 Highland Ave,3,5,2013,AL,us,32.3666667,-86.3,False
+2,26-Dec-13,Louisiana,Slidell,2144 First St,2,6,2013,LA,us,30.275,-89.78111109999998,False
+3,26-Dec-13,Louisiana,Lockport,313 Tenth St,3,3,2013,LA,us,29.6458333,-90.5391667,False
+4,25-Dec-13,New Jersey,Irvington,Nye Avenue and 21st Street,3,2,2013,NJ,us,40.7322222,-74.23527779999998,False
+5,25-Dec-13,New York,Medford,33A Cedarhurst Ave,1,3,2013,NY,us,40.8175,-73.0005556,False
+6,22-Dec-13,Michigan,Muskegon,2300 block of W McMillan Rd,1,3,2013,MI,us,43.2341667,-86.2483333,False
+7,21-Dec-13,North Carolina,Shelby,Jose Street,0,4,2013,NC,us,35.2922222,-81.5358333,False
+8,21-Dec-13,New Jersey,Trenton,Jersey Street and Home Avenue,1,4,2013,NJ,us,40.2169444,-74.7433333,False
+9,15-Dec-13,Florida,Homestead,7th Avenue and 13th Terrace,1,3,2013,FL,us,25.4683333,-80.4777778,False
+10,15-Dec-13,Texas,Channelview,900 block of Ashland Boulevard,0,5,2013,TX,us,29.7758333,-95.1144444,False
+11,14-Dec-13,North Carolina,Statesville,167 Wallace Springs,0,4,2013,NC,us,35.7825,-80.8875,False
+12,07-Dec-13,Delaware,Wilmington,3421 Kirkwood Hwy,0,4,2013,DE,us,39.7458333,-75.5469444,False
+13,01-Dec-13,Kansas,Topeka,1629 SW Central Park,4,0,2013,KS,us,39.0483333,-95.6777778,False
+14,01-Dec-13,Florida,Miami,NW 64th Street and 12th Avenue,2,2,2013,FL,us,25.7738889,-80.1938889,False
+15,30-Nov-13,Michigan,Lansing,,0,5,2013,MI,us,42.7325,-84.5555556,False
+16,30-Nov-13,Georgia,Valdosta,Gordon Street and North Ashley Street,0,4,2013,GA,us,30.8325,-83.27861109999998,False
+17,29-Nov-13,California,Fresno,Oleander and Modoc,0,4,2013,CA,us,36.7477778,-119.7713889,False
+18,29-Nov-13,Indiana,Indianapolis,3400 block of East 34th Street,0,4,2013,IN,us,39.7683333,-86.1580556,False
+19,28-Nov-13,New York,Rochester,St. Paul Boulevard and Andrews Street,0,4,2013,NY,us,43.1547222,-77.61583329999998,False
+20,25-Nov-13,Minnesota,Minneapolis,1611 E Lake St,1,3,2013,MN,us,44.98,-93.2636111,False
+21,25-Nov-13,California,Oakland,96th Avenue and Olive Street,0,7,2013,CA,us,37.8044444,-122.2697222,False
+22,23-Nov-13,Oklahoma,Tulsa,Pine Street and Harvard Avenue,4,1,2013,OK,us,36.1538889,-95.9925,False
+23,21-Nov-13,Pennsylvania,Philadelphia,1400 block of N. 60th Street,0,4,2013,PA,us,39.9522222,-75.1641667,False
+24,20-Nov-13,Texas,Houston,8200 block of Sunbury,3,2,2013,TX,us,29.763055600000005,-95.3630556,False
+25,15-Nov-13,Texas,Houston,4400 block of Tiffany,1,3,2013,TX,us,29.763055600000005,-95.3630556,False
+26,11-Nov-13,New York,Brooklyn,318 Maujer St,4,1,2013,NY,us,40.65,-73.95,False
+27,10-Nov-13,Ohio,Canton,1215 Tuscarawas St W,1,3,2013,OH,us,40.7988889,-81.37861109999999,False
+28,10-Nov-13,Arizona,Phoenix,5800 South 53rd Glen,1,3,2013,AZ,us,33.4483333,-112.0733333,False
+29,09-Nov-13,Texas,Cypress,7300 block of Enchanted Creek Drive,2,16,2013,TX,us,29.9688889,-95.6969444,False
+30,07-Nov-13,Michigan,Detroit,Conley and 7 Mile,3,7,2013,MI,us,42.33138889999999,-83.0458333,False
+31,05-Nov-13,Florida,Jacksonville,1100 block of Randolph,4,0,2013,FL,us,30.3319444,-81.6558333,False
+32,05-Nov-13,District of Columbia,Washington,3900 block of Minnesota Ave,0,4,2013,,,47.751076,-120.740135,True
+33,03-Nov-13,California,Los Angeles,1 World Way,1,3,2013,CA,us,34.0522222,-118.2427778,False
+34,03-Nov-13,California,Perris,2900 block of Perris Boulevard,0,5,2013,CA,us,33.7825,-117.2277778,False
+35,02-Nov-13,Kentucky,Radcliff,355 Shelby Avenue,1,3,2013,KY,us,37.8402778,-85.9491667,False
+36,29-Oct-13,South Carolina,Bradley,Callison Highway,5,0,2013,SC,us,34.0491667,-82.24472220000001,False
+37,27-Oct-13,California,Vallejo,200 block of Princeton Avenue,1,6,2013,CA,us,38.1041667,-122.25555559999998,False
+38,27-Oct-13,North Carolina,Southern Pines,115 Turner St,1,4,2013,NC,us,35.173888899999994,-79.3925,False
+39,27-Oct-13,California,Roseville,6th Street and Hampton,0,4,2013,CA,us,38.7522222,-121.2869444,False
+40,27-Oct-13,Texas,Beaumont,500 block of Edgemore Drive,0,4,2013,TX,us,30.0858333,-94.1016667,False
+41,26-Oct-13,Connecticut,New Haven,85 Saint John St,1,5,2013,CT,us,41.3080556,-72.9286111,False
+42,26-Oct-13,Florida,Miami Gardens,NW 187 Street and 30 Avenue,0,4,2013,FL,us,25.9794444,-80.20277779999998,False
+43,21-Oct-13,Pennsylvania,Pittsburgh,7200 block of Kelly Street,2,5,2013,PA,us,40.4405556,-79.9961111,False
+44,20-Oct-13,Florida,Miami,19600 block of Southwest 168th Street,2,2,2013,FL,us,25.7738889,-80.1938889,False
+45,20-Oct-13,Florida,Margate,7400 block of Santa Monica Drive,0,4,2013,FL,us,26.2441667,-80.2066667,False
+46,13-Oct-13,Pennsylvania,Harrisburg,1524 Walnut St,0,8,2013,PA,us,40.2736111,-76.88472220000001,False
+47,12-Oct-13,Oklahoma,Tulsa,12000 E 31st St,0,5,2013,OK,us,36.1538889,-95.9925,False
+48,09-Oct-13,Texas,Paris,400 block of NE 6th Street,4,0,2013,TX,us,33.6608333,-95.5552778,False
+49,06-Oct-13,Pennsylvania,Philadelphia,54th St. and Florence Ave,1,5,2013,PA,us,39.9522222,-75.1641667,False
+50,06-Oct-13,Arizona,Avondale,11120 W Van Buren St,0,4,2013,AZ,us,33.4355556,-112.3488889,False
+51,05-Oct-13,New York,Buffalo,102 Zelmer Street,0,4,2013,NY,us,42.8863889,-78.87861109999999,False
+52,05-Oct-13,California,Fresno,3883 E. Calwa #114,1,12,2013,CA,us,36.7477778,-119.7713889,False
+53,02-Oct-13,Nebraska,Omaha,North 42nd and Browne streets,0,4,2013,NE,us,41.2586111,-95.9375,False
+54,29-Sep-13,Illinois,Chicago,6000 block of South Indiana Avenue,0,4,2013,IL,us,41.85,-87.65,False
+55,27-Sep-13,Ohio,Zanesville,753 Putnam Ave,0,4,2013,OH,us,39.9402778,-82.0133333,False
+56,25-Sep-13,North Carolina,Haw River,1003 W. Main St,0,4,2013,NC,us,36.0913889,-79.3644444,False
+57,24-Sep-13,West Virginia,Huntington,300 W 7th Ave,0,6,2013,WV,us,38.4191667,-82.4452778,False
+58,22-Sep-13,Missouri,Saint Louis,3916 North Florissant Road,1,3,2013,MO,us,38.6272222,-90.1977778,False
+59,22-Sep-13,Kansas,Wichita,100 block of N. Mead,1,6,2013,KS,us,37.6922222,-97.3372222,False
+60,22-Sep-13,Michigan,Muskegon,149 Ottawa Ave,2,4,2013,MI,us,43.2341667,-86.2483333,False
+61,21-Sep-13,Florida,Palm Beach,2600 block of Forest Hill Boulevard,0,4,2013,FL,us,26.7052778,-80.0366667,False
+62,20-Sep-13,Texas,Rice,700 block of NW 0149,5,0,2013,TX,us,32.2436111,-96.4983333,False
+63,20-Sep-13,California,Long Beach,6500 block of Rose Avenue,2,2,2013,CA,us,33.76694439999999,-118.18833329999998,False
+64,19-Sep-13,Illinois,Chicago,1809 W 50th St,0,12,2013,IL,us,41.85,-87.65,False
+65,18-Sep-13,Tennessee,Memphis,1033 Whitaker,1,4,2013,TN,us,35.14944439999999,-90.04888890000002,False
+66,17-Sep-13,Florida,Kissimmee,Flying Fortress Avenue,0,5,2013,FL,us,28.2916667,-81.40777779999998,False
+67,17-Sep-13,Nevada,Las Vegas,1300 block of Bartlett Avenue,0,4,2013,NV,us,36.175,-115.1363889,False
+68,17-Sep-13,Michigan,Lansing,1500 block of Ottawa Street,0,4,2013,MI,us,42.7325,-84.5555556,False
+69,17-Sep-13,California,Stockton,700 block of North Airport Way,2,3,2013,CA,us,37.9577778,-121.2897222,False
+70,16-Sep-13,District of Columbia,Washington Navy Yard,1336 Isaac Hull Ave,11,3,2013,,,38.8746334,-76.9945473,True
+71,15-Sep-13,Colorado,Colorado Springs,1609 South Nevada,0,5,2013,CO,us,38.8338889,-104.8208333,False
+72,15-Sep-13,Washington,Yakima,2209 W Nob Hill Blvd,0,6,2013,WA,us,46.6022222,-120.5047222,False
+73,15-Sep-13,Georgia,Snellville,4630 Anderson Livsey Lane,3,1,2013,GA,us,33.8572222,-84.02,False
+74,14-Sep-13,North Carolina,Marion,80 Finley Road,0,4,2013,NC,us,35.6838889,-82.0094444,False
+75,12-Sep-13,District of Columbia,Washington,First Street and Pierce Street NW,1,3,2013,,,47.751076,-120.740135,True
+76,12-Sep-13,Tennessee,Crab Orchard,,4,0,2013,TN,us,35.9091667,-84.8780556,False
+77,11-Sep-13,New York,New York,204 Varick St,0,4,2013,NY,us,40.7141667,-74.0063889,False
+78,10-Sep-13,Connecticut,Bridgeport,Reservoir Ave and Grandview Ave,1,4,2013,CT,us,41.1669444,-73.20527779999998,False
+79,07-Sep-13,Indiana,Gary,9300 block of Sunrise Boulevard,2,4,2013,IN,us,41.5933333,-87.34638890000002,False
+80,07-Sep-13,Missouri,Saint Louis,5000 block of Durant Ave,1,3,2013,MO,us,38.6272222,-90.1977778,False
+81,05-Sep-13,North Carolina,Charlotte,2500 block of Pinckney Avenue,0,4,2013,NC,us,35.226944399999994,-80.8433333,False
+82,25-Aug-13,California,Oakland,1300 block of 104th Avenue,0,4,2013,CA,us,37.8044444,-122.2697222,False
+83,25-Aug-13,Florida,Lake Butler,1050 Southeast 6th Street,4,1,2013,FL,us,30.0225,-82.33972220000003,False
+84,25-Aug-13,Minnesota,Minneapolis,2600 block of Cedar and 2600 block of 18th Avenue South,2,2,2013,MN,us,44.98,-93.2636111,False
+85,25-Aug-13,South Carolina,Latta,214 Willis St,1,3,2013,SC,us,34.33694439999999,-79.4313889,False
+86,20-Aug-13,Maryland,Baltimore,1200 block of S. Carey St,2,2,2013,MD,us,39.2902778,-76.6125,False
+87,19-Aug-13,Illinois,Chicago,1011 W. Wilson,1,4,2013,IL,us,41.85,-87.65,False
+88,18-Aug-13,New Jersey,Port Norris,1600 block of North Avenue,0,4,2013,NJ,us,39.2458333,-75.0355556,False
+89,18-Aug-13,Ohio,Toledo,2272 Scottwood Ave,0,4,2013,OH,us,41.6638889,-83.5552778,False
+90,18-Aug-13,South Carolina,Chesterfield,3217 Center Point Rd,1,4,2013,SC,us,34.7358333,-80.0883333,False
+91,18-Aug-13,Illinois,Chicago,100 block of South Springfield,1,3,2013,IL,us,41.85,-87.65,False
+92,17-Aug-13,California,San Francisco,1738 Telegraph Avenue,0,4,2013,CA,us,37.775,-122.4183333,False
+93,14-Aug-13,Oklahoma,Oklahoma City,4601 SE 79,4,0,2013,OK,us,35.4675,-97.5161111,False
+94,13-Aug-13,Pennsylvania,Philadelphia,1100 block of Divinity Street,0,4,2013,PA,us,39.9522222,-75.1641667,False
+95,11-Aug-13,Virginia,Portsmouth,1100 block of Mt. Vernon Ave,1,4,2013,VA,us,36.8352778,-76.29861109999999,False
+96,11-Aug-13,New York,Brooklyn,395 East 48th Street,0,4,2013,NY,us,40.65,-73.95,False
+97,10-Aug-13,Delaware,Wilmington,1200 block of Second Street,0,4,2013,DE,us,39.7458333,-75.5469444,False
+98,09-Aug-13,Missouri,Saint Louis,4200 block of Kossuth Ave,2,2,2013,MO,us,38.6272222,-90.1977778,False
+99,07-Aug-13,Texas,Dallas,7100 block of Long Canyon Trail,4,4,2013,TX,us,32.783333299999995,-96.8,False
+100,06-Aug-13,New Jersey,Montclair,Mission Street,0,4,2013,NJ,us,40.8258333,-74.2094444,False
+101,06-Aug-13,Pennsylvania,Saylorsburg,1000 Ross Municipal Dr,3,4,2013,PA,us,40.8955556,-75.32388890000001,False
+102,04-Aug-13,Missouri,Kansas City,2400 block of Park Avenue,1,3,2013,MO,us,39.0997222,-94.5783333,False
+103,04-Aug-13,California,Salinas,624 Williams Road,3,4,2013,CA,us,36.6777778,-121.65444440000002,False
+104,03-Aug-13,Michigan,Detroit,Murray Hill St,0,5,2013,MI,us,42.33138889999999,-83.0458333,False
+105,02-Aug-13,Indiana,Indianapolis,62nd and College Ave,0,4,2013,IN,us,39.7683333,-86.1580556,False
+106,02-Aug-13,New Jersey,Newark,Livingston St. and 18th Avenue,2,3,2013,NJ,us,40.73555560000001,-74.17277779999998,False
+107,30-Jul-13,New Mexico,Hobbs,2000 block of North Bensing Rd,0,4,2013,NM,us,32.7025,-103.1355556,False
+108,29-Jul-13,Washington,Granger,300 block of S. Outlook Rd.,0,4,2013,WA,us,46.3422222,-120.1861111,False
+109,26-Jul-13,Florida,Hialeah,1485 W 46th St,7,0,2013,FL,us,25.8572222,-80.2783333,False
+110,26-Jul-13,West Virginia,Clarksburg,743 Locust Avenue,4,0,2013,WV,us,39.28055560000001,-80.3447222,False
+111,25-Jul-13,Michigan,Inkster,Oakwood Street,0,4,2013,MI,us,42.2941667,-83.31,False
+112,24-Jul-13,Kansas,Topeka,221 SE Lawrence St,0,4,2013,KS,us,39.0483333,-95.6777778,False
+113,21-Jul-13,New York,Brooklyn,1445 Lincoln Place,0,4,2013,NY,us,40.65,-73.95,False
+114,20-Jul-13,New York,Brooklyn,Grove Street,0,5,2013,NY,us,40.65,-73.95,False
+115,19-Jul-13,Connecticut,Hartford,3155 Main St,0,4,2013,CT,us,41.76361110000001,-72.6855556,False
+116,19-Jul-13,California,Madera,Yosemite Avenue and Cleveland,0,4,2013,CA,us,36.9613889,-120.0597222,False
+117,17-Jul-13,California,Oakland,3400 block of Wilson Avenue,1,3,2013,CA,us,37.8044444,-122.2697222,False
+118,14-Jul-13,Kansas,Wichita,11th Street and Mead,1,4,2013,KS,us,37.6922222,-97.3372222,False
+119,14-Jul-13,Michigan,Grand Rapids,Farmview Ct SE,0,5,2013,MI,us,42.9633333,-85.6680556,False
+120,13-Jul-13,Ohio,Campbell,Seventh Street,0,4,2013,OH,us,41.0783333,-80.5994444,False
+121,13-Jul-13,District of Columbia,Washington,2700 block of Stanton Road,0,4,2013,,,47.751076,-120.740135,True
+122,13-Jul-13,Oklahoma,Oklahoma City,5405 N. Lincoln Blvd,1,3,2013,OK,us,35.4675,-97.5161111,False
+123,13-Jul-13,New Jersey,Trenton,1100 block of Deutz Ave,1,4,2013,NJ,us,40.2169444,-74.7433333,False
+124,12-Jul-13,Kentucky,Greensburg,194 C Mays Rd,2,2,2013,KY,us,37.2608333,-85.49888890000003,False
+125,12-Jul-13,California,San Francisco,3192 16th St,1,3,2013,CA,us,37.775,-122.4183333,False
+126,11-Jul-13,North Carolina,Charlotte,6300 block of Reagan Drive,2,2,2013,NC,us,35.226944399999994,-80.8433333,False
+127,09-Jul-13,Illinois,Rockford,600 block of Woodlawn Avenue,2,2,2013,IL,us,42.27111110000001,-89.09388890000002,False
+128,09-Jul-13,Maryland,Baltimore,600 block of N. Carrollton Ave,0,4,2013,MD,us,39.2902778,-76.6125,False
+129,07-Jul-13,Florida,Pompano Beach,1600 block of Northwest 7th Lane,1,3,2013,FL,us,26.2375,-80.125,False
+130,07-Jul-13,California,Stockton,2600 block of Connecticut Avenue,1,4,2013,CA,us,37.9577778,-121.2897222,False
+131,07-Jul-13,Mississippi,Meridian,2500 block of 5th Street,0,4,2013,MS,us,32.3641667,-88.70361109999997,False
+132,07-Jul-13,Illinois,Chicago,11300 block of South Forest Avenue,0,5,2013,IL,us,41.85,-87.65,False
+133,06-Jul-13,Alabama,Florence,West Mobile Street,0,4,2013,AL,us,34.7997222,-87.6772222,False
+134,06-Jul-13,New York,Brooklyn,472 Marcy Avenue,1,3,2013,NY,us,40.65,-73.95,False
+135,04-Jul-13,Michigan,Pontiac,441 N Perry St,1,6,2013,MI,us,42.6388889,-83.2911111,False
+136,04-Jul-13,Illinois,Chicago,6000 block of South Cottage Grove Avenue,0,4,2013,IL,us,41.85,-87.65,False
+137,01-Jul-13,Texas,Fort Worth,2900 block of Pate Drive,4,0,2013,TX,us,32.7252778,-97.3205556,False
+138,30-Jun-13,New York,Brooklyn,616 E. 52nd Street,0,9,2013,NY,us,40.65,-73.95,False
+139,30-Jun-13,Colorado,Aurora,2300 block of Paris St,0,4,2013,CO,us,39.7294444,-104.8313889,False
+140,29-Jun-13,South Carolina,North Charleston,4400 Dorchester Road; Suite 115,3,1,2013,SC,us,32.8544444,-79.975,False
+141,28-Jun-13,Illinois,Chicago,4800 block of North Sheridan Road,0,6,2013,IL,us,41.85,-87.65,False
+142,27-Jun-13,California,Three Rivers,39553-39833 Sierra Dr,2,2,2013,CA,us,36.4388889,-118.9036111,False
+143,25-Jun-13,Illinois,Chicago,73rd Street and King Drive,1,4,2013,IL,us,41.85,-87.65,False
+144,24-Jun-13,Missouri,Kansas City,1711 Kansas Avenue,1,3,2013,MO,us,39.0997222,-94.5783333,False
+145,23-Jun-13,Virginia,Virginia Beach,4600 block of Columbus Street,1,4,2013,VA,us,36.8527778,-75.9783333,False
+146,23-Jun-13,Louisiana,New Orleans,5700 block of Wickfield Drive,0,4,2013,LA,us,29.9544444,-90.075,False
+147,23-Jun-13,Missouri,Kansas City,1917 Prospect Ave,1,8,2013,MO,us,39.0997222,-94.5783333,False
+148,23-Jun-13,California,Sacramento,Sea Drift Way,1,3,2013,CA,us,38.5816667,-121.4933333,False
+149,23-Jun-13,Tennessee,Chattanooga,1501 Dodds Ave,1,4,2013,TN,us,35.04555560000001,-85.30972220000002,False
+150,22-Jun-13,Rhode Island,Providence,55 Curtis,0,4,2013,RI,us,41.8238889,-71.4133333,False
+151,22-Jun-13,Maryland,Baltimore,700 block of N. Kenwood Avenue,1,4,2013,MD,us,39.2902778,-76.6125,False
+152,21-Jun-13,Illinois,Chicago,2900 block of North Kilpatrick Avenue,1,3,2013,IL,us,41.85,-87.65,False
+153,21-Jun-13,North Carolina,Greenville,205 Greenville Blvd SW,0,5,2013,NC,us,35.6125,-77.3666667,False
+154,21-Jun-13,Virginia,Norfolk,1225 Tidewater Drive,0,6,2013,VA,us,36.8466667,-76.2855556,False
+155,16-Jun-13,Illinois,Chicago,900block of East 79th Street,1,3,2013,IL,us,41.85,-87.65,False
+156,15-Jun-13,Texas,Houston,9780 Bissonnet,1,3,2013,TX,us,29.763055600000005,-95.3630556,False
+157,15-Jun-13,Tennessee,Nashville,135 Brinkhaven Ave,0,4,2013,TN,us,36.1658333,-86.7844444,False
+158,15-Jun-13,Rhode Island,Providence,256 Hartford Ave,1,3,2013,RI,us,41.8238889,-71.4133333,False
+159,14-Jun-13,North Carolina,High Point,2201 Little Avenue,0,5,2013,NC,us,35.95555560000001,-80.0055556,False
+160,10-Jun-13,Illinois,Chicago,5700 block of South Sangamon Street,1,4,2013,IL,us,41.85,-87.65,False
+161,10-Jun-13,Missouri,Saint Louis,4700 block of Highland Ave,0,6,2013,MO,us,38.6272222,-90.1977778,False
+162,09-Jun-13,Pennsylvania,York,600 block of West Princess Street,0,4,2013,PA,us,39.9625,-76.7280556,False
+163,07-Jun-13,California,Santa Monica,2036 Yorkshire Avenue,6,1,2013,CA,us,34.0194444,-118.4902778,False
+164,02-Jun-13,Georgia,Lagrange,Union Street,0,7,2013,GA,,33.03788,-85.03006,True
+165,02-Jun-13,Virginia,Virginia Beach,4000 block of Roebling Lane,0,7,2013,VA,us,36.8527778,-75.9783333,False
+166,02-Jun-13,Indiana,Indianapolis,1913 East 46th Street,0,4,2013,IN,us,39.7683333,-86.1580556,False
+167,01-Jun-13,California,Vallejo,1st block of Linfield Drive,2,2,2013,CA,us,38.1041667,-122.25555559999998,False
+168,01-Jun-13,Wisconsin,Milwaukee,4126 N Teutonia Ave,0,4,2013,WI,us,43.0388889,-87.90638890000002,False
+169,31-May-13,Georgia,Atlanta,1000 block of Fair Street,0,4,2013,GA,us,33.7488889,-84.3880556,False
+170,29-May-13,Illinois,Chicago,,0,4,2013,IL,us,41.85,-87.65,False
+171,28-May-13,Tennessee,Memphis,2850 Brewer Avenue,1,3,2013,TN,us,35.14944439999999,-90.04888890000002,False
+172,25-May-13,Virginia,Hampton,1900 block of Coliseum Drive,1,4,2013,VA,us,37.0297222,-76.3455556,False
+173,25-May-13,Michigan,Flint,1100 block of Paterson,1,3,2013,MI,us,43.0125,-83.6875,False
+174,24-May-13,California,Bakersfield,3700 block of Columbus Street,2,2,2013,CA,us,35.3733333,-119.0177778,False
+175,23-May-13,Tennessee,Bean Station,1034 Main Street,2,2,2013,TN,us,36.3436111,-83.2841667,False
+176,20-May-13,Illinois,Chicago,5200 block of West Iowa Street,0,4,2013,IL,us,41.85,-87.65,False
+177,19-May-13,Michigan,Detroit,,0,4,2013,MI,us,42.33138889999999,-83.0458333,False
+178,19-May-13,Tennessee,Memphis,2281 Ketchum Rd,2,2,2013,TN,us,35.14944439999999,-90.04888890000002,False
+179,18-May-13,Virginia,Victoria,2073 Pleasant Oak Rd,0,4,2013,VA,us,36.9947222,-78.2275,False
+180,16-May-13,Pennsylvania,Philadelphia,2600 block of Daggett Street,0,4,2013,PA,us,39.9522222,-75.1641667,False
+181,15-May-13,Michigan,Detroit,9000 block of Carlin,1,4,2013,MI,us,42.33138889999999,-83.0458333,False
+182,13-May-13,Ohio,Cincinnati,Kings Run Road,0,4,2013,OH,us,39.1619444,-84.4569444,False
+183,12-May-13,Louisiana,New Orleans,Frenchmen Street,0,19,2013,LA,us,29.9544444,-90.075,False
+184,12-May-13,Arizona,Apache Junction,3600 block of East Apache Trail,0,5,2013,AZ,us,33.415,-111.5488889,False
+185,11-May-13,Indiana,Columbus,E Main Cross St,5,0,2013,IN,us,39.2013889,-85.92138890000003,False
+186,11-May-13,New Jersey,Jersey City,Fremont Street,0,4,2013,NJ,us,40.72805560000001,-74.0780556,False
+187,11-May-13,Pennsylvania,Philadelphia,21st Street and Medary Avenue,0,4,2013,PA,us,39.9522222,-75.1641667,False
+188,10-May-13,California,Los Angeles,1600 block of West 205th Street,3,1,2013,CA,us,34.0522222,-118.2427778,False
+189,06-May-13,Pennsylvania,Johnstown,Horner and Messenger streets,0,4,2013,PA,us,40.3266667,-78.92222220000002,False
+190,05-May-13,California,Palo Alto,Bay Road and University Avenue,0,5,2013,CA,us,37.4419444,-122.1419444,False
+191,04-May-13,North Carolina,Smithfield,150 South Equity Drive,0,4,2013,NC,us,35.5083333,-78.33972220000003,False
+192,02-May-13,New Jersey,Newark,804 S. 16th St,0,5,2013,NJ,us,40.73555560000001,-74.17277779999998,False
+193,28-Apr-13,Tennessee,Jackson,438 East Main Street,2,2,2013,TN,us,35.6144444,-88.81388890000002,False
+194,28-Apr-13,Pennsylvania,Chester,Rose and Upland Street,1,3,2013,PA,us,39.8494444,-75.35611109999998,False
+195,28-Apr-13,North Carolina,Charlotte,William Reynolds Drive,0,5,2013,NC,us,35.226944399999994,-80.8433333,False
+196,27-Apr-13,Florida,Williston,County Road 318,1,3,2013,FL,us,29.3872222,-82.4469444,False
+197,25-Apr-13,Ohio,Oberlin,500 block of West College Street,0,4,2013,OH,us,41.2938889,-82.2175,False
+198,24-Apr-13,Illinois,Manchester,East Street,6,1,2013,IL,us,39.5422222,-90.3322222,False
+199,22-Apr-13,Louisiana,Harvey,2300 block of Lapalco Boulevard,0,5,2013,LA,us,29.9033333,-90.0772222,False
+200,22-Apr-13,Illinois,Chicago,5700 block of South Lowe Avenue,0,4,2013,IL,us,41.85,-87.65,False
+201,21-Apr-13,Washington,Federal Way,33300 block of 18th Lane South,5,0,2013,WA,us,47.3225,-122.3113889,False
+202,18-Apr-13,Ohio,Akron,Kimlyn Circle,4,0,2013,OH,us,41.08138889999999,-81.5191667,False
+203,14-Apr-13,Arizona,Phoenix,12400 North 25th Avenue,2,4,2013,AZ,us,33.4483333,-112.0733333,False
+204,14-Apr-13,Kentucky,Lexington,750 East New Circle Rd,1,4,2013,KY,us,37.9886111,-84.4777778,False
+205,10-Apr-13,California,Vallejo,1800 block of Mini Drive,0,4,2013,CA,us,38.1041667,-122.25555559999998,False
+206,09-Apr-13,Pennsylvania,Philadelphia,Somerset Street and Lee Street,1,3,2013,PA,us,39.9522222,-75.1641667,False
+207,07-Apr-13,California,Long Beach,300 block of East Home Street,1,3,2013,CA,us,33.76694439999999,-118.18833329999998,False
+208,07-Apr-13,New York,New York,900 Garden Way,1,3,2013,NY,us,40.7141667,-74.0063889,False
+209,06-Apr-13,South Carolina,Greenwood,Tabor Street,1,4,2013,SC,us,34.1952778,-82.1619444,False
+210,31-Mar-13,Washington,Auburn,2802 Auburn Way North,3,2,2013,WA,us,47.3075,-122.2272222,False
+211,30-Mar-13,California,Merced,9200 block of Westside Boulevard,3,2,2013,CA,us,37.3022222,-120.48194440000002,False
+212,22-Mar-13,New York,Brooklyn,2703 W. 33rd Street,1,3,2013,NY,us,40.65,-73.95,False
+213,21-Mar-13,Missouri,Kansas City,4900 block of Brookside Blvd,1,3,2013,MO,us,39.0997222,-94.5783333,False
+214,21-Mar-13,Illinois,Chicago,West 87th Street and Ashland Avenue,0,7,2013,IL,us,41.85,-87.65,False
+215,17-Mar-13,Florida,Belle Glade,Northwest 16th Street and Northwest Avenue L,0,5,2013,FL,us,26.6841667,-80.6677778,False
+216,17-Mar-13,California,Stockton,1800 block of East Sonora Street,2,3,2013,CA,us,37.9577778,-121.2897222,False
+217,16-Mar-13,California,Galt,Dover Drive,0,7,2013,CA,us,38.2547222,-121.2988889,False
+218,14-Mar-13,California,Modesto,1400 block of Western Way,0,4,2013,CA,us,37.6391667,-120.9958333,False
+219,13-Mar-13,New York,Mohawk,17 W Main St,6,2,2013,NY,us,43.0113889,-75.0044444,False
+220,13-Mar-13,California,Oceanside,504 Calle Montecito,2,2,2013,CA,us,33.1958333,-117.3786111,False
+221,11-Mar-13,District of Columbia,Washington,1200 North Capitol Street,0,13,2013,,,47.751076,-120.740135,True
+222,10-Mar-13,Missouri,Kansas City,9331 Hillcrest Rd,0,5,2013,MO,us,39.0997222,-94.5783333,False
+223,07-Mar-13,Mississippi,Jackson,2900 block of Greenwood Avenue,2,2,2013,MS,us,32.2986111,-90.1847222,False
+224,05-Mar-13,Indiana,Indianapolis,1800 block of Edinburge Square,1,3,2013,IN,us,39.7683333,-86.1580556,False
+225,04-Mar-13,California,Los Banos,800 block of La Mesa Lane,1,3,2013,CA,us,37.0583333,-120.8488889,False
+226,03-Mar-13,Michigan,Saginaw,4030 Dixie Hwy,0,4,2013,MI,us,43.4194444,-83.9508333,False
+227,03-Mar-13,Georgia,Moultrie,224 Second Street Northwest,2,2,2013,GA,us,31.1797222,-83.7891667,False
+228,02-Mar-13,Louisiana,Shreveport,7000 block of Burlingame Boulevard,1,3,2013,LA,us,32.525,-93.75,False
+229,24-Feb-13,Georgia,Macon,2800 block of Mercer University Drive,0,8,2013,GA,us,32.8405556,-83.6325,False
+230,23-Feb-13,California,Lancaster,43145 Business Center Parkway,0,4,2013,CA,us,34.6980556,-118.1358333,False
+231,22-Feb-13,Michigan,Grand Rapids,1447 Grandville Ave. SW,0,4,2013,MI,us,42.9633333,-85.6680556,False
+232,21-Feb-13,Oklahoma,Tulsa,1200 block of North 89th East Avenue,1,3,2013,OK,us,36.1538889,-95.9925,False
+233,19-Feb-13,California,Orange,Katella Avenue,4,3,2013,CA,us,33.7877778,-117.8522222,False
+234,12-Feb-13,Utah,Midvale,8286 Adams Street and 450 West Street,4,1,2013,UT,us,40.6111111,-111.8991667,False
+235,11-Feb-13,Delaware,Wilmington,500 North King Street,3,2,2013,DE,us,39.7458333,-75.5469444,False
+236,11-Feb-13,California,Vallejo,800 block of Humboldt Street,1,4,2013,CA,us,38.1041667,-122.25555559999998,False
+237,09-Feb-13,Louisiana,New Orleans,400 block of Bourbon Street,0,4,2013,LA,us,29.9544444,-90.075,False
+238,07-Feb-13,Illinois,Chicago,2500 block of East 75th Street,0,4,2013,IL,us,41.85,-87.65,False
+239,03-Feb-13,California,Yuba,5800 block of Poplar Avenue,1,3,2013,CA,,39.136986,-121.607841,True
+240,02-Feb-13,Tennessee,Memphis,2514 Mount Moriah,0,5,2013,TN,us,35.14944439999999,-90.04888890000002,False
+241,26-Jan-13,Ohio,Springfield,601 West Main Street,1,3,2013,OH,us,39.9241667,-83.80888890000001,False
+242,26-Jan-13,District of Columbia,Washington,2403 Benning Road Northeast,0,5,2013,,,47.751076,-120.740135,True
+243,26-Jan-13,Louisiana,Charenton,1000 block of Flat Town Road,2,3,2013,LA,us,29.8813889,-91.525,False
+244,25-Jan-13,Missouri,Saint Louis,W Florissant Ave and Riverview Blvd,1,3,2013,MO,us,38.6272222,-90.1977778,False
+245,23-Jan-13,Tennessee,Chattanooga,1501 Dodds Ave,1,3,2013,TN,us,35.04555560000001,-85.30972220000002,False
+246,23-Jan-13,Maryland,Baltimore,1500 block of W. Fayette St.,1,6,2013,MD,us,39.2902778,-76.6125,False
+247,21-Jan-13,California,Brentwood,1100 block of Breton Drive,0,4,2013,CA,us,37.9319444,-121.6947222,False
+248,21-Jan-13,Louisiana,New Orleans,LaSalle Street and Martin Luther King Jr. Boulevard,0,5,2013,LA,us,29.9544444,-90.075,False
+249,19-Jan-13,New Mexico,Albuquerque,2806 Long Lane,5,0,2013,NM,us,35.084444399999995,-106.6505556,False
+250,07-Jan-13,Oklahoma,Tulsa,6000 block of South Owasso,4,0,2013,OK,us,36.1538889,-95.9925,False
+251,01-Jan-13,California,Hawthorne,13500 block of Cerise Avenue,1,3,2013,CA,us,33.916388899999994,-118.3516667,False
+252,01-Jan-13,Pennsylvania,Mckeesport,1506 Versailles Avenue and Coursin Street,0,4,2013,PA,,40.3470671,-79.8641232,True
+253,31-Dec-14,California,Los Angeles,81st Street and Western Avenue,1,3,2014,CA,us,34.0522222,-118.2427778,False
+254,29-Dec-14,Louisiana,New Orleans,Poydras and Bolivar,0,4,2014,LA,us,29.9544444,-90.075,False
+255,27-Dec-14,California,Los Angeles,8800 block of South Figueroa Street,1,3,2014,CA,us,34.0522222,-118.2427778,False
+256,27-Dec-14,California,Sacramento,4000 block of May Street,0,4,2014,CA,us,38.5816667,-121.4933333,False
+257,26-Dec-14,Illinois,East St. Louis,2500 block of Summit Avenue,1,3,2014,IL,,38.624514,-90.1506465,True
+258,24-Dec-14,Missouri,Saint Louis,18th and Pine,1,3,2014,MO,us,38.6272222,-90.1977778,False
+259,23-Dec-14,Kentucky,Winchester,260 Oxford Drive,1,3,2014,KY,us,37.99,-84.1797222,False
+260,22-Dec-14,New York,Webster,191 Lake Road,3,2,2014,NY,us,43.2122222,-77.4302778,False
+261,22-Dec-14,Michigan,Detroit,Charlevoix and Philip,1,3,2014,MI,us,42.33138889999999,-83.0458333,False
+262,22-Dec-14,Illinois,Chicago,5700 block of South Green Street,0,5,2014,IL,us,41.85,-87.65,False
+263,21-Dec-14,Florida,Sarasota,South Washington Boulevard,2,2,2014,FL,us,27.336111100000004,-82.5308333,False
+264,21-Dec-14,Mississippi,Waynesboro,Central Avenue,1,4,2014,MS,us,31.6747222,-88.64611109999998,False
+265,21-Dec-14,Illinois,Calumet City,600 block of Escanba,1,8,2014,IL,us,41.61555560000001,-87.5294444,False
+266,20-Dec-14,Illinois,Rockford,3200 block of Montrose Avenue,4,0,2014,IL,us,42.27111110000001,-89.09388890000002,False
+267,16-Dec-14,New Jersey,Elizabeth,Anna Street,0,4,2014,NJ,us,40.6638889,-74.2111111,False
+268,14-Dec-14,Florida,Miami,1311 Northwest 2nd Avenue,1,4,2014,FL,us,25.7738889,-80.1938889,False
+269,13-Dec-14,Florida,Tampa,810 E. Skagway Ave.,0,5,2014,FL,us,27.9472222,-82.45861109999998,False
+270,12-Dec-14,Oregon,Portland,717 North Killingsworth Court,0,4,2014,OR,us,45.5236111,-122.675,False
+271,12-Dec-14,Georgia,Macon,2822 Bloomfield Drive,3,3,2014,GA,us,32.8405556,-83.6325,False
+272,07-Dec-14,Indiana,South Bend,16000 block of Roosevelt Road,0,4,2014,IN,us,41.6833333,-86.25,False
+273,02-Dec-14,Missouri,Saint Louis,6000 block of Virginia Avenue,1,5,2014,MO,us,38.6272222,-90.1977778,False
+274,02-Dec-14,Virginia,Newport News,6128 Jefferson Ave,0,5,2014,VA,us,36.9786111,-76.42833329999998,False
+275,30-Nov-14,New York,Brooklyn,375 Remsen Avenue,0,4,2014,NY,us,40.65,-73.95,False
+276,30-Nov-14,Tennessee,Chattanooga,2412 East 13th Street,0,5,2014,TN,us,35.04555560000001,-85.30972220000002,False
+277,29-Nov-14,Georgia,Atlanta,1600 block of Richmond Avenue,3,2,2014,GA,us,33.7488889,-84.3880556,False
+278,29-Nov-14,New Jersey,Newark,348 S Orange Ave,1,3,2014,NJ,us,40.73555560000001,-74.17277779999998,False
+279,28-Nov-14,Tennessee,Memphis,1849 East Brooks Road,0,4,2014,TN,us,35.14944439999999,-90.04888890000002,False
+280,27-Nov-14,Texas,Georgetown,Pvt Rd 934,2,3,2014,TX,us,30.6325,-97.6769444,False
+281,26-Nov-14,California,San Francisco,Mission and 13th streets,0,6,2014,CA,us,37.775,-122.4183333,False
+282,23-Nov-14,Virginia,Accomack County,Parksley Road,0,4,2014,VA,,37.7501289,-75.6663182,True
+283,23-Nov-14,Colorado,Denver,Federal Boulevard and 16th Avenue,1,4,2014,CO,us,39.7391667,-104.98416670000002,False
+284,22-Nov-14,Ohio,Cleveland,1400 block of East 92nd Street,4,1,2014,OH,us,41.4994444,-81.69555559999998,False
+285,22-Nov-14,South Dakota,Sisseton,Fourth Avenue,4,1,2014,SD,us,45.6647222,-97.0494444,False
+286,22-Nov-14,Ohio,Springfield,Clifton Avenue and Rice Street,1,3,2014,OH,us,39.9241667,-83.80888890000001,False
+287,21-Nov-14,Pennsylvania,Pittsburgh,600 block of Miller Avenue,0,6,2014,PA,us,40.4405556,-79.9961111,False
+288,19-Nov-14,Illinois,Chicago,700 block of North St. Louis Avenue,1,3,2014,IL,us,41.85,-87.65,False
+289,18-Nov-14,Nevada,North Las Vegas,Englestad Street,0,4,2014,NV,us,36.1988889,-115.1166667,False
+290,16-Nov-14,Ohio,Akron,1891 East Market Street,1,4,2014,OH,us,41.08138889999999,-81.5191667,False
+291,16-Nov-14,Texas,El Paso,115 S. Durango,0,6,2014,TX,us,31.758611100000003,-106.4863889,False
+292,15-Nov-14,Missouri,Springfield,2555 N. Glenstone,4,0,2014,MO,us,37.2152778,-93.2980556,False
+293,15-Nov-14,Florida,Miami,NW 55th and 12th,1,3,2014,FL,us,25.7738889,-80.1938889,False
+294,08-Nov-14,California,Pomona,499 E. Arrow Highway,0,5,2014,CA,us,34.0552778,-117.7513889,False
+295,07-Nov-14,California,Compton,136th Street,0,4,2014,CA,us,33.8958333,-118.21916670000002,False
+296,07-Nov-14,California,Los Angeles,East 126th Street and North Compton Avenue,0,4,2014,CA,us,34.0522222,-118.2427778,False
+297,05-Nov-14,California,San Francisco,1100 block of Alabama Street,0,4,2014,CA,us,37.775,-122.4183333,False
+298,29-Oct-14,Tennessee,Memphis,Yale Road and Ramill Road,0,5,2014,TN,us,35.14944439999999,-90.04888890000002,False
+299,26-Oct-14,Kentucky,Cadiz,1410 Old Dover Road,4,0,2014,KY,us,36.865,-87.8352778,False
+300,24-Oct-14,Washington,Marysville,5611 108th St Ne,5,1,2014,WA,us,48.0519444,-122.1758333,False
+301,24-Oct-14,California,Sacramento,2030 Arden Way,2,3,2014,CA,us,38.5816667,-121.4933333,False
+302,18-Oct-14,New York,Queens,33-02 Queens Blvd,0,4,2014,NY,,40.742054,-73.769417,True
+303,18-Oct-14,South Carolina,Graniteville,192 Breezy Hill Road,1,3,2014,SC,us,33.5636111,-81.8080556,False
+304,18-Oct-14,New York,Brooklyn,Lenox Road,0,4,2014,NY,us,40.65,-73.95,False
+305,16-Oct-14,Michigan,Detroit,Mogul Street,1,3,2014,MI,us,42.33138889999999,-83.0458333,False
+306,14-Oct-14,Georgia,Peachtree Corners,6505 Bannor Lane,3,2,2014,GA,us,33.97,-84.2216667,False
+307,13-Oct-14,Georgia,Atlanta,85 Mount Zion Road,0,4,2014,GA,us,33.7488889,-84.3880556,False
+308,12-Oct-14,California,Stockton,1100 block of East March Lane,3,1,2014,CA,us,37.9577778,-121.2897222,False
+309,12-Oct-14,Georgia,Atlanta,Arthur Langford Jr Place,1,3,2014,GA,us,33.7488889,-84.3880556,False
+310,11-Oct-14,New York,Utica,222 Bleecker Street,0,5,2014,NY,us,43.1008333,-75.2330556,False
+311,08-Oct-14,Georgia,Atlanta,Auburn Avenue and Edgewood Avenue,0,4,2014,GA,us,33.7488889,-84.3880556,False
+312,08-Oct-14,New York,Guilderland,1846 Western Ave,4,0,2014,NY,us,42.70444439999999,-73.9119444,False
+313,05-Oct-14,Michigan,Detroit,East 7 Mile Road and Sherwood Street,1,5,2014,MI,us,42.33138889999999,-83.0458333,False
+314,05-Oct-14,Florida,Jacksonville,7300 block of Linda Drive,3,1,2014,FL,us,30.3319444,-81.6558333,False
+315,04-Oct-14,Tennessee,Memphis,1400 block of Gherald Street,2,2,2014,TN,us,35.14944439999999,-90.04888890000002,False
+316,04-Oct-14,California,Pomona,1925 West Holt Avenue,0,4,2014,CA,us,34.0552778,-117.7513889,False
+317,29-Sep-14,South Carolina,Walterboro,29 Sandy Dam Lane,1,7,2014,SC,us,32.905,-80.6669444,False
+318,29-Sep-14,California,Fresno,2300 block of West Fountain Way,0,4,2014,CA,us,36.7477778,-119.7713889,False
+319,28-Sep-14,Pennsylvania,Philadelphia,2800 block of Hope Street,0,4,2014,PA,us,39.9522222,-75.1641667,False
+320,28-Sep-14,Florida,Miami,NW 7th Ave and NW 64th Street,0,15,2014,FL,us,25.7738889,-80.1938889,False
+321,27-Sep-14,Missouri,Saint Louis,2000 block East John Avenue,0,5,2014,MO,us,38.6272222,-90.1977778,False
+322,26-Sep-14,South Carolina,Darlington County,600 block of Turner Road,1,4,2014,SC,,34.365,-80.0088,True
+323,21-Sep-14,Ohio,East Liverpool,440 First St,0,4,2014,OH,us,40.6186111,-80.5775,False
+324,20-Sep-14,Mississippi,Panola County,,2,2,2014,MS,,32.192,-94.3154,True
+325,19-Sep-14,New York,Queens,32-14 106th St,0,4,2014,NY,,40.742054,-73.769417,True
+326,18-Sep-14,Florida,Bell,NW 30th Street and NW 39th Terrace,8,0,2014,FL,us,29.7552778,-82.86277779999998,False
+327,15-Sep-14,Louisiana,New Orleans,Chef Menteur Highway and Dale Street,0,5,2014,LA,us,29.9544444,-90.075,False
+328,14-Sep-14,Texas,Flour Bluff,229 Naval Air Station Drive,3,1,2014,TX,us,27.6736111,-97.2786111,False
+329,14-Sep-14,Alaska,Anchorage,225 E Fifth,0,6,2014,AK,us,61.2180556,-149.90027780000003,False
+330,11-Sep-14,Michigan,Detroit,14000 block of Patton,1,7,2014,MI,us,42.33138889999999,-83.0458333,False
+331,06-Sep-14,Florida,Orlando,2015 Orange Blossom Trail,0,4,2014,FL,us,28.538055600000003,-81.3794444,False
+332,06-Sep-14,Georgia,Macon,576 Poplar Street,0,5,2014,GA,us,32.8405556,-83.6325,False
+333,04-Sep-14,Michigan,Flint,2400 block of Martin Luther King Boulevard,0,5,2014,MI,us,43.0125,-83.6875,False
+334,03-Sep-14,California,Los Angeles,East 27th and Stanford,0,6,2014,CA,us,34.0522222,-118.2427778,False
+335,02-Sep-14,California,Highland,25000 block of Fifth Street,0,5,2014,CA,us,34.1283333,-117.2077778,False
+336,02-Sep-14,Mississippi,Jackson,3622 Medgar Evers Boulevard,2,3,2014,MS,us,32.2986111,-90.1847222,False
+337,31-Aug-14,California,Livermore,200 block of South Q Street,0,5,2014,CA,us,37.6819444,-121.7669444,False
+338,29-Aug-14,Florida,Brooksville,820 Peach St,3,1,2014,FL,us,28.555,-82.3880556,False
+339,27-Aug-14,Michigan,Detroit,16600 block of Edmore,1,3,2014,MI,us,42.33138889999999,-83.0458333,False
+340,24-Aug-14,California,San Fernando,1400 block of Celis Street,3,4,2014,CA,us,34.28194439999999,-118.43805559999998,False
+341,24-Aug-14,Illinois,Chicago,8300 block of South Halsted Street,1,3,2014,IL,us,41.85,-87.65,False
+342,24-Aug-14,Georgia,Augusta,1013 Carrie Street,1,3,2014,GA,us,33.470833299999995,-81.975,False
+343,20-Aug-14,Tennessee,Memphis,1400 block of Briarcrest Lane,0,5,2014,TN,us,35.14944439999999,-90.04888890000002,False
+344,18-Aug-14,Louisiana,Saint Martinville,Main and Hyacinth streets,0,4,2014,LA,us,30.125,-91.8333333,False
+345,17-Aug-14,California,East Palo Alto,Purdue Street and Georgetown Avenue,1,3,2014,CA,us,37.4688889,-122.14,False
+346,17-Aug-14,Nevada,Las Vegas,Owens Avenue and H Street,0,4,2014,NV,us,36.175,-115.1363889,False
+347,17-Aug-14,New York,Queens,153-38 118th Ave,0,4,2014,NY,,40.742054,-73.769417,True
+348,17-Aug-14,Massachusetts,Boston,Edinboro Street,0,4,2014,MA,us,42.3583333,-71.0602778,False
+349,16-Aug-14,New Jersey,Plainfield,West 3rd Street and Monroe Avenue,1,3,2014,NJ,us,40.6336111,-74.40777779999998,False
+350,16-Aug-14,Utah,Salt Lake City,122 Pierpont Avenue,0,6,2014,UT,us,40.7608333,-111.8902778,False
+351,14-Aug-14,Tennessee,Memphis,797 Pope Street,1,3,2014,TN,us,35.14944439999999,-90.04888890000002,False
+352,13-Aug-14,Tennessee,Clarksville,Treeland Drive,0,4,2014,TN,us,36.5297222,-87.3594444,False
+353,13-Aug-14,Louisiana,New Orleans,New Orleans and North Rocheblave streets,0,4,2014,LA,us,29.9544444,-90.075,False
+354,12-Aug-14,New York,Buffalo,Oakmont Avenue,1,3,2014,NY,us,42.8863889,-78.87861109999999,False
+355,12-Aug-14,Georgia,Bartow County,Brent Circle,2,3,2014,GA,,34.1659305,-84.797716,True
+356,10-Aug-14,Louisiana,New Orleans,5400 block of Burgundy St,2,5,2014,LA,us,29.9544444,-90.075,False
+357,10-Aug-14,California,Moreno Valley,16300 block of Heather Glen Road,0,7,2014,CA,us,33.9375,-117.2297222,False
+358,10-Aug-14,District of Columbia,Washington,N Street SW,0,6,2014,,,47.751076,-120.740135,True
+359,10-Aug-14,Georgia,Wrightsville,,0,6,2014,GA,us,32.7291667,-82.72,False
+360,09-Aug-14,Minnesota,Minneapolis,400 3rd Ave N,1,8,2014,MN,us,44.98,-93.2636111,False
+361,08-Aug-14,Wisconsin,Milwaukee,3000 block of N. 28th Street,0,4,2014,WI,us,43.0388889,-87.90638890000002,False
+362,08-Aug-14,New Mexico,Albuquerque,3426 Vassar NE,1,3,2014,NM,us,35.084444399999995,-106.6505556,False
+363,08-Aug-14,District of Columbia,Washington,Second Street and Todd Place NE,0,4,2014,,,47.751076,-120.740135,True
+364,06-Aug-14,California,Bakersfield,1700 block of Quincy Street,3,1,2014,CA,us,35.3733333,-119.0177778,False
+365,04-Aug-14,Georgia,Atlanta,1100 block of Joseph E. Boone Boulevard NW,0,5,2014,GA,us,33.7488889,-84.3880556,False
+366,03-Aug-14,Texas,Humble,3403 FM 1960,0,7,2014,TX,us,29.998611100000005,-95.2619444,False
+367,03-Aug-14,Missouri,Saint Louis,5200 block of Thekla,0,5,2014,MO,us,38.6272222,-90.1977778,False
+368,03-Aug-14,Virginia,Culpeper,4400 block of Rixeyville Road,5,0,2014,VA,us,38.4730556,-77.9969444,False
+369,03-Aug-14,Tennessee,Columbia,East 9th Street and Bridge Street,0,5,2014,TN,us,35.615,-87.03527779999997,False
+370,02-Aug-14,Texas,Dallas,5125 Wynell Street,3,1,2014,TX,us,32.783333299999995,-96.8,False
+371,02-Aug-14,Massachusetts,New Bedford,Acushnet Avenue,0,7,2014,MA,us,41.6361111,-70.93472220000002,False
+372,02-Aug-14,Pennsylvania,Pittsburgh,Penn Avenue and 29th Street,1,5,2014,PA,us,40.4405556,-79.9961111,False
+373,01-Aug-14,Pennsylvania,Philadelphia,1500 block of South Etting Street,1,3,2014,PA,us,39.9522222,-75.1641667,False
+374,30-Jul-14,North Carolina,Hope Mills,926 Bramblegate Road,3,2,2014,NC,us,34.9702778,-78.94555559999998,False
+375,28-Jul-14,Pennsylvania,Philadelphia,4900 block of North Front Street,1,4,2014,PA,us,39.9522222,-75.1641667,False
+376,27-Jul-14,Missouri,Saint Louis,2000 block of East John Avenue,0,5,2014,MO,us,38.6272222,-90.1977778,False
+377,26-Jul-14,Arkansas,Pine Bluff,,1,3,2014,AR,us,34.2283333,-92.0030556,False
+378,26-Jul-14,Georgia,Sylvester,Royal Street,0,8,2014,GA,us,31.530555600000003,-83.83555559999998,False
+379,26-Jul-14,Maine,Saco,35 Water Street,5,0,2014,ME,us,43.5008333,-70.44333329999998,False
+380,25-Jul-14,Illinois,Chicago,700 South California Avenue,1,6,2014,IL,us,41.85,-87.65,False
+381,23-Jul-14,Pennsylvania,Braddock,700 block of Hickory St,0,4,2014,PA,us,40.4033333,-79.8686111,False
+382,21-Jul-14,Tennessee,Memphis,300 block of Foote Park Lane,0,4,2014,TN,us,35.14944439999999,-90.04888890000002,False
+383,21-Jul-14,New Jersey,Irvington,36 Welland Avenue,0,6,2014,NJ,us,40.7322222,-74.23527779999998,False
+384,20-Jul-14,Illinois,East Saint Louis,5103 block of Bunkum Rd,1,3,2014,IL,us,38.6244444,-90.1508333,False
+385,20-Jul-14,Nevada,Las Vegas,Rancho Drive 3400 block,1,3,2014,NV,us,36.175,-115.1363889,False
+386,19-Jul-14,Illinois,Chicago,1300 North Mason Avenue,0,4,2014,IL,us,41.85,-87.65,False
+387,14-Jul-14,California,Sacramento,Fulton Avenue,1,4,2014,CA,us,38.5816667,-121.4933333,False
+388,13-Jul-14,Connecticut,Stamford,84 West Park Place,0,5,2014,CT,us,41.0533333,-73.5391667,False
+389,13-Jul-14,District of Columbia,Washington,1700 block of Lincoln Road NE,0,4,2014,,,47.751076,-120.740135,True
+390,13-Jul-14,Washington,Skyway,12600 Renton Avenue South,0,5,2014,WA,us,47.4916667,-122.25305559999998,False
+391,12-Jul-14,California,Pasadena,1700 block of Summit Avenue,3,2,2014,CA,us,34.1477778,-118.1436111,False
+392,11-Jul-14,Illinois,Chicago,5200 West Quincy Street,1,3,2014,IL,us,41.85,-87.65,False
+393,09-Jul-14,Texas,Spring,711 Leaflet Ln,6,1,2014,TX,us,30.079722200000006,-95.4169444,False
+394,08-Jul-14,Rhode Island,Providence,35 March Street,0,5,2014,RI,us,41.8238889,-71.4133333,False
+395,07-Jul-14,Kentucky,Stopover,KY 194E,0,4,2014,KY,us,37.5158333,-82.09138890000001,False
+396,07-Jul-14,California,San Bernardino,312 E Baseline Street,1,4,2014,CA,us,34.1083333,-117.2888889,False
+397,06-Jul-14,Florida,Miami,NW 20th Ave and NW 62nd St,2,2,2014,FL,us,25.7738889,-80.1938889,False
+398,06-Jul-14,Missouri,Saint Louis,4600 block of Natural Bridge Avenue,0,4,2014,MO,us,38.6272222,-90.1977778,False
+399,06-Jul-14,New York,Buffalo,100 block of Erb Street,0,4,2014,NY,us,42.8863889,-78.87861109999999,False
+400,05-Jul-14,Michigan,Kalamazoo,,0,4,2014,MI,us,42.2916667,-85.58722220000001,False
+401,05-Jul-14,Oregon,Portland,333 SE 122ND Ave,1,4,2014,OR,us,45.5236111,-122.675,False
+402,05-Jul-14,Indiana,Indianapolis,Broad Ripple Avenue,0,7,2014,IN,us,39.7683333,-86.1580556,False
+403,05-Jul-14,Illinois,Centreville,4700 Piggott Avenue,0,5,2014,IL,us,38.5833333,-90.125,False
+404,05-Jul-14,Texas,Houston,1700 Almeda-Genoa,0,6,2014,TX,us,29.763055600000005,-95.3630556,False
+405,05-Jul-14,Virginia,Norfolk,861 W. 36th Street,0,7,2014,VA,us,36.8466667,-76.2855556,False
+406,04-Jul-14,Virginia,Norfolk,1722 Thurgood Street,0,5,2014,VA,us,36.8466667,-76.2855556,False
+407,02-Jul-14,Pennsylvania,Chester,1400 block of West Congress Street,0,5,2014,PA,us,39.8494444,-75.35611109999998,False
+408,30-Jun-14,Kentucky,Lexington,Scottsdale Circle,1,3,2014,KY,us,37.9886111,-84.4777778,False
+409,29-Jun-14,California,Los Angeles,1100 block of North Vermont Avenue,1,5,2014,CA,us,34.0522222,-118.2427778,False
+410,29-Jun-14,Louisiana,New Orleans,700 Bourbon Street,1,9,2014,LA,us,29.9544444,-90.075,False
+411,29-Jun-14,Missouri,Saint Louis,2800 block of Dayton,0,4,2014,MO,us,38.6272222,-90.1977778,False
+412,28-Jun-14,California,Antioch,5500 Cedar Point Way,0,7,2014,CA,us,38.005,-121.8047222,False
+413,28-Jun-14,New York,Manhattan,Fifth Avenue and West 139th Street,0,4,2014,NY,,40.758896,-73.98513,True
+414,27-Jun-14,California,San Diego,1800 block of Cathy Street,1,3,2014,CA,us,32.7152778,-117.1563889,False
+415,27-Jun-14,California,San Diego,1600 block of Cathy Street,1,3,2014,CA,us,32.7152778,-117.1563889,False
+416,27-Jun-14,Michigan,Detroit,Grand Street and Lasalle Street,2,2,2014,MI,us,42.33138889999999,-83.0458333,False
+417,26-Jun-14,Michigan,Detroit,Grand St,2,2,2014,MI,us,42.33138889999999,-83.0458333,False
+418,26-Jun-14,Wisconsin,Milwaukee,24th and Locust,0,5,2014,WI,us,43.0388889,-87.90638890000002,False
+419,25-Jun-14,Massachusetts,Lowell,Midland Street,0,5,2014,MA,us,42.6333333,-71.3166667,False
+420,24-Jun-14,Florida,Miami,Northwest 12th Avenue and 65th Street,2,7,2014,FL,us,25.7738889,-80.1938889,False
+421,22-Jun-14,California,Windsor,Windsor Avenue,1,3,2014,CA,us,38.5472222,-122.8152778,False
+422,21-Jun-14,District of Columbia,Washington,Florida Avenue and U Street NW,0,4,2014,,,47.751076,-120.740135,True
+423,21-Jun-14,Tennessee,Memphis,2119 East Alcy Road,0,5,2014,TN,us,35.14944439999999,-90.04888890000002,False
+424,20-Jun-14,Maryland,Seat Pleasant,6600 block of Greig Street,0,4,2014,MD,us,38.89611110000001,-76.9069444,False
+425,15-Jun-14,Indiana,Kokomo,5100 Clinton Drive,0,4,2014,IN,us,40.4863889,-86.1336111,False
+426,15-Jun-14,Illinois,Park Forest,200 Berry Street,0,4,2014,IL,us,41.4913889,-87.6744444,False
+427,13-Jun-14,California,Los Angeles,8600 block of South Figueroa Street,3,1,2014,CA,us,34.0522222,-118.2427778,False
+428,09-Jun-14,New Jersey,Paterson,Rosa Parks Boulevard and Godwin Avenue,0,6,2014,NJ,us,40.9166667,-74.17222220000002,False
+429,08-Jun-14,Alabama,Opp,611 Hardin Street,1,4,2014,AL,us,31.2825,-86.2555556,False
+430,07-Jun-14,South Carolina,Moncks Corner,Tish Lane,1,5,2014,SC,us,33.1958333,-80.0133333,False
+431,07-Jun-14,Michigan,Oak Park,10811 W. Ten Mile Rd.,1,3,2014,MI,us,42.4594444,-83.1827778,False
+432,04-Jun-14,Illinois,Chicago,4900 West West End Avenue,1,3,2014,IL,us,41.85,-87.65,False
+433,03-Jun-14,Georgia,Atlanta,Auburn Avenue,1,4,2014,GA,us,33.7488889,-84.3880556,False
+434,02-Jun-14,Illinois,Chicago,2660 E. 79th St,0,7,2014,IL,us,41.85,-87.65,False
+435,01-Jun-14,Illinois,Chicago,West Ferdinand Street and North Lavergne Avenue,1,5,2014,IL,us,41.85,-87.65,False
+436,01-Jun-14,California,Sacramento,6500 46th Street,0,4,2014,CA,us,38.5816667,-121.4933333,False
+437,31-May-14,California,San Bernardino,,1,3,2014,CA,us,34.1083333,-117.2888889,False
+438,25-May-14,Ohio,Toledo,2100 block of Joffre Avenue,1,3,2014,OH,us,41.6638889,-83.5552778,False
+439,24-May-14,Michigan,Detroit,Strathmoor Street,0,4,2014,MI,us,42.33138889999999,-83.0458333,False
+440,24-May-14,South Carolina,Myrtle Beach,Ocean Boulevard near First Avenue North,3,1,2014,SC,us,33.688888899999995,-78.8869444,False
+441,23-May-14,California,Goleta,840 Embarcadero Del Norte,4,8,2014,CA,us,34.4358333,-119.82666670000002,False
+442,23-May-14,Louisiana,New Orleans,6200 block of Eads Street,1,7,2014,LA,us,29.9544444,-90.075,False
+443,23-May-14,California,Bellflower,9541 Flower Street,2,2,2014,CA,us,33.881666700000004,-118.1161111,False
+444,21-May-14,Texas,Dallas,4500 block of Village Fair Drive,1,3,2014,TX,us,32.783333299999995,-96.8,False
+445,18-May-14,Ohio,Sandusky,1643 Cleveland Rd,0,7,2014,OH,us,41.4488889,-82.7080556,False
+446,17-May-14,California,Coachella,84000 block of Pedro Drive,1,3,2014,CA,us,33.6802778,-116.17305559999998,False
+447,17-May-14,District of Columbia,Washington,2200 block of Adams Place NE,0,5,2014,,,47.751076,-120.740135,True
+448,13-May-14,Georgia,Atlanta,Panther Trail and Childress Drive,0,5,2014,GA,us,33.7488889,-84.3880556,False
+449,12-May-14,Illinois,Chicago,3400 West 24th Street,0,4,2014,IL,us,41.85,-87.65,False
+450,11-May-14,California,Sacramento,Peregrine Park,1,6,2014,CA,us,38.5816667,-121.4933333,False
+451,11-May-14,Tennessee,Memphis,2517 Shasta,0,7,2014,TN,us,35.14944439999999,-90.04888890000002,False
+452,10-May-14,Georgia,Stone Mountain,1100 To Lani Farm Road,1,3,2014,GA,us,33.8080556,-84.1702778,False
+453,10-May-14,California,Sacramento,Natomas,1,6,2014,CA,us,38.5816667,-121.4933333,False
+454,10-May-14,Georgia,Decatur,Shamrock Drive,2,3,2014,GA,us,33.7747222,-84.29638890000003,False
+455,04-May-14,Illinois,Chicago,500 West Erie Street,1,3,2014,IL,us,41.85,-87.65,False
+456,04-May-14,Colorado,Wheat Ridge,12100 W 44th,0,4,2014,CO,us,39.7661111,-105.07666670000002,False
+457,03-May-14,Arkansas,Jonesboro,2201 Moore Road; Dalton Farmer Drive; County Road 664,4,4,2014,AR,us,35.8422222,-90.7041667,False
+458,30-Apr-14,Illinois,Chicago,7200 South Phillips Avenue,0,4,2014,IL,us,41.85,-87.65,False
+459,29-Apr-14,Georgia,Kennesaw,1675 Airport Road,1,6,2014,GA,us,34.0233333,-84.6155556,False
+460,27-Apr-14,New York,Troy,Fourth Street,0,5,2014,NY,us,42.7283333,-73.6922222,False
+461,25-Apr-14,Tennessee,Memphis,2000 Chelsea Avenue,2,3,2014,TN,us,35.14944439999999,-90.04888890000002,False
+462,22-Apr-14,California,Los Angeles,6419 Brynhurst Avenue,1,3,2014,CA,us,34.0522222,-118.2427778,False
+463,20-Apr-14,Illinois,Montgomery,1300 block of Jackson St,0,6,2014,IL,us,41.7305556,-88.3458333,False
+464,20-Apr-14,Florida,Tampa,2902 N. 32nd St.,2,2,2014,FL,us,27.9472222,-82.45861109999998,False
+465,20-Apr-14,Illinois,Chicago,6600 South Michigan Ave,0,5,2014,IL,us,41.85,-87.65,False
+466,14-Apr-14,District of Columbia,Washington,1500 block of 19th Street,0,4,2014,,,47.751076,-120.740135,True
+467,12-Apr-14,Louisiana,New Orleans,2100 block of Pauger Street,1,3,2014,LA,us,29.9544444,-90.075,False
+468,11-Apr-14,Indiana,Richmond,North 15th and H Streets,0,4,2014,IN,us,39.8288889,-84.89027779999998,False
+469,09-Apr-14,Tennessee,Lookout Valley,Kellys Ferry Road and Kellys Ferry Place,3,1,2014,TN,,34.9939646,-85.3746811,True
+470,09-Apr-14,Illinois,Rockford,300 North Sunset,0,4,2014,IL,us,42.27111110000001,-89.09388890000002,False
+471,07-Apr-14,Louisiana,New Orleans,500 block of South Alexander Street,0,4,2014,LA,us,29.9544444,-90.075,False
+472,06-Apr-14,Massachusetts,Springfield,90 Worthington St.,0,4,2014,MA,us,42.1013889,-72.5902778,False
+473,06-Apr-14,Oklahoma,Oklahoma City,Northwest 29th Street and Portland Avenue,0,4,2014,OK,us,35.4675,-97.5161111,False
+474,05-Apr-14,Illinois,Chicago,4300 W Wilcox Street,1,5,2014,IL,us,41.85,-87.65,False
+475,05-Apr-14,Arizona,Phoenix,West Palm Lane near 54th Avenue,1,3,2014,AZ,us,33.4483333,-112.0733333,False
+476,05-Apr-14,California,Fairfield,Orchid Street,0,4,2014,CA,us,38.2494444,-122.0388889,False
+477,02-Apr-14,Texas,Fort Hood,Motor Pool Road and Tank Destroyer Boulevard,4,16,2014,TX,,31.2548307,-97.709127,True
+478,30-Mar-14,Mississippi,Starkville,,0,5,2014,MS,us,33.4502778,-88.81833329999998,False
+479,30-Mar-14,North Carolina,Charlotte,4300 Sunset Road,0,5,2014,NC,us,35.226944399999994,-80.8433333,False
+480,23-Mar-14,Texas,Arlington,2700 Majesty Drive,1,3,2014,TX,us,32.735555600000005,-97.1077778,False
+481,23-Mar-14,California,Long Beach,601 Long Beach Boulevard,1,3,2014,CA,us,33.76694439999999,-118.18833329999998,False
+482,23-Mar-14,California,San Francisco,Turk and Taylor,0,7,2014,CA,us,37.775,-122.4183333,False
+483,21-Mar-14,South Carolina,North Charleston,7550 Dorchester Road,0,4,2014,SC,us,32.8544444,-79.975,False
+484,16-Mar-14,Texas,Beaumont,S 4th St,3,1,2014,TX,us,30.0858333,-94.1016667,False
+485,16-Mar-14,Georgia,Waynesboro,4960 Highway 80 West,0,4,2014,GA,us,33.089722200000004,-82.0158333,False
+486,14-Mar-14,New York,Brooklyn,S. Second and Roebling Sts,0,4,2014,NY,us,40.65,-73.95,False
+487,09-Mar-14,Ohio,Fremont,531 W State St,3,1,2014,OH,us,41.3502778,-83.1219444,False
+488,09-Mar-14,Texas,Austin,4900 block of West Race Avenue,0,6,2014,TX,us,30.2669444,-97.7427778,False
+489,08-Mar-14,Illinois,Chicago,4900 West Race Ave,0,6,2014,IL,us,41.85,-87.65,False
+490,08-Mar-14,California,Richmond,1600 block of First Street,1,3,2014,CA,us,37.9358333,-122.3466667,False
+491,05-Mar-14,South Carolina,Pelzer,Law Street,3,2,2014,SC,us,34.6422222,-82.45611109999999,False
+492,01-Mar-14,Pennsylvania,Pittsburgh,Hamilton Avenue,1,4,2014,PA,us,40.4405556,-79.9961111,False
+493,01-Mar-14,Michigan,Detroit,7800 Gratiot Av.,0,4,2014,MI,us,42.33138889999999,-83.0458333,False
+494,25-Feb-14,Virginia,Glade Spring,Graceland Lane,5,1,2014,VA,us,36.7911111,-81.7713889,False
+495,22-Feb-14,California,Wilmington,1200 block of W Papeete St,0,4,2014,CA,us,33.78,-118.2616667,False
+496,20-Feb-14,California,Alturas,300 W 1st St,4,2,2014,CA,us,41.4872222,-120.5413889,False
+497,20-Feb-14,Indiana,Indianapolis,3400 block of South Parker,4,0,2014,IN,us,39.7683333,-86.1580556,False
+498,16-Feb-14,Texas,Fort Worth,115 NW 25th St.,1,4,2014,TX,us,32.7252778,-97.3205556,False
+499,16-Feb-14,Florida,Orange County,4500 block of Riviera Shores,1,6,2014,FL,,33.7174708,-117.83114280000001,True
+500,16-Feb-14,Florida,Jacksonville,1187 S. Edgewood Ave.,1,4,2014,FL,us,30.3319444,-81.6558333,False
+501,16-Feb-14,Texas,Dallas,2600 block of South Harwood Street,1,7,2014,TX,us,32.783333299999995,-96.8,False
+502,16-Feb-14,Indiana,Fort Wayne,Lafayette Street and East Tillman Road,0,5,2014,IN,us,41.1305556,-85.1288889,False
+503,15-Feb-14,Nevada,Las Vegas,Sahara and Maryland,0,5,2014,NV,us,36.175,-115.1363889,False
+504,12-Feb-14,Indiana,Gary,2220 block of Broadway,0,5,2014,IN,us,41.5933333,-87.34638890000002,False
+505,12-Feb-14,California,Oakland,37th and International,1,3,2014,CA,us,37.8044444,-122.2697222,False
+506,12-Feb-14,California,Stockton,Constitution Park,1,3,2014,CA,us,37.9577778,-121.2897222,False
+507,07-Feb-14,Florida,Miami,Northwest 41st Street and 9th Avenue,0,5,2014,FL,us,25.7738889,-80.1938889,False
+508,06-Feb-14,Louisiana,New Orleans,4600 block of Downman Road,0,4,2014,LA,us,29.9544444,-90.075,False
+509,05-Feb-14,Illinois,Chicago,6740 N Clark St,1,3,2014,IL,us,41.85,-87.65,False
+510,03-Feb-14,Indiana,Franklin,2100 block of Bridlewood Dr,3,2,2014,IN,us,39.4805556,-86.055,False
+511,27-Jan-14,North Carolina,Rocky Mount,821 Word Plaza,0,4,2014,NC,us,35.93805560000001,-77.7908333,False
+512,27-Jan-14,Washington,Seattle,2nd Avenue South and South Main Street,1,4,2014,WA,us,47.6063889,-122.33083329999998,False
+513,25-Jan-14,Illinois,Chicago,S. Union Av and W. 51st St,1,4,2014,IL,us,41.85,-87.65,False
+514,25-Jan-14,Florida,Belle Glade,600 block of Covenant Drive,0,4,2014,FL,us,26.6841667,-80.6677778,False
+515,21-Jan-14,New Jersey,Newark,Springfield Avenue,2,3,2014,NJ,us,40.73555560000001,-74.17277779999998,False
+516,20-Jan-14,Virginia,Manassas,8509 Rixlew Ln,0,4,2014,VA,us,38.7508333,-77.47555559999998,False
+517,16-Jan-14,Utah,Spanish Fork,37 N. 630 West,5,0,2014,UT,us,40.115,-111.65416670000002,False
+518,16-Jan-14,Oklahoma,Ardmore,,2,4,2014,OK,us,34.1741667,-97.1433333,False
+519,14-Jan-14,California,Los Angeles,West 86th Street,0,4,2014,CA,us,34.0522222,-118.2427778,False
+520,13-Jan-14,Michigan,Detroit,800 block of Calvert St,0,4,2014,MI,us,42.33138889999999,-83.0458333,False
+521,12-Jan-14,Louisiana,Tallulah,3600 block of Highway 80 W,0,6,2014,LA,us,32.408333299999995,-91.1866667,False
+522,12-Jan-14,Alabama,Huntsville,University Drive,0,5,2014,AL,us,34.7302778,-86.5861111,False
+523,12-Jan-14,Illinois,Elgin,300 block of North Street,0,5,2014,IL,us,42.0372222,-88.28111109999998,False
+524,03-Jan-14,New York,Queens,Farmers Boulevard and 133rd Avenue,1,3,2014,NY,,40.742054,-73.769417,True
+525,01-Jan-14,Virginia,Norfolk,Rockingham Street and Berkley Avenue Extended,2,2,2014,VA,us,36.8466667,-76.2855556,False
+526,31-Dec-15,Louisiana,New Orleans,1900 block of Amelia Street,0,6,2015,LA,us,29.9544444,-90.075,False
+527,27-Dec-15,Tennessee,Jackson,North Parkway,0,4,2015,TN,us,35.6144444,-88.81388890000002,False
+528,26-Dec-15,Pennsylvania,Philadelphia,4210 Macalester St,0,4,2015,PA,us,39.9522222,-75.1641667,False
+529,25-Dec-15,Florida,Jacksonville,Franklin and Odessa,0,4,2015,FL,us,30.3319444,-81.6558333,False
+530,25-Dec-15,Alabama,Mobile,785 Schillinger Rd S,0,4,2015,AL,us,30.6941667,-88.0430556,False
+531,21-Dec-15,California,San Leandro,14600 block of East 14th Street,0,4,2015,CA,us,37.725,-122.155,False
+532,20-Dec-15,North Carolina,Wilmington,11th and Castle Street,1,4,2015,NC,us,34.22555560000001,-77.945,False
+533,20-Dec-15,Florida,Miami,21630 Southwest 120th Avenue,1,4,2015,FL,us,25.7738889,-80.1938889,False
+534,20-Dec-15,Florida,Miami-dade,Northeast Seventh Avenue and Northeast 166th Street,0,4,2015,FL,,25.778135,-80.1791,True
+535,13-Dec-15,California,Los Angeles,5550 S. Flower Street,1,3,2015,CA,us,34.0522222,-118.2427778,False
+536,13-Dec-15,California,Huntington Beach,17000 block of Keelson Lane,0,4,2015,CA,us,33.6602778,-117.99833329999998,False
+537,12-Dec-15,Georgia,Savannah,Whitaker Street,0,4,2015,GA,us,32.0833333,-81.1,False
+538,12-Dec-15,Illinois,Lovejoy,307 Jefferson St,1,3,2015,IL,,40.5369809,-87.7039152,True
+539,11-Dec-15,Maryland,Baltimore,5100 block of Park Heights Avenue,1,3,2015,MD,us,39.2902778,-76.6125,False
+540,11-Dec-15,Pennsylvania,Pittsburgh,200 block of Brownsville Road,0,4,2015,PA,us,40.4405556,-79.9961111,False
+541,08-Dec-15,Ohio,Cincinnati,2300 block of Baltimore Avenue,1,3,2015,OH,us,39.1619444,-84.4569444,False
+542,06-Dec-15,Louisiana,Raceland,Market Street,1,3,2015,LA,us,29.7272222,-90.5988889,False
+543,06-Dec-15,Nebraska,Omaha,North 108th Street and Military Road,2,3,2015,NE,us,41.2586111,-95.9375,False
+544,02-Dec-15,California,San Bernardino,1365 South Waterman Avenue,16,19,2015,CA,us,34.1083333,-117.2888889,False
+545,02-Dec-15,Georgia,Savannah,100 block of West 33rd Street,1,3,2015,GA,us,32.0833333,-81.1,False
+546,29-Nov-15,Illinois,Kankakee,648 E. Court St,0,5,2015,IL,us,41.12,-87.86111109999999,False
+547,27-Nov-15,Colorado,Colorado Springs,3480 Centennial Blvd,3,9,2015,CO,us,38.8338889,-104.8208333,False
+548,27-Nov-15,California,Sacramento,7900 block of Florin Road,2,2,2015,CA,us,38.5816667,-121.4933333,False
+549,24-Nov-15,South Carolina,Horry,1321 Colletta Court,0,4,2015,SC,us,33.936944399999994,-79.1344444,False
+550,23-Nov-15,Ohio,Columbus,90 block of S. Terrace Avenue,4,1,2015,OH,us,39.9611111,-82.99888890000003,False
+551,23-Nov-15,Minnesota,Minneapolis,Morgan Avenue North,0,5,2015,MN,us,44.98,-93.2636111,False
+552,22-Nov-15,Texas,Brownsville,1800 block of FM 802,0,4,2015,TX,us,25.9013889,-97.4972222,False
+553,22-Nov-15,Washington,Seattle,Broadway and Pike,0,4,2015,WA,us,47.6063889,-122.33083329999998,False
+554,22-Nov-15,New York,Newburgh,203 Broadway,0,5,2015,NY,us,41.5033333,-74.0108333,False
+555,22-Nov-15,South Carolina,North Charleston,Park Circle,1,3,2015,SC,us,32.8544444,-79.975,False
+556,22-Nov-15,Illinois,Chicago,4100 block of West Roosevelt,0,4,2015,IL,us,41.85,-87.65,False
+557,22-Nov-15,Louisiana,New Orleans,1900 block of Gallier Street,0,17,2015,LA,us,29.9544444,-90.075,False
+558,21-Nov-15,Maryland,Baltimore,Stricker and School,1,3,2015,MD,us,39.2902778,-76.6125,False
+559,20-Nov-15,Pennsylvania,Pittsburgh,Prospect Drive,1,3,2015,PA,us,40.4405556,-79.9961111,False
+560,18-Nov-15,California,Fresno,California Avenue and Martin Luther King Jr. Boulevard,0,5,2015,CA,us,36.7477778,-119.7713889,False
+561,16-Nov-15,Alabama,Cherokee,1400 block of County Road 664,3,1,2015,AL,us,34.756944399999995,-87.97277779999997,False
+562,15-Nov-15,Pennsylvania,Philadelphia,5600 block of Blakemore Street,0,4,2015,PA,us,39.9522222,-75.1641667,False
+563,15-Nov-15,Texas,Tennessee Colony,800 block of County Road 2217,5,0,2015,TX,us,31.8352778,-95.8386111,False
+564,14-Nov-15,Pennsylvania,Johnstown,1159 Main St,0,4,2015,PA,us,40.3266667,-78.92222220000002,False
+565,13-Nov-15,Florida,Jacksonville,1300 block of South Shirley Oaks Drive,4,1,2015,FL,us,30.3319444,-81.6558333,False
+566,09-Nov-15,Indiana,Indianapolis,400 block of North Beville Ave,2,2,2015,IN,us,39.7683333,-86.1580556,False
+567,08-Nov-15,Iowa,Des Moines,4397 NW 6th Drive,1,3,2015,IA,us,41.60055560000001,-93.6088889,False
+568,08-Nov-15,Michigan,Warren,13859 8 Mile Road,0,4,2015,MI,us,42.4775,-83.0277778,False
+569,07-Nov-15,Colorado,Denver,Bayaud and Bannock,1,3,2015,CO,us,39.7391667,-104.98416670000002,False
+570,06-Nov-15,California,Bakersfield,1000 block of Feliz Drive,0,4,2015,CA,us,35.3733333,-119.0177778,False
+571,03-Nov-15,Florida,Jacksonville,Ella Street and Kings Road,2,3,2015,FL,us,30.3319444,-81.6558333,False
+572,02-Nov-15,South Carolina,Pendleton,2217 Refuge Road,4,0,2015,SC,us,34.6516667,-82.78388890000002,False
+573,28-Oct-15,Louisiana,Houma,400 block of Morgan Street,1,3,2015,LA,us,29.595555600000004,-90.7194444,False
+574,27-Oct-15,Texas,Fort Worth,1700 block of Southcrest Drive,0,5,2015,TX,us,32.7252778,-97.3205556,False
+575,26-Oct-15,Indiana,Evansville,711 E Virginia St,0,5,2015,IN,us,37.9747222,-87.5558333,False
+576,25-Oct-15,North Carolina,Four Oaks,2339 Stricklands Crossroads Road,0,5,2015,NC,us,35.4447222,-78.4272222,False
+577,25-Oct-15,Arizona,Phoenix,Seventh Street and Broadway,1,4,2015,AZ,us,33.4483333,-112.0733333,False
+578,25-Oct-15,District of Columbia,Washington,4300 block of Wheeler Road SE,0,5,2015,,,47.751076,-120.740135,True
+579,24-Oct-15,South Carolina,Bamberg,682 Dixie Ave.,0,4,2015,SC,us,33.296944399999994,-81.035,False
+580,22-Oct-15,Tennessee,Nashville,3500 John A. Merritt Blvd,1,3,2015,TN,us,36.1658333,-86.7844444,False
+581,19-Oct-15,Illinois,Calumet City,300 Campbell Avenue,0,6,2015,IL,us,41.61555560000001,-87.5294444,False
+582,18-Oct-15,Louisiana,New Orleans,2600 block of Caffin Avenue,0,4,2015,LA,us,29.9544444,-90.075,False
+583,17-Oct-15,Florida,Fort Myers,2224 First St,1,4,2015,FL,us,26.6402778,-81.8725,False
+584,17-Oct-15,Indiana,Elkhart,160 Easy Shopping Place,0,4,2015,IN,us,41.6819444,-85.9766667,False
+585,12-Oct-15,Georgia,Decatur,4731 Glenwood Road,0,4,2015,GA,us,33.7747222,-84.29638890000003,False
+586,10-Oct-15,Tennessee,Memphis,6135 Mount Moriah Road,0,6,2015,TN,us,35.14944439999999,-90.04888890000002,False
+587,10-Oct-15,North Carolina,Charlotte,1900 block of West Boulevard,0,4,2015,NC,us,35.226944399999994,-80.8433333,False
+588,10-Oct-15,Illinois,Peoria,2405 N Flora,1,3,2015,IL,us,40.69361110000001,-89.58888890000001,False
+589,09-Oct-15,Arizona,Flagstaff,216 E Mountain View Drive,1,3,2015,AZ,us,35.1980556,-111.6505556,False
+590,06-Oct-15,Maryland,Baltimore,300 block of North Payson Street,0,5,2015,MD,us,39.2902778,-76.6125,False
+591,02-Oct-15,Maryland,Baltimore,5400 Reisterstown Road,1,4,2015,MD,us,39.2902778,-76.6125,False
+592,01-Oct-15,Oregon,Roseburg,1140 Umpqua College Rd,10,9,2015,OR,us,43.21666670000001,-123.3405556,False
+593,28-Sep-15,Ohio,Cincinnati,1800 block of Hewitt Avenue,0,5,2015,OH,us,39.1619444,-84.4569444,False
+594,28-Sep-15,Illinois,Chicago,300 block of West 42nd Street,3,2,2015,IL,us,41.85,-87.65,False
+595,28-Sep-15,Illinois,Chicago,5300 block of South Aberdeen Street,2,3,2015,IL,us,41.85,-87.65,False
+596,28-Sep-15,Ohio,Dayton,1921 Oakridge,0,4,2015,OH,us,39.7588889,-84.1916667,False
+597,27-Sep-15,Georgia,Greenville,1140 Hill Haven Road,0,10,2015,GA,us,33.028611100000006,-84.7130556,False
+598,27-Sep-15,Illinois,Chicago,5200 block of South Justine,0,4,2015,IL,us,41.85,-87.65,False
+599,27-Sep-15,Missouri,Kansas City,1700 E. 18th St.,0,4,2015,MO,us,39.0997222,-94.5783333,False
+600,25-Sep-15,Illinois,Danville,1300 block of May Street,0,4,2015,IL,us,40.1244444,-87.63,False
+601,24-Sep-15,Illinois,Chicago,5100 block of South Morgan Street,0,5,2015,IL,us,41.85,-87.65,False
+602,23-Sep-15,Louisiana,Shreveport,2900 block of Peach Street,0,5,2015,LA,us,32.525,-93.75,False
+603,23-Sep-15,Florida,Fort Myers,Dale Street and Veronica S. Shoemaker Boulevard,0,4,2015,FL,us,26.6402778,-81.8725,False
+604,23-Sep-15,Georgia,Norcross,1300 block of Reddington Lane,1,3,2015,GA,us,33.9411111,-84.2136111,False
+605,20-Sep-15,Pennsylvania,Philadelphia,900 block of Pratt Street,1,3,2015,PA,us,39.9522222,-75.1641667,False
+606,20-Sep-15,Illinois,Chicago,5700 block of South LaSalle,1,5,2015,IL,us,41.85,-87.65,False
+607,20-Sep-15,Oklahoma,Tulsa,Pine and Yale,0,6,2015,OK,us,36.1538889,-95.9925,False
+608,19-Sep-15,Indiana,Indianapolis,3900 block of Graceland Avenue,1,3,2015,IN,us,39.7683333,-86.1580556,False
+609,17-Sep-15,South Dakota,Geddes,36705 379th Street,6,0,2015,SD,us,43.2536111,-98.695,False
+610,17-Sep-15,Michigan,Albion,500 block of W. Broadwell Street,0,4,2015,MI,us,42.24305560000001,-84.7530556,False
+611,15-Sep-15,New Jersey,Newark,Irvine Turner Boulevard and West Kinney Street,0,4,2015,NJ,us,40.73555560000001,-74.17277779999998,False
+612,13-Sep-15,Florida,Ocala,1910 South Pine Avenue,1,5,2015,FL,us,29.186944399999994,-82.14027779999998,False
+613,12-Sep-15,Louisiana,Shreveport,1500 block of Clanton Street,0,4,2015,LA,us,32.525,-93.75,False
+614,12-Sep-15,New York,Rochester,36 Woodward Street,2,4,2015,NY,us,43.1547222,-77.61583329999998,False
+615,12-Sep-15,Minnesota,Minneapolis,1st Ave. and N. 5th St.,0,6,2015,MN,us,44.98,-93.2636111,False
+616,12-Sep-15,Minnesota,Minneapolis,1200 block of 22nd Ave. N.,1,3,2015,MN,us,44.98,-93.2636111,False
+617,11-Sep-15,North Carolina,Charlotte,1000 North Carolina Music Factory Blvd.,0,5,2015,NC,us,35.226944399999994,-80.8433333,False
+618,10-Sep-15,Minnesota,Excelsior,Channel Drive,5,0,2015,MN,us,44.9033333,-93.5661111,False
+619,08-Sep-15,Georgia,Berlin,,0,4,2015,GA,us,31.068055600000005,-83.62388890000003,False
+620,08-Sep-15,Illinois,Chicago,56th and Green,0,4,2015,IL,us,41.85,-87.65,False
+621,07-Sep-15,Indiana,Gary,9300 block of Sunrise,2,4,2015,IN,us,41.5933333,-87.34638890000002,False
+622,07-Sep-15,Colorado,Denver,1909 Blake Street,0,4,2015,CO,us,39.7391667,-104.98416670000002,False
+623,05-Sep-15,North Carolina,Charlotte,6800 block of Fieldvale Place,1,3,2015,NC,us,35.226944399999994,-80.8433333,False
+624,05-Sep-15,Florida,Daytona Beach,300 block of Pearl Street,0,4,2015,FL,us,29.210555600000006,-81.02305559999998,False
+625,05-Sep-15,Nevada,Las Vegas,5000 block of Hollywood Boulevard,1,3,2015,NV,us,36.175,-115.1363889,False
+626,05-Sep-15,Missouri,Columbia,1509 Ashley Street,0,4,2015,MO,us,38.9516667,-92.3338889,False
+627,30-Aug-15,Tennessee,Memphis,3300 block of Sobota Circle,1,4,2015,TN,us,35.14944439999999,-90.04888890000002,False
+628,29-Aug-15,Tennessee,Bristol,618 Henson Road,3,2,2015,TN,us,36.595,-82.18888890000002,False
+629,29-Aug-15,Texas,Tyler,638 ENE Loop 323,1,3,2015,TX,us,32.351111100000004,-95.3008333,False
+630,28-Aug-15,New York,Brooklyn,589 Flatbush Avenue,1,3,2015,NY,us,40.65,-73.95,False
+631,27-Aug-15,California,Salinas,928 Blanco Circle,2,2,2015,CA,us,36.6777778,-121.65444440000002,False
+632,26-Aug-15,Illinois,Chicago,3025 W. Van Buren Ave,2,2,2015,IL,us,41.85,-87.65,False
+633,26-Aug-15,Minnesota,Minneapolis,5000 block of Drew Avenue North,0,4,2015,MN,us,44.98,-93.2636111,False
+634,26-Aug-15,Florida,West Palm Beach,800 block of 19th Street,2,2,2015,FL,us,26.715,-80.0536111,False
+635,25-Aug-15,Louisiana,New Orleans,Fern Street and Olive Street,1,3,2015,LA,us,29.9544444,-90.075,False
+636,23-Aug-15,California,Modesto,1100 block of Kansas Avenue,1,7,2015,CA,us,37.6391667,-120.9958333,False
+637,22-Aug-15,Florida,Orlando,State Road 408,0,4,2015,FL,us,28.538055600000003,-81.3794444,False
+638,22-Aug-15,New Mexico,Roswell,302 East Reed Street,3,1,2015,NM,us,33.3941667,-104.5225,False
+639,21-Aug-15,North Carolina,Durham,2700 block of Hinson Drive,0,8,2015,NC,us,35.99388889999999,-78.8988889,False
+640,21-Aug-15,Ohio,Cincinnati,Mathis and Prentice,2,5,2015,OH,us,39.1619444,-84.4569444,False
+641,20-Aug-15,Texas,Grulla,FM 2360,2,2,2015,TX,,26.285343,-98.644474,True
+642,19-Aug-15,New York,Rochester,500 Genesee St,3,4,2015,NY,us,43.1547222,-77.61583329999998,False
+643,16-Aug-15,Texas,Fort Worth,3651 Sycamore School Rd,0,6,2015,TX,us,32.7252778,-97.3205556,False
+644,16-Aug-15,Illinois,Chicago,5400 block of West Division Street,0,4,2015,IL,us,41.85,-87.65,False
+645,16-Aug-15,South Carolina,Bennettsville,Highway 38N,0,5,2015,SC,us,34.6172222,-79.685,False
+646,15-Aug-15,Pennsylvania,Pittsburgh,West Prospect Avenue,1,3,2015,PA,us,40.4405556,-79.9961111,False
+647,15-Aug-15,California,Los Angeles,57th Street and South Normandie Avenue,0,4,2015,CA,us,34.0522222,-118.2427778,False
+648,15-Aug-15,South Carolina,Orangeburg,2868 Bamberg Road,1,3,2015,SC,us,33.4916667,-80.8558333,False
+649,10-Aug-15,California,Long Beach,1700 block of East 10th Street,0,4,2015,CA,us,33.76694439999999,-118.18833329999998,False
+650,09-Aug-15,Mississippi,Forest,Poplar Street,1,3,2015,MS,us,32.3644444,-89.4741667,False
+651,09-Aug-15,Michigan,Detroit,15200 block of Hazelridge,1,3,2015,MI,us,42.33138889999999,-83.0458333,False
+652,09-Aug-15,Missouri,Kansas City,40th Street and Pennsylvania Avenue,0,4,2015,MO,us,39.0997222,-94.5783333,False
+653,08-Aug-15,North Carolina,Gastonia,4908 Greenwood Drive,2,3,2015,NC,us,35.2619444,-81.1875,False
+654,08-Aug-15,Arkansas,Blytheville,833 Anderson Street,1,11,2015,AR,us,35.9272222,-89.91888890000001,False
+655,08-Aug-15,Texas,Houston,2211 Falling Oaks,8,0,2015,TX,us,29.763055600000005,-95.3630556,False
+656,07-Aug-15,Vermont,Barre,3182 Airport Road,4,0,2015,VT,us,44.19694439999999,-72.5025,False
+657,06-Aug-15,South Carolina,Columbia,1505 Garden Plaza,0,4,2015,SC,us,34.00055560000001,-81.035,False
+658,04-Aug-15,Missouri,Saint Louis,2500 block of Semple,1,4,2015,MO,us,38.6272222,-90.1977778,False
+659,03-Aug-15,New York,Brooklyn,98 Dwight Street,0,5,2015,NY,us,40.65,-73.95,False
+660,02-Aug-15,New York,Brooklyn,Stanley Avenue and Crescent Street,0,9,2015,NY,us,40.65,-73.95,False
+661,02-Aug-15,Maryland,Baltimore,2700 block of Garrison Avenue,0,7,2015,MD,us,39.2902778,-76.6125,False
+662,02-Aug-15,Illinois,Chicago,4800 block of West Kamerling Avenue,1,4,2015,IL,us,41.85,-87.65,False
+663,02-Aug-15,Georgia,Savannah,Barnard Street,0,5,2015,GA,us,32.0833333,-81.1,False
+664,02-Aug-15,Illinois,Chicago,6700 block of South Winchester Avenue,0,4,2015,IL,us,41.85,-87.65,False
+665,01-Aug-15,Florida,Orlando,5801 Shenandoah Way,0,4,2015,FL,us,28.538055600000003,-81.3794444,False
+666,30-Jul-15,Pennsylvania,Pittsburgh,Brushton Avenue,0,4,2015,PA,us,40.4405556,-79.9961111,False
+667,27-Jul-15,Illinois,Rockford,900 block of Kent Street,0,5,2015,IL,us,42.27111110000001,-89.09388890000002,False
+668,26-Jul-15,Missouri,Kansas City,Thompson and Colorado,2,3,2015,MO,us,39.0997222,-94.5783333,False
+669,26-Jul-15,Louisiana,New Orleans,Piety and Treasure street,0,4,2015,LA,us,29.9544444,-90.075,False
+670,25-Jul-15,Virginia,Hopewell,500 block of N. 7th Ave,0,4,2015,VA,us,37.3041667,-77.2875,False
+671,24-Jul-15,Pennsylvania,Erie,200 block of W 29th St,2,4,2015,PA,us,42.1291667,-80.0852778,False
+672,23-Jul-15,Louisiana,Lafayette,3141 Johnson Street,3,9,2015,LA,us,30.223888899999995,-92.0197222,False
+673,22-Jul-15,Georgia,Suwanee,5500 block of Old Atlanta Road,5,0,2015,GA,us,34.0513889,-84.0713889,False
+674,21-Jul-15,Florida,Miami Gardens,Northwest 25th Avenue and Miami Gardens Drive,1,3,2015,FL,us,25.9794444,-80.20277779999998,False
+675,20-Jul-15,New York,Bronx,E. 153rd St. and the Grand Concourse,0,6,2015,NY,us,40.85,-73.8666667,False
+676,19-Jul-15,Virginia,Suffolk,100 block of North Capitol Street,0,4,2015,VA,us,36.72805560000001,-76.5838889,False
+677,19-Jul-15,Kentucky,Louisville,2928 W Kentucky St,0,6,2015,KY,us,38.2541667,-85.7594444,False
+678,19-Jul-15,North Carolina,Rocky Mount,Interstate 64 and Raliegh Street,0,4,2015,NC,us,35.93805560000001,-77.7908333,False
+679,18-Jul-15,California,San Diego,200 block of South Bancroft Street,0,4,2015,CA,us,32.7152778,-117.1563889,False
+680,18-Jul-15,California,Santa Paula,Ojai-Santa Paula Street,0,5,2015,CA,us,34.3541667,-119.0583333,False
+681,18-Jul-15,Oregon,Salem,1550 Weston Ct NE,1,4,2015,OR,us,44.9430556,-123.0338889,False
+682,18-Jul-15,Louisiana,Baton Rouge,300 block of Brice Street,2,2,2015,LA,us,30.450555600000005,-91.1544444,False
+683,17-Jul-15,Illinois,Chicago,4400 block of W. Maypole,0,5,2015,IL,us,41.85,-87.65,False
+684,17-Jul-15,Ohio,Cincinnati,3100 block of Sunshine Avenue,0,4,2015,OH,us,39.1619444,-84.4569444,False
+685,16-Jul-15,Tennessee,Chattanooga,4051 Amnicola Highway,6,2,2015,TN,us,35.04555560000001,-85.30972220000002,False
+686,16-Jul-15,Texas,Dallas,Singleton and Hampton,0,5,2015,TX,us,32.783333299999995,-96.8,False
+687,15-Jul-15,Georgia,Atlanta,500 block of Center Hill Avenue,0,5,2015,GA,us,33.7488889,-84.3880556,False
+688,15-Jul-15,Maryland,Baltimore,3500 block of West Garrison Boulevard,1,3,2015,MD,us,39.2902778,-76.6125,False
+689,15-Jul-15,Ohio,Cleveland,700 block of Thornhill,0,7,2015,OH,us,41.4994444,-81.69555559999998,False
+690,15-Jul-15,Michigan,Detroit,9200 block of Memorial,0,4,2015,MI,us,42.33138889999999,-83.0458333,False
+691,15-Jul-15,South Carolina,Holly Hill,7050 Old State Road,4,1,2015,SC,us,33.3225,-80.4138889,False
+692,14-Jul-15,Missouri,Saint Louis,1100 block of Riverview,0,4,2015,MO,us,38.6272222,-90.1977778,False
+693,13-Jul-15,California,Norwalk,11959 162nd Street,0,4,2015,CA,us,33.902222200000004,-118.08083329999998,False
+694,13-Jul-15,California,Stockton,400 block of McCloud Avenue,1,4,2015,CA,us,37.9577778,-121.2897222,False
+695,12-Jul-15,Illinois,River Forest,116 Lathrop Avenue,2,3,2015,IL,us,41.8977778,-87.81388890000002,False
+696,12-Jul-15,New Jersey,Jersey City,Sip and Van Wagenen avenues,0,4,2015,NJ,us,40.72805560000001,-74.0780556,False
+697,07-Jul-15,Ohio,Cleveland,East 162nd Street and Miles Avenue,1,3,2015,OH,us,41.4994444,-81.69555559999998,False
+698,07-Jul-15,Maryland,Baltimore,900 block of West Fayette Street,3,1,2015,MD,us,39.2902778,-76.6125,False
+699,05-Jul-15,Louisiana,Shreveport,3500 block of Hearne Avenue,0,8,2015,LA,us,32.525,-93.75,False
+700,05-Jul-15,Indiana,Fort Wayne,1400 block of McCulloch Street,0,9,2015,IN,us,41.1305556,-85.1288889,False
+701,05-Jul-15,New Jersey,East Orange,200 block of S. Clinton St,1,3,2015,NJ,us,40.7672222,-74.20527779999998,False
+702,04-Jul-15,District of Columbia,Washington,2600 Douglas Place SE,1,3,2015,,,47.751076,-120.740135,True
+703,04-Jul-15,Kentucky,Louisville,2500 block of West Broadway,0,4,2015,KY,us,38.2541667,-85.7594444,False
+704,04-Jul-15,Massachusetts,Pittsfield,Dewey Avenue,1,4,2015,MA,us,42.45,-73.2458333,False
+705,04-Jul-15,New York,Syracuse,Bellevue and Rich Street,0,4,2015,NY,us,43.04805560000001,-76.1477778,False
+706,04-Jul-15,Texas,San Antonio,1100 block of West Avenue,0,4,2015,TX,us,29.4238889,-98.4933333,False
+707,02-Jul-15,Indiana,Indianapolis,Lynn and Michigan,1,3,2015,IN,us,39.7683333,-86.1580556,False
+708,29-Jun-15,Florida,Opa Locka,13450 NW 30th Ave,0,4,2015,FL,,25.9023168,-80.25032709999999,True
+709,28-Jun-15,Michigan,Detroit,Gratiot and Loretto,0,5,2015,MI,us,42.33138889999999,-83.0458333,False
+710,28-Jun-15,Illinois,Venice,,0,6,2015,IL,us,38.6722222,-90.1697222,False
+711,28-Jun-15,Delaware,Harrington,100 block of East St,0,6,2015,DE,us,38.9236111,-75.5780556,False
+712,27-Jun-15,Massachusetts,Taunton,Weir Street,1,3,2015,MA,us,41.9,-71.0902778,False
+713,27-Jun-15,Michigan,Detroit,Stringham Court,0,4,2015,MI,us,42.33138889999999,-83.0458333,False
+714,24-Jun-15,New York,New York,2110 Madison Ave,0,4,2015,NY,us,40.7141667,-74.0063889,False
+715,22-Jun-15,Pennsylvania,Philadelphia,700 block of East Hilton Street,0,7,2015,PA,us,39.9522222,-75.1641667,False
+716,21-Jun-15,Pennsylvania,Pittsburgh,Rebecca and East Swissvale Avenue,0,4,2015,PA,us,40.4405556,-79.9961111,False
+717,21-Jun-15,Kentucky,Lexington,726 Georgetown St,1,4,2015,KY,us,37.9886111,-84.4777778,False
+718,20-Jun-15,Michigan,Detroit,Dexter and Webb,1,11,2015,MI,us,42.33138889999999,-83.0458333,False
+719,20-Jun-15,North Carolina,Morven,,0,4,2015,NC,us,34.8638889,-80.00138890000002,False
+720,20-Jun-15,Pennsylvania,Philadelphia,4100 block of Ogden Street,0,11,2015,PA,us,39.9522222,-75.1641667,False
+721,19-Jun-15,Rhode Island,Woonsocket,80 River Street,0,4,2015,RI,us,42.0027778,-71.51527779999998,False
+722,17-Jun-15,South Carolina,Charleston,110 Calhoun Street,9,0,2015,SC,us,32.77638889999999,-79.9311111,False
+723,16-Jun-15,Florida,Miami Gardens,600 block of Northwest 177th Street,0,4,2015,FL,us,25.9794444,-80.20277779999998,False
+724,15-Jun-15,New York,Brooklyn,673 Flatbush Avenue,0,4,2015,NY,us,40.65,-73.95,False
+725,14-Jun-15,New Jersey,Camden,2800 block of Mitchell Street,1,3,2015,NJ,us,39.9258333,-75.12,False
+726,14-Jun-15,Oklahoma,Tulsa,1800 block of North Kingston,0,4,2015,OK,us,36.1538889,-95.9925,False
+727,14-Jun-15,Missouri,Saint Louis,1400 block of North Market Street,0,4,2015,MO,us,38.6272222,-90.1977778,False
+728,13-Jun-15,Georgia,Fayetteville,600 block of Highway 279,1,4,2015,GA,us,33.4486111,-84.455,False
+729,13-Jun-15,Georgia,Milledgeville,451 North Flynn Street,1,3,2015,GA,us,33.08,-83.23222220000002,False
+730,13-Jun-15,New York,Bronx,2409 Creston Avenue,0,5,2015,NY,us,40.85,-73.8666667,False
+731,13-Jun-15,Oklahoma,Oklahoma City,500 block of Se 69th St,0,4,2015,OK,us,35.4675,-97.5161111,False
+732,13-Jun-15,Ohio,Columbus,1623 E. Hudson Street,4,1,2015,OH,us,39.9611111,-82.99888890000003,False
+733,12-Jun-15,Florida,Allapattah,24th Avenue and 36th Street,0,4,2015,FL,us,25.8141667,-80.2241667,False
+734,11-Jun-15,Connecticut,Bridgeport,468 Trumbull Avenue,1,8,2015,CT,us,41.1669444,-73.20527779999998,False
+735,11-Jun-15,Texas,Houston,3400 block of Burkett,1,3,2015,TX,us,29.763055600000005,-95.3630556,False
+736,10-Jun-15,California,Los Angeles,South Vermont Avenue and West 88th Street,1,3,2015,CA,us,34.0522222,-118.2427778,False
+737,09-Jun-15,Missouri,Saint Louis,North Market Street and North Spring Avenue,1,3,2015,MO,us,38.6272222,-90.1977778,False
+738,07-Jun-15,Montana,Deer Lodge,Boulder Creek Road,5,0,2015,MT,us,46.3958333,-112.7291667,False
+739,06-Jun-15,New York,Buffalo,100 block of Warren Avenue,1,4,2015,NY,us,42.8863889,-78.87861109999999,False
+740,06-Jun-15,Illinois,Chicago,100 block of North Lorel Avenue,0,5,2015,IL,us,41.85,-87.65,False
+741,05-Jun-15,Iowa,Davenport,900 block of West 3rd St,0,5,2015,IA,us,41.5236111,-90.5775,False
+742,05-Jun-15,Louisiana,New Orleans,2100 block of Governor Nicholls Street,1,3,2015,LA,us,29.9544444,-90.075,False
+743,03-Jun-15,New York,Wyandanch,Davidson Street,3,1,2015,NY,us,40.7538889,-73.3608333,False
+744,31-May-15,Ohio,Cleveland,16209 block of Laverne Avenue,3,1,2015,OH,us,41.4994444,-81.69555559999998,False
+745,31-May-15,Maryland,Springdale,9222 Ardwick Ardmore Road,1,3,2015,MD,us,38.9375,-76.8391667,False
+746,31-May-15,Connecticut,New Haven,849 Chapel Street,0,5,2015,CT,us,41.3080556,-72.9286111,False
+747,31-May-15,Georgia,Conyers,4669 Bell Road SE,3,2,2015,GA,us,33.6675,-84.01777779999998,False
+748,30-May-15,California,San Diego,4200 block of Market Street,0,4,2015,CA,us,32.7152778,-117.1563889,False
+749,28-May-15,Nebraska,Omaha,84th and Q,0,4,2015,NE,us,41.2586111,-95.9375,False
+750,28-May-15,Illinois,Chicago,6200 block of South Honore Street,0,5,2015,IL,us,41.85,-87.65,False
+751,28-May-15,Pennsylvania,Chester,2700 block of West 3rd Street,1,3,2015,PA,us,39.8494444,-75.35611109999998,False
+752,26-May-15,Louisiana,New Orleans,6700 block of Tara Lane,2,2,2015,LA,us,29.9544444,-90.075,False
+753,25-May-15,Illinois,Decatur,1816 N Water,1,4,2015,IL,us,39.8402778,-88.9547222,False
+754,24-May-15,Massachusetts,Brockton,1002 Main St,0,5,2015,MA,us,42.0833333,-71.01888890000002,False
+755,24-May-15,Michigan,Flint,W. 12th Street and Hammerberg Road.,0,7,2015,MI,us,43.0125,-83.6875,False
+756,24-May-15,Alabama,Montgomery,Smiley Court,1,3,2015,AL,us,32.3666667,-86.3,False
+757,24-May-15,Missouri,Saint Louis,2700 block of Dayton,0,4,2015,MO,us,38.6272222,-90.1977778,False
+758,23-May-15,California,Fresno,2400 block of South 9th Street,2,2,2015,CA,us,36.7477778,-119.7713889,False
+759,20-May-15,Maryland,Baltimore,800 block of Linwood Avenue,1,3,2015,MD,us,39.2902778,-76.6125,False
+760,18-May-15,Missouri,Kinloch,8000 block of School Way,0,4,2015,MO,us,38.74055560000001,-90.3252778,False
+761,18-May-15,Florida,Miami,Northwest 75th Street and Northwest 16th Avenue,1,4,2015,FL,us,25.7738889,-80.1938889,False
+762,17-May-15,Texas,Waco,4671 S Jack Kultgen Fwy,9,18,2015,TX,us,31.5491667,-97.1463889,False
+763,16-May-15,Wisconsin,Milwaukee,28th Street and Auer Avenue,0,5,2015,WI,us,43.0388889,-87.90638890000002,False
+764,16-May-15,New York,Rochester,188 Lewis Street,0,4,2015,NY,us,43.1547222,-77.61583329999998,False
+765,16-May-15,Maryland,Baltimore,1700 block of North Broadway,0,5,2015,MD,us,39.2902778,-76.6125,False
+766,12-May-15,Maryland,Capitol Heights,Pard Road,1,4,2015,MD,us,38.885,-76.9161111,False
+767,12-May-15,Arizona,Tucson,800 block of West Calle Medina Road,5,0,2015,AZ,us,32.2216667,-110.9258333,False
+768,10-May-15,Ohio,Cleveland,3600 block of Bosworth Rd,1,4,2015,OH,us,41.4994444,-81.69555559999998,False
+769,10-May-15,New Jersey,Jersey City,Bostwick Avenue,0,4,2015,NJ,us,40.72805560000001,-74.0780556,False
+770,10-May-15,New Jersey,Newark,19th Avenue and South 16th Street,1,3,2015,NJ,us,40.73555560000001,-74.17277779999998,False
+771,07-May-15,Ohio,Cincinnati,2300 block of Baltimore Avenue,0,4,2015,OH,us,39.1619444,-84.4569444,False
+772,07-May-15,Michigan,Detroit,16000 block of Cathedral Street,0,4,2015,MI,us,42.33138889999999,-83.0458333,False
+773,04-May-15,New York,Buffalo,100 block of Roosevelt Avenue,1,3,2015,NY,us,42.8863889,-78.87861109999999,False
+774,03-May-15,Indiana,South Bend,1600 block of South William Street,0,4,2015,IN,us,41.6833333,-86.25,False
+775,03-May-15,Texas,Houston,San Jacinto at Elgin,0,6,2015,TX,us,29.763055600000005,-95.3630556,False
+776,03-May-15,New York,Bronx,University Avenue,0,4,2015,NY,us,40.85,-73.8666667,False
+777,03-May-15,Ohio,Dayton,2801 Germantown Street,1,6,2015,OH,us,39.7588889,-84.1916667,False
+778,03-May-15,Wisconsin,Menasha,Friendship Trail,4,1,2015,WI,us,44.2022222,-88.4463889,False
+779,01-May-15,Wisconsin,Milwaukee,3700 block of 37th Street,2,3,2015,WI,us,43.0388889,-87.90638890000002,False
+780,27-Apr-15,New York,Brooklyn,1365 Flatbush Ave,2,4,2015,NY,us,40.65,-73.95,False
+781,27-Apr-15,Arizona,Gila Bend,State Route 85,2,2,2015,AZ,us,32.9477778,-112.7161111,False
+782,25-Apr-15,New Jersey,Trenton,Wood Street,0,4,2015,NJ,us,40.2169444,-74.7433333,False
+783,25-Apr-15,New York,Gates,24 Hinchey Rd,1,6,2015,NY,us,43.0913889,-73.63861109999998,False
+784,21-Apr-15,Texas,Killeen,420 Gilmer St.,2,3,2015,TX,us,31.116944399999994,-97.7275,False
+785,19-Apr-15,Virginia,Richmond,200 block of West Hill Street,0,4,2015,VA,us,37.55361110000001,-77.46055559999998,False
+786,18-Apr-15,Alabama,Montgomery,1800 block of Gibbs Court,0,5,2015,AL,us,32.3666667,-86.3,False
+787,18-Apr-15,Pennsylvania,Williamsport,321 Pine St,0,5,2015,PA,us,41.24111110000001,-77.00138890000002,False
+788,18-Apr-15,North Carolina,Lumberton,Martin Luther King Drive,1,3,2015,NC,us,34.618055600000005,-79.0088889,False
+789,18-Apr-15,North Carolina,Charlotte,Bost Street,0,4,2015,NC,us,35.226944399999994,-80.8433333,False
+790,18-Apr-15,New Jersey,Paterson,Rosa Parks Blvd and Godwin Ave,1,3,2015,NJ,us,40.9166667,-74.17222220000002,False
+791,16-Apr-15,Arizona,Phoenix,4300 block of East Anderson Drive,5,0,2015,AZ,us,33.4483333,-112.0733333,False
+792,07-Apr-15,Georgia,Rome,20 Copeland Street,1,3,2015,GA,us,34.256944399999995,-85.1647222,False
+793,05-Apr-15,Pennsylvania,Pittsburgh,Dinwiddie Street,1,3,2015,PA,us,40.4405556,-79.9961111,False
+794,05-Apr-15,Kentucky,Louisville,40th and Grand Street,1,4,2015,KY,us,38.2541667,-85.7594444,False
+795,05-Apr-15,Indiana,Indianapolis,5000 block of Wildflower Court,0,5,2015,IN,us,39.7683333,-86.1580556,False
+796,05-Apr-15,Michigan,Benton Harbor,1000 block of Blossom Lane,0,4,2015,MI,us,42.1166667,-86.4541667,False
+797,03-Apr-15,Florida,Daytona Beach,300 block of Henry Butts Drive,0,4,2015,FL,us,29.210555600000006,-81.02305559999998,False
+798,02-Apr-15,Maryland,Baltimore,1900 block of West Lanvale Street,0,5,2015,MD,us,39.2902778,-76.6125,False
+799,27-Mar-15,Florida,Panama City Beach,5312 Thomas Drive,0,7,2015,FL,us,30.1763889,-85.8055556,False
+800,26-Mar-15,Texas,Amarillo,3100 block of Redwood,0,4,2015,TX,us,35.2219444,-101.8308333,False
+801,24-Mar-15,Indiana,Indianapolis,3100 block of North Harding Street,4,0,2015,IN,us,39.7683333,-86.1580556,False
+802,23-Mar-15,Tennessee,Clarksville,900 block of Carpenter Street,1,4,2015,TN,us,36.5297222,-87.3594444,False
+803,22-Mar-15,New Mexico,Albuquerque,10140 Lomas NE,1,6,2015,NM,us,35.084444399999995,-106.6505556,False
+804,21-Mar-15,Florida,Tampa,1802 Seventh Ave,0,4,2015,FL,us,27.9472222,-82.45861109999998,False
+805,20-Mar-15,Texas,Lancaster,1500 block of Reynolds Street,1,5,2015,TX,us,32.5919444,-96.7558333,False
+806,18-Mar-15,New Jersey,Newark,200 block of Clinton Place,1,3,2015,NJ,us,40.73555560000001,-74.17277779999998,False
+807,18-Mar-15,Arizona,Mesa,1504 West Main Street,1,5,2015,AZ,us,33.4222222,-111.8219444,False
+808,17-Mar-15,California,Stockton,748 N Madison St,3,4,2015,CA,us,37.9577778,-121.2897222,False
+809,15-Mar-15,California,Compton,2700 block of West Alondra Boulevard,0,4,2015,CA,us,33.8958333,-118.21916670000002,False
+810,14-Mar-15,Georgia,Atlanta,2900 block of Delmar Lane,0,5,2015,GA,us,33.7488889,-84.3880556,False
+811,14-Mar-15,California,Coachella,84000 block of Bagdad Avenue,0,4,2015,CA,us,33.6802778,-116.17305559999998,False
+812,13-Mar-15,Mississippi,Brookhaven,1097 South First St.,2,3,2015,MS,us,31.578888899999995,-90.4405556,False
+813,10-Mar-15,Georgia,Columbus,3023 Victory Drive,0,5,2015,GA,us,32.4608333,-84.98777779999998,False
+814,09-Mar-15,Illinois,Chicago,200 block of West 105th,1,3,2015,IL,us,41.85,-87.65,False
+815,08-Mar-15,South Carolina,Seneca,Wells Highway,1,3,2015,SC,us,34.6855556,-82.9533333,False
+816,07-Mar-15,Missouri,Saint Louis,3140 Olive St,0,4,2015,MO,us,38.6272222,-90.1977778,False
+817,04-Mar-15,California,San Bernardino,190 block of West Club Center Drive,2,5,2015,CA,us,34.1083333,-117.2888889,False
+818,01-Mar-15,Florida,Orange County,4900 block of Steyr Street,0,4,2015,FL,,33.7174708,-117.83114280000001,True
+819,01-Mar-15,Michigan,Detroit,9855 Chalmers St,1,5,2015,MI,us,42.33138889999999,-83.0458333,False
+820,28-Feb-15,Maryland,Baltimore,4300 block of Welbourne Road,1,3,2015,MD,us,39.2902778,-76.6125,False
+821,26-Feb-15,Missouri,Tyrone,18279 Highway H,8,1,2015,MO,us,37.2033333,-91.8763889,False
+822,25-Feb-15,Texas,Houston,Mallow St.,3,3,2015,TX,us,29.763055600000005,-95.3630556,False
+823,23-Feb-15,Florida,Daytona Beach,Sheridan Road,0,4,2015,FL,us,29.210555600000006,-81.02305559999998,False
+824,22-Feb-15,Texas,Killeen,1706 Godman St.,4,1,2015,TX,us,31.116944399999994,-97.7275,False
+825,22-Feb-15,Georgia,Clarkesville,281 Lower Pond Court,3,2,2015,GA,us,34.6125,-83.525,False
+826,22-Feb-15,South Carolina,Charleston,4224 Dorchester Road,0,4,2015,SC,us,32.77638889999999,-79.9311111,False
+827,20-Feb-15,California,Sacramento,1417 R Street,0,4,2015,CA,us,38.5816667,-121.4933333,False
+828,17-Feb-15,Arkansas,Little Rock,7900 Scott Hamilton,1,3,2015,AR,us,34.7463889,-92.2894444,False
+829,15-Feb-15,California,Long Beach,200 block of W. 14th Street,0,5,2015,CA,us,33.76694439999999,-118.18833329999998,False
+830,09-Feb-15,Florida,New Port Richey,9552 Adler Street,3,1,2015,FL,us,28.2438889,-82.7194444,False
+831,08-Feb-15,Tennessee,Friendship,251 Dupree Rd,0,6,2015,TN,us,35.908888899999994,-89.2452778,False
+832,07-Feb-15,Georgia,Douglasville,3640 Willow Tree Circle,5,2,2015,GA,us,33.751388899999995,-84.7477778,False
+833,06-Feb-15,Oklahoma,Tulsa,1219 N. Sheridan Road,1,4,2015,OK,us,36.1538889,-95.9925,False
+834,05-Feb-15,Ohio,Beachwood,Harvard Road,3,3,2015,OH,us,41.4644444,-81.5088889,False
+835,01-Feb-15,New York,Syracuse,1217 West Fayette Street,0,6,2015,NY,us,43.04805560000001,-76.1477778,False
+836,01-Feb-15,New York,New York,3345 Broadway,1,4,2015,NY,us,40.7141667,-74.0063889,False
+837,31-Jan-15,Georgia,Lagrange,100 block of Woodstream Trail,4,0,2015,GA,,33.03788,-85.03006,True
+838,28-Jan-15,Georgia,Dekalb County,1600 block of Panola Road,1,3,2015,GA,,33.7956,-84.2279,True
+839,26-Jan-15,California,Stockton,1500 block of E. 9th Street,1,3,2015,CA,us,37.9577778,-121.2897222,False
+840,24-Jan-15,New York,Arverne,231-11 148th Avenue,4,1,2015,NY,us,40.591111100000006,-73.79638890000003,False
+841,24-Jan-15,Nebraska,Omaha,3402 Parker St,3,5,2015,NE,us,41.2586111,-95.9375,False
+842,23-Jan-15,Massachusetts,Boston,954 Parker Street,0,6,2015,MA,us,42.3583333,-71.0602778,False
+843,20-Jan-15,Tennessee,Clarksville,321 Lansinger Lane,1,3,2015,TN,us,36.5297222,-87.3594444,False
+844,19-Jan-15,Texas,San Antonio,1000 block of Gibbs St.,2,5,2015,TX,us,29.4238889,-98.4933333,False
+845,13-Jan-15,Virginia,Portsmouth,4100 block of Portsmouth Boulevard,0,5,2015,VA,us,36.8352778,-76.29861109999999,False
+846,13-Jan-15,Illinois,Rockford,700 block of Oakley Avenue,2,2,2015,IL,us,42.27111110000001,-89.09388890000002,False
+847,11-Jan-15,North Carolina,Hope Mills,1900 block of Gumberry Road,2,5,2015,NC,us,34.9702778,-78.94555559999998,False
+848,11-Jan-15,Florida,Lakeland,7665 Chase Road,1,3,2015,FL,us,28.039166700000006,-81.95,False
+849,11-Jan-15,California,San Jose,3840 Monterey Hwy,0,5,2015,CA,us,37.3394444,-121.8938889,False
+850,10-Jan-15,Kansas,Wichita,4859 E Harry Street,2,2,2015,KS,us,37.6922222,-97.3372222,False
+851,09-Jan-15,California,San Francisco,Laguna and Page streets,4,0,2015,CA,us,37.775,-122.4183333,False
+852,08-Jan-15,Massachusetts,Boston,104 Harrishof Street,1,3,2015,MA,us,42.3583333,-71.0602778,False
+853,07-Jan-15,Tennessee,Chattanooga,773 West Main Street,1,3,2015,TN,us,35.04555560000001,-85.30972220000002,False
+854,06-Jan-15,Florida,Miami,1300 block of NW 62nd Street,1,3,2015,FL,us,25.7738889,-80.1938889,False
+855,04-Jan-15,Virginia,Roanoke,3634 Shenandoah Ave NW,2,4,2015,VA,us,37.2708333,-79.9416667,False
+856,04-Jan-15,Texas,Dallas,2000 block of Ben Hur St.,3,1,2015,TX,us,32.783333299999995,-96.8,False
+857,02-Jan-15,Georgia,Savannah,500 block of W. 54th Street,1,4,2015,GA,us,32.0833333,-81.1,False
+858,01-Jan-15,Tennessee,Memphis,Interstate 240 and Poplar Avenue,0,5,2015,TN,us,35.14944439999999,-90.04888890000002,False
+859,31-Dec-16,Georgia,Lenox,27 Briarwood Ct,2,2,2016,GA,us,31.2713889,-83.465,False
+860,31-Dec-16,Texas,Houston,3704 Fannin Street,1,3,2016,TX,us,29.763055600000005,-95.3630556,False
+861,30-Dec-16,Ohio,Mansfield,3230 Possum Run Rd,0,5,2016,OH,us,40.7583333,-82.5155556,False
+862,30-Dec-16,Connecticut,Wallingford,95 S Turnpike Road,2,2,2016,CT,us,41.4569444,-72.8236111,False
+863,28-Dec-16,Georgia,Columbus,2914 10th Street,1,4,2016,GA,us,32.4608333,-84.98777779999998,False
+864,25-Dec-16,Alabama,Ozark,858 US-231,0,4,2016,AL,us,31.4588889,-85.6405556,False
+865,25-Dec-16,Illinois,Chicago,8600 block of South Maryland Avenue,3,4,2016,IL,us,41.85,-87.65,False
+866,25-Dec-16,New York,Mount Vernon,4 North 3rd Avenue,1,5,2016,NY,us,40.9125,-73.8375,False
+867,24-Dec-16,North Carolina,Madison,490 K Ford Rd,0,7,2016,NC,us,36.3852778,-79.9597222,False
+868,24-Dec-16,North Carolina,Wilson,2241 Banks Lane East,4,0,2016,NC,us,35.7211111,-77.9158333,False
+869,23-Dec-16,Alabama,Birmingham,3813 Richard Arrington Boulevard North,1,3,2016,AL,us,33.5205556,-86.8025,False
+870,23-Dec-16,Illinois,Chicago,4900 block of West Hubbard,0,4,2016,IL,us,41.85,-87.65,False
+871,17-Dec-16,North Carolina,Charlotte,4115 N. Tryon Street,0,4,2016,NC,us,35.226944399999994,-80.8433333,False
+872,17-Dec-16,Illinois,Chicago,100 block of West 105th Street,4,1,2016,IL,us,41.85,-87.65,False
+873,16-Dec-16,Illinois,Chicago,4300 block of South Rockwell,2,2,2016,IL,us,41.85,-87.65,False
+874,16-Dec-16,Illinois,Chicago,13th and South Kedzie,0,4,2016,IL,us,41.85,-87.65,False
+875,12-Dec-16,California,Sacramento,4800 block of Myrtle Avenue,1,3,2016,CA,us,38.5816667,-121.4933333,False
+876,11-Dec-16,New York,Brooklyn,192 Knickerbocker Ave,0,4,2016,NY,us,40.65,-73.95,False
+877,11-Dec-16,Florida,Orlando,4305 N Pine Hills Rd,1,4,2016,FL,us,28.538055600000003,-81.3794444,False
+878,11-Dec-16,Maryland,Baltimore,3916 South Hanover Street,0,5,2016,MD,us,39.2902778,-76.6125,False
+879,11-Dec-16,North Carolina,Rocky Mount,1200 block of East Highland Ave,0,4,2016,NC,us,35.93805560000001,-77.7908333,False
+880,09-Dec-16,Texas,Channelview,15300 block of Market,4,0,2016,TX,us,29.7758333,-95.1144444,False
+881,09-Dec-16,California,Fresno,842 Fresno Street,0,4,2016,CA,us,36.7477778,-119.7713889,False
+882,05-Dec-16,New Mexico,Albuquerque,1532 Stagecoach Lane,4,1,2016,NM,us,35.084444399999995,-106.6505556,False
+883,03-Dec-16,California,Los Angeles,91st Street and Western Avenue,0,6,2016,CA,us,34.0522222,-118.2427778,False
+884,02-Dec-16,New Jersey,Bloomfield,3 1st Ave,0,6,2016,NJ,us,40.8066667,-74.1858333,False
+885,01-Dec-16,California,Clearlake Oaks,,1,3,2016,CA,us,39.02638889999999,-122.67083329999998,False
+886,30-Nov-16,Maryland,Baltimore,2901 Garrison Blvd,2,4,2016,MD,us,39.2902778,-76.6125,False
+887,28-Nov-16,Texas,Mission,1840 West Palma Vista Drive,1,3,2016,TX,us,26.215555600000005,-98.325,False
+888,28-Nov-16,California,Wilmington,1067 McDonald Avenue,0,4,2016,CA,us,33.78,-118.2616667,False
+889,28-Nov-16,California,San Pedro,300 block of West 2nd Street,0,4,2016,CA,us,33.7358333,-118.2913889,False
+890,27-Nov-16,Louisiana,New Orleans,100 block of Bourbon Street,1,9,2016,LA,us,29.9544444,-90.075,False
+891,27-Nov-16,Missouri,Kansas City,Gregory and Prospect,0,7,2016,MO,us,39.0997222,-94.5783333,False
+892,26-Nov-16,Illinois,Chicago,8800 block of S Exchange Ave,1,5,2016,IL,us,41.85,-87.65,False
+893,25-Nov-16,Louisiana,New Orleans,Magnolia Street and Felicity Street,0,4,2016,LA,us,29.9544444,-90.075,False
+894,24-Nov-16,Kentucky,Louisville,4501 W Broadway,2,4,2016,KY,us,38.2541667,-85.7594444,False
+895,24-Nov-16,New York,Albany,77 Central Ave,1,3,2016,NY,us,42.6525,-73.7566667,False
+896,23-Nov-16,Mississippi,Olive Branch,928 Cross Road,0,4,2016,MS,us,34.9616667,-89.8294444,False
+897,22-Nov-16,Florida,Clewiston,1068 Harlem Academy Avenue,1,4,2016,FL,us,26.7538889,-80.93388890000001,False
+898,18-Nov-16,Illinois,Chicago,5000 block of West Wabansia,0,4,2016,IL,us,41.85,-87.65,False
+899,17-Nov-16,Tennessee,Dyersburg,160 Longfellow,1,7,2016,TN,us,36.0344444,-89.3855556,False
+900,13-Nov-16,Florida,Jacksonville,5105 Cleveland Rd,3,2,2016,FL,us,30.3319444,-81.6558333,False
+901,13-Nov-16,Texas,San Antonio,8000 Midcrown,0,4,2016,TX,us,29.4238889,-98.4933333,False
+902,13-Nov-16,California,San Diego,3800 block of Marlborough Avenue,3,2,2016,CA,us,32.7152778,-117.1563889,False
+903,13-Nov-16,Florida,Orlando,Conley Street and South Ivey Lane,0,4,2016,FL,us,28.538055600000003,-81.3794444,False
+904,12-Nov-16,California,Sacramento,8600 block of Ardith Drive,1,5,2016,CA,us,38.5816667,-121.4933333,False
+905,12-Nov-16,Missouri,Kansas City,21st St and Cleveland Ave,1,3,2016,MO,us,39.0997222,-94.5783333,False
+906,12-Nov-16,Connecticut,Bridgeport,2500 Park Avenue,0,5,2016,CT,us,41.1669444,-73.20527779999998,False
+907,11-Nov-16,Texas,Houston,7705 Channelside Street,0,4,2016,TX,us,29.763055600000005,-95.3630556,False
+908,10-Nov-16,Texas,Houston,6610 S Sam Houston Pkwy W,1,3,2016,TX,us,29.763055600000005,-95.3630556,False
+909,09-Nov-16,Washington,Seattle,1524 3rd Ave,0,5,2016,WA,us,47.6063889,-122.33083329999998,False
+910,09-Nov-16,Illinois,Chicago,3400 block of W Monroe,1,3,2016,IL,us,41.85,-87.65,False
+911,09-Nov-16,Tennessee,Memphis,1800 block of East Brooks Road,0,4,2016,TN,us,35.14944439999999,-90.04888890000002,False
+912,05-Nov-16,Florida,Fort Lauderdale,3135 West Broward Boulevard,1,3,2016,FL,us,26.1219444,-80.14361109999999,False
+913,05-Nov-16,Texas,San Antonio,10726 Perrin Beitel Rd,0,4,2016,TX,us,29.4238889,-98.4933333,False
+914,05-Nov-16,South Carolina,Myrtle Beach,803 Main St,0,5,2016,SC,us,33.688888899999995,-78.8869444,False
+915,05-Nov-16,California,Oakland,420 14th Street,0,8,2016,CA,us,37.8044444,-122.2697222,False
+916,05-Nov-16,Illinois,Chicago,4800 block of North Winthrop,0,5,2016,IL,us,41.85,-87.65,False
+917,04-Nov-16,Pennsylvania,Philadelphia,5451 Springfield Ave,0,4,2016,PA,us,39.9522222,-75.1641667,False
+918,03-Nov-16,Illinois,Chicago,8000 block of S Shore Dr,2,2,2016,IL,us,41.85,-87.65,False
+919,03-Nov-16,New Jersey,Orange,234 Cleveland Street,2,2,2016,NJ,us,40.7705556,-74.2330556,False
+920,02-Nov-16,Arkansas,Little Rock,2111 Bragg Street,1,4,2016,AR,us,34.7463889,-92.2894444,False
+921,01-Nov-16,Tennessee,Memphis,5200 block of Zodiac Rd,1,5,2016,TN,us,35.14944439999999,-90.04888890000002,False
+922,31-Oct-16,Louisiana,Shreveport,700 Block of W 68th St,0,4,2016,LA,us,32.525,-93.75,False
+923,30-Oct-16,Ohio,Toledo,742 Junction Ave,0,4,2016,OH,us,41.6638889,-83.5552778,False
+924,30-Oct-16,Texas,San Antonio,2900 block of Aspen Meadow,0,5,2016,TX,us,29.4238889,-98.4933333,False
+925,30-Oct-16,New York,New York,135 Ridge Street,0,4,2016,NY,us,40.7141667,-74.0063889,False
+926,30-Oct-16,New York,Newburgh,119 First Street,2,5,2016,NY,us,41.5033333,-74.0108333,False
+927,30-Oct-16,Maryland,Capitol Heights,6860 Walker Mill Road,3,3,2016,MD,us,38.885,-76.9161111,False
+928,29-Oct-16,Ohio,Dayton,2010 Cornell Ridge Dr,1,3,2016,OH,us,39.7588889,-84.1916667,False
+929,29-Oct-16,California,Los Angeles,1600 block of Century Boulevard,0,5,2016,CA,us,34.0522222,-118.2427778,False
+930,29-Oct-16,California,Riverside,3500 block of Madison Street,0,4,2016,CA,us,33.9533333,-117.3952778,False
+931,28-Oct-16,Mississippi,Jackson,200 block of Lorenz Blvd,0,6,2016,MS,us,32.2986111,-90.1847222,False
+932,28-Oct-16,Florida,Miami Gardens,Northwest 173rd Terrace and 27th Avenue,0,4,2016,FL,us,25.9794444,-80.20277779999998,False
+933,27-Oct-16,Georgia,Jackson,600 block of Moccasin Gap Road,4,0,2016,GA,us,33.2944444,-83.96611109999998,False
+934,25-Oct-16,Ohio,Dayton,3300 block of Riverside Dr,1,3,2016,OH,us,39.7588889,-84.1916667,False
+935,25-Oct-16,Virginia,Roanoke,830 Campbell Avenue Southeast,2,3,2016,VA,us,37.2708333,-79.9416667,False
+936,23-Oct-16,Oklahoma,Wellston,Highway 66 and N 3310 Rd,1,5,2016,OK,us,35.69416670000001,-97.0630556,False
+937,22-Oct-16,California,Oakland,77th and Bancroft Avenues,0,7,2016,CA,us,37.8044444,-122.2697222,False
+938,18-Oct-16,California,San Francisco,325 La Grande Ave,0,4,2016,CA,us,37.775,-122.4183333,False
+939,17-Oct-16,Illinois,Chicago,6700 block of South Winchester,1,4,2016,IL,us,41.85,-87.65,False
+940,15-Oct-16,Alabama,Mobile,1800 block of St Stephens Road,0,5,2016,AL,us,30.6941667,-88.0430556,False
+941,15-Oct-16,Illinois,Rockford,7801 East State St,1,5,2016,IL,us,42.27111110000001,-89.09388890000002,False
+942,15-Oct-16,California,Los Angeles,2918 Rimpau Blvd,4,11,2016,CA,us,34.0522222,-118.2427778,False
+943,14-Oct-16,Illinois,Chicago,3300 block of W Maypole Ave,1,6,2016,IL,us,41.85,-87.65,False
+944,13-Oct-16,Illinois,Chicago,2700 block of West Lexington,0,4,2016,IL,us,41.85,-87.65,False
+945,09-Oct-16,Michigan,Grand Rapids,1850 28th Street SE,1,8,2016,MI,us,42.9633333,-85.6680556,False
+946,09-Oct-16,California,Sacramento,1696 Arden Way,1,3,2016,CA,us,38.5816667,-121.4933333,False
+947,08-Oct-16,New York,Brooklyn,7301 3rd Ave,0,4,2016,NY,us,40.65,-73.95,False
+948,04-Oct-16,Louisiana,New Orleans,3727 Ulloa Street,3,2,2016,LA,us,29.9544444,-90.075,False
+949,03-Oct-16,Minnesota,Minneapolis,Fourth St and Hennepin Ave,0,4,2016,MN,us,44.98,-93.2636111,False
+950,02-Oct-16,Texas,San Antonio,2600 South Flores Street,1,4,2016,TX,us,29.4238889,-98.4933333,False
+951,01-Oct-16,Illinois,Pembroke Township,17250E Road,4,0,2016,IL,,41.0667,-87.6250348,True
+952,01-Oct-16,California,Fresno,3200 block of East Clay Avenue,0,4,2016,CA,us,36.7477778,-119.7713889,False
+953,29-Sep-16,California,San Francisco,400 block of Ellis Street,1,3,2016,CA,us,37.775,-122.4183333,False
+954,26-Sep-16,North Carolina,Winston Salem,100 block of 5 Royales Dr,0,4,2016,NC,,36.099861,-80.244217,True
+955,26-Sep-16,Texas,Humble,21219 Grand Linden Ct,0,4,2016,TX,us,29.998611100000005,-95.2619444,False
+956,26-Sep-16,Texas,Houston,5450 Weslayan St,1,6,2016,TX,us,29.763055600000005,-95.3630556,False
+957,25-Sep-16,Illinois,Champaign,300 block of E. Green St,1,3,2016,IL,us,40.1163889,-88.2433333,False
+958,24-Sep-16,Maryland,Baltimore,Greenmount Avenue and Preston Street,0,8,2016,MD,us,39.2902778,-76.6125,False
+959,23-Sep-16,Washington,Burlington,201 Cascade Mall Dr,5,0,2016,WA,us,48.4758333,-122.3241667,False
+960,18-Sep-16,Pennsylvania,Philadelphia,3001 Castor Avenue,0,4,2016,PA,us,39.9522222,-75.1641667,False
+961,18-Sep-16,Virginia,Lynchburg,421 Rivermont Ave,1,3,2016,VA,us,37.4136111,-79.1425,False
+962,18-Sep-16,Pennsylvania,Pittsburgh,1700 block of Brighton Place,0,4,2016,PA,us,40.4405556,-79.9961111,False
+963,17-Sep-16,Florida,Miami,20582 SW 119th Ave,0,6,2016,FL,us,25.7738889,-80.1938889,False
+964,17-Sep-16,Florida,Orlando,3918 Columbia St,1,6,2016,FL,us,28.538055600000003,-81.3794444,False
+965,17-Sep-16,Indiana,Indianapolis,2016 West 76th Street,2,2,2016,IN,us,39.7683333,-86.1580556,False
+966,17-Sep-16,District of Columbia,Washington,2600 block of Birney Place SE,2,7,2016,,,47.751076,-120.740135,True
+967,16-Sep-16,Pennsylvania,Philadelphia,5100 block of Sansom St,2,5,2016,PA,us,39.9522222,-75.1641667,False
+968,16-Sep-16,California,Los Angeles,555 N Heliotrope Dr,2,2,2016,CA,us,34.0522222,-118.2427778,False
+969,14-Sep-16,Texas,Humble,16000 block of Saybrook,1,3,2016,TX,us,29.998611100000005,-95.2619444,False
+970,13-Sep-16,Indiana,Fort Wayne,1723 E Wayne St,3,2,2016,IN,us,41.1305556,-85.1288889,False
+971,11-Sep-16,Indiana,Fort Wayne,3006 Holton Avenue,3,1,2016,IN,us,41.1305556,-85.1288889,False
+972,11-Sep-16,Louisiana,New Orleans,2349 S Claiborne Ave,1,5,2016,LA,us,29.9544444,-90.075,False
+973,11-Sep-16,New Jersey,Jersey City,87 Van Wagenen Ave,1,3,2016,NJ,us,40.72805560000001,-74.0780556,False
+974,11-Sep-16,Missouri,Kansas City,500 block of Westport Rd,0,6,2016,MO,us,39.0997222,-94.5783333,False
+975,11-Sep-16,Michigan,Saginaw,2207 Pierce Road,0,5,2016,MI,us,43.4194444,-83.9508333,False
+976,11-Sep-16,North Carolina,New Bern,1100 block of Highway 70,0,5,2016,NC,us,35.1083333,-77.0444444,False
+977,10-Sep-16,Florida,Miami,3451 Northwest 36 Street,1,3,2016,FL,us,25.7738889,-80.1938889,False
+978,08-Sep-16,Texas,Del Valle,8330 Linden Rd,4,0,2016,TX,us,30.210555600000006,-97.6544444,False
+979,08-Sep-16,Arkansas,Hot Springs National Park,300 block of Lacey St,1,4,2016,AR,,34.5313219,-93.0637411,True
+980,05-Sep-16,Illinois,Chicago,2700 block of W Lexington Ave,2,3,2016,IL,us,41.85,-87.65,False
+981,05-Sep-16,Pennsylvania,Reading,600 block of Moss Street,0,4,2016,PA,us,40.335555600000006,-75.9272222,False
+982,04-Sep-16,Virginia,Roanoke,1020 Orange Ave NE,1,10,2016,VA,us,37.2708333,-79.9416667,False
+983,03-Sep-16,Illinois,Chicago,100 block of North Seeley Avenue,0,4,2016,IL,us,41.85,-87.65,False
+984,03-Sep-16,North Carolina,Wilmington,600 block of North 30th Street,1,3,2016,NC,us,34.22555560000001,-77.945,False
+985,30-Aug-16,Georgia,Atlanta,400 Merritts Avenue NE,0,4,2016,GA,us,33.7488889,-84.3880556,False
+986,30-Aug-16,Illinois,Chicago,6800 block of South Ashland,0,4,2016,IL,us,41.85,-87.65,False
+987,29-Aug-16,New Jersey,Egg Harbor City,907 White Horse Pike,1,5,2016,NJ,us,39.528611100000006,-74.6483333,False
+988,29-Aug-16,California,Temecula,41450 Cruz Way,5,0,2016,CA,us,33.4936111,-117.1475,False
+989,28-Aug-16,Texas,Lubbock,2200 block of 17th St,0,6,2016,TX,us,33.5777778,-101.8547222,False
+990,28-Aug-16,New York,Bronx,514 E 156th St,0,4,2016,NY,us,40.85,-73.8666667,False
+991,28-Aug-16,Missouri,Saint Louis,S Grand Blvd and Montana St,2,2,2016,MO,us,38.6272222,-90.1977778,False
+992,28-Aug-16,Alabama,Dadeville,512 E Columbus St,0,5,2016,AL,us,32.8311111,-85.76361109999998,False
+993,27-Aug-16,Alabama,Bessemer,3810 7th Ave,1,6,2016,AL,us,33.4016667,-86.9544444,False
+994,27-Aug-16,Florida,Miami,1900 block of NW 83rd Terr,2,4,2016,FL,us,25.7738889,-80.1938889,False
+995,25-Aug-16,New Jersey,Bridgeton,Marion Street,0,5,2016,NJ,us,39.4272222,-75.2344444,False
+996,21-Aug-16,Connecticut,Bridgeport,19 Plymouth St,0,13,2016,CT,us,41.1669444,-73.20527779999998,False
+997,21-Aug-16,Massachusetts,Boston,Westview and Stratton Street,0,4,2016,MA,us,42.3583333,-71.0602778,False
+998,20-Aug-16,Washington,Tacoma,900 block of Pacific Avenue,0,5,2016,WA,us,47.2530556,-122.44305559999998,False
+999,20-Aug-16,Connecticut,Hamden,903 Dixwell Ave,0,4,2016,CT,us,41.3958333,-72.8972222,False
+1000,20-Aug-16,Alabama,Citronelle,Jim Platt Road,5,0,2016,AL,us,31.090555600000005,-88.2280556,False
+1001,18-Aug-16,Connecticut,Waterbury,402 E Main Street,0,4,2016,CT,us,41.5580556,-73.0519444,False
+1002,17-Aug-16,California,Oakland,Mandela Parkway,0,4,2016,CA,us,37.8044444,-122.2697222,False
+1003,14-Aug-16,Virginia,Norfolk,1600 block of Selden Avenue,0,4,2016,VA,us,36.8466667,-76.2855556,False
+1004,14-Aug-16,Minnesota,Minneapolis,1717 Plymouth Ave N,0,5,2016,MN,us,44.98,-93.2636111,False
+1005,13-Aug-16,California,Los Angeles,6300 block of 11th Avenue,0,4,2016,CA,us,34.0522222,-118.2427778,False
+1006,13-Aug-16,Wisconsin,Milwaukee,4001 West Fond Du Lac Ave,2,2,2016,WI,us,43.0388889,-87.90638890000002,False
+1007,13-Aug-16,New York,Richmond Hill,Jamaica Ave and 105th St,0,4,2016,NY,us,40.6997222,-73.8316667,False
+1008,13-Aug-16,Missouri,Joplin,1800 Connecticut Ave,0,4,2016,MO,us,37.0841667,-94.5130556,False
+1009,12-Aug-16,Florida,Jacksonville,100 block of West 38th Street,1,3,2016,FL,us,30.3319444,-81.6558333,False
+1010,12-Aug-16,Texas,Dallas,10921 Estate Ln,1,3,2016,TX,us,32.783333299999995,-96.8,False
+1011,11-Aug-16,Pennsylvania,Philadelphia,500 block of E Ashmead St,0,4,2016,PA,us,39.9522222,-75.1641667,False
+1012,10-Aug-16,Illinois,Evanston,Foster Street and Jackson Avenue,0,4,2016,IL,us,42.0411111,-87.69,False
+1013,10-Aug-16,California,Sacramento,4000 Green Tree Drive,1,3,2016,CA,us,38.5816667,-121.4933333,False
+1014,08-Aug-16,New Mexico,Albuquerque,341 General Marshall Street NE,2,2,2016,NM,us,35.084444399999995,-106.6505556,False
+1015,08-Aug-16,Florida,Jacksonville,1214 Labelle St,0,7,2016,FL,us,30.3319444,-81.6558333,False
+1016,07-Aug-16,California,Los Angeles,5925 South Figueroa Street,1,3,2016,CA,us,34.0522222,-118.2427778,False
+1017,07-Aug-16,Mississippi,Vicksburg,4460 Clay St,1,3,2016,MS,us,32.3525,-90.8777778,False
+1018,07-Aug-16,Colorado,Arvada,5400 block of Sheridan Boulevard,2,2,2016,CO,us,39.8027778,-105.0869444,False
+1019,07-Aug-16,Illinois,Chicago,100 block of South Springfield,0,4,2016,IL,us,41.85,-87.65,False
+1020,06-Aug-16,Pennsylvania,Reading,51 Winding Brook Drive,5,0,2016,PA,us,40.335555600000006,-75.9272222,False
+1021,05-Aug-16,Michigan,Pontiac,70 block of Thorpe Street,1,3,2016,MI,us,42.6388889,-83.2911111,False
+1022,05-Aug-16,California,Perris,21600 block of Rider St,2,2,2016,CA,us,33.7825,-117.2277778,False
+1023,04-Aug-16,Tennessee,Memphis,Ayers Street and Griffith Avenue,0,4,2016,TN,us,35.14944439999999,-90.04888890000002,False
+1024,03-Aug-16,Georgia,Decatur,4110 Glenwood Road,1,3,2016,GA,us,33.7747222,-84.29638890000003,False
+1025,02-Aug-16,Florida,Hollywood,5700 block of Hallandale Beach Blvd,0,4,2016,FL,us,26.0108333,-80.14972220000001,False
+1026,01-Aug-16,Indiana,Evansville,South Bedford Avenue,0,4,2016,IN,us,37.9747222,-87.5558333,False
+1027,31-Jul-16,Florida,Miami,Southwest 203rd Terrace and 115th Avenue,3,1,2016,FL,us,25.7738889,-80.1938889,False
+1028,31-Jul-16,Texas,Austin,208 East Sixth Street,1,4,2016,TX,us,30.2669444,-97.7427778,False
+1029,30-Jul-16,Missouri,Saint Louis,5000 block of Kensington Ave,0,5,2016,MO,us,38.6272222,-90.1977778,False
+1030,30-Jul-16,Georgia,Townsend,14699 Highway 17,0,5,2016,GA,us,31.539166700000006,-81.5227778,False
+1031,30-Jul-16,Washington,Mukilteo,10009 Chennault Beach,3,1,2016,WA,us,47.9447222,-122.3033333,False
+1032,29-Jul-16,Georgia,Athens,Trail Creek St,0,7,2016,GA,us,33.9608333,-83.3780556,False
+1033,28-Jul-16,New York,Elmira,303 College Ave,0,5,2016,NY,us,42.0897222,-76.8080556,False
+1034,28-Jul-16,Maryland,Baltimore,Greenmount Avenue,0,4,2016,MD,us,39.2902778,-76.6125,False
+1035,28-Jul-16,Illinois,Chicago,800 block of West 50th Place,2,2,2016,IL,us,41.85,-87.65,False
+1036,25-Jul-16,Florida,Fort Myers,3580 Evans Ave,2,19,2016,FL,us,26.6402778,-81.8725,False
+1037,24-Jul-16,Ohio,Hamilton,1555 Main St,1,7,2016,OH,us,39.39944439999999,-84.56138890000003,False
+1038,23-Jul-16,South Carolina,North Charleston,3630 Ashley Phosphate Road,0,4,2016,SC,us,32.8544444,-79.975,False
+1039,23-Jul-16,New York,Brooklyn,Fountain Avenue,0,4,2016,NY,us,40.65,-73.95,False
+1040,23-Jul-16,Ohio,Cincinnati,3400 block of Beekman Street,2,2,2016,OH,us,39.1619444,-84.4569444,False
+1041,23-Jul-16,Texas,Bastrop,202 Childers Drive,4,1,2016,TX,us,30.1102778,-97.315,False
+1042,22-Jul-16,Illinois,Kankakee,300 block of North Wildwood Avenue,0,5,2016,IL,us,41.12,-87.86111109999999,False
+1043,21-Jul-16,Illinois,Chicago,4400 block of South Leamington,0,5,2016,IL,us,41.85,-87.65,False
+1044,20-Jul-16,California,Fresno,Hedges at Peach and Olive,0,4,2016,CA,us,36.7477778,-119.7713889,False
+1045,19-Jul-16,Arkansas,West Memphis,13th Street and Tyler Avenue,0,4,2016,AR,us,35.1463889,-90.1844444,False
+1046,17-Jul-16,Louisiana,Baton Rouge,9611 Airline Highway,4,3,2016,LA,us,30.450555600000005,-91.1544444,False
+1047,17-Jul-16,Texas,Houston,6610 Tidwell,1,3,2016,TX,us,29.763055600000005,-95.3630556,False
+1048,17-Jul-16,Michigan,Detroit,Grand River and McGraw avenue,0,4,2016,MI,us,42.33138889999999,-83.0458333,False
+1049,16-Jul-16,Texas,Dallas,6300 block of Benavides Drive,0,5,2016,TX,us,32.783333299999995,-96.8,False
+1050,16-Jul-16,Ohio,Cleveland,5000 block of Euclid Avenue,0,5,2016,OH,us,41.4994444,-81.69555559999998,False
+1051,16-Jul-16,California,San Bernardino,1200 block of West 25th Street,0,4,2016,CA,us,34.1083333,-117.2888889,False
+1052,16-Jul-16,California,Bakersfield,621 Stephens Drive,1,14,2016,CA,us,35.3733333,-119.0177778,False
+1053,16-Jul-16,Tennessee,Clarksville,1348 College Street,0,6,2016,TN,us,36.5297222,-87.3594444,False
+1054,15-Jul-16,Washington,Woodland,4006 NW 417th Street,3,1,2016,WA,us,45.9047222,-122.7427778,False
+1055,14-Jul-16,Texas,Crosby,400 block of Pecan Avenue,3,1,2016,TX,us,29.9116667,-95.0619444,False
+1056,14-Jul-16,California,Oakland,1600 block of 7th Street,0,4,2016,CA,us,37.8044444,-122.2697222,False
+1057,14-Jul-16,Ohio,Akron,900 block of Moeller Avenue,1,3,2016,OH,us,41.08138889999999,-81.5191667,False
+1058,13-Jul-16,Georgia,Warner Robins,105 Magnolia Avenue,0,5,2016,GA,us,32.6208333,-83.6,False
+1059,13-Jul-16,Missouri,Saint Louis,3000 block of Miami St,2,2,2016,MO,us,38.6272222,-90.1977778,False
+1060,11-Jul-16,Maryland,Baltimore,1800 block of W. North Avenue,0,5,2016,MD,us,39.2902778,-76.6125,False
+1061,11-Jul-16,Michigan,Jackson,500 block of Summit Avenue,0,4,2016,MI,us,42.2458333,-84.40138890000001,False
+1062,11-Jul-16,Michigan,Saint Joseph,811 Port St,3,2,2016,MI,us,42.1097222,-86.48,False
+1063,11-Jul-16,District of Columbia,Washington,"5100 block of Call Pl., SE",0,4,2016,,,47.751076,-120.740135,True
+1064,07-Jul-16,Tennessee,Bristol,536 Volunteer Parkway,1,4,2016,TN,us,36.595,-82.18888890000002,False
+1065,07-Jul-16,Texas,Dallas,800 Main St,5,9,2016,TX,us,32.783333299999995,-96.8,False
+1066,07-Jul-16,Louisiana,Baton Rouge,2136 North Lobdell Avenue,0,4,2016,LA,us,30.450555600000005,-91.1544444,False
+1067,05-Jul-16,California,Los Angeles,56th Street and Naomi Avenue,0,4,2016,CA,us,34.0522222,-118.2427778,False
+1068,04-Jul-16,Pennsylvania,Pittsburgh,Seventh Ave and Liberty Ave,0,4,2016,PA,us,40.4405556,-79.9961111,False
+1069,04-Jul-16,Illinois,Chicago,5500 block of South Hermitage Avenue,0,4,2016,IL,us,41.85,-87.65,False
+1070,04-Jul-16,New York,Brooklyn,419 Chauncey Street,0,7,2016,NY,us,40.65,-73.95,False
+1071,04-Jul-16,Ohio,Cleveland,1400 block of W. 107 Street,0,4,2016,OH,us,41.4994444,-81.69555559999998,False
+1072,04-Jul-16,Texas,Houston,1300 block of Robin,3,2,2016,TX,us,29.763055600000005,-95.3630556,False
+1073,04-Jul-16,Arizona,Phoenix,4000 block of West Southern Avenue,2,6,2016,AZ,us,33.4483333,-112.0733333,False
+1074,03-Jul-16,Louisiana,Monroe,401 Lea Joyner Memorial Expy,2,3,2016,LA,us,32.5091667,-92.1191667,False
+1075,03-Jul-16,Tennessee,Chattanooga,2300 block of Daisy Street,0,4,2016,TN,us,35.04555560000001,-85.30972220000002,False
+1076,30-Jun-16,Illinois,Chicago,9500 block of South Loomis Street,1,4,2016,IL,us,41.85,-87.65,False
+1077,29-Jun-16,Nevada,Las Vegas,6100 block of West Lake Mead Boulevard,5,0,2016,NV,us,36.175,-115.1363889,False
+1078,28-Jun-16,California,Los Angeles,13800 block of S Avalon Boulevard,1,3,2016,CA,us,34.0522222,-118.2427778,False
+1079,28-Jun-16,Illinois,Chicago,1600 block of South Christiana,0,4,2016,IL,us,41.85,-87.65,False
+1080,27-Jun-16,Oregon,Woodburn,13436 Killiam Loop NE,3,1,2016,OR,us,45.14388889999999,-122.8541667,False
+1081,26-Jun-16,South Carolina,Bennettsville,Highway 38 N,0,4,2016,SC,us,34.6172222,-79.685,False
+1082,26-Jun-16,Georgia,Atlanta,1500 block of Moreland Avenue SE,1,4,2016,GA,us,33.7488889,-84.3880556,False
+1083,26-Jun-16,Texas,Houston,6000 block of Elm Street,1,3,2016,TX,us,29.763055600000005,-95.3630556,False
+1084,26-Jun-16,Texas,Corpus Christi,Baldwin Blvd and Lamar,0,4,2016,TX,us,27.8002778,-97.39611109999998,False
+1085,26-Jun-16,North Carolina,Charlotte,2240 Camp Greene St.,0,5,2016,NC,us,35.226944399999994,-80.8433333,False
+1086,25-Jun-16,Texas,Fort Worth,2466 East Lancaster Avenue,2,5,2016,TX,us,32.7252778,-97.3205556,False
+1087,25-Jun-16,Virginia,Norfolk,700 block of Craig Street,0,4,2016,VA,us,36.8466667,-76.2855556,False
+1088,25-Jun-16,Illinois,Chicago,1400 block of W. 114th Place,0,4,2016,IL,us,41.85,-87.65,False
+1089,24-Jun-16,Kansas,Kansas City,N. 3rd and Walker,0,4,2016,KS,us,39.1141667,-94.6272222,False
+1090,24-Jun-16,Connecticut,Hartford,Brook and Winter Street,0,5,2016,CT,us,41.76361110000001,-72.6855556,False
+1091,24-Jun-16,Maryland,District Heights,3100 block of Orleans Ave,3,2,2016,MD,us,38.8575,-76.88972220000002,False
+1092,22-Jun-16,Washington,Olympia,500 block of Dutterow Road SE,3,1,2016,WA,us,47.03805560000001,-122.8994444,False
+1093,22-Jun-16,Georgia,Dekalb,Lancashire Drive and Central Drive,1,4,2016,GA,,33.7956,-84.2279,True
+1094,22-Jun-16,Illinois,Chicago,3100 block of West Warren,0,4,2016,IL,us,41.85,-87.65,False
+1095,21-Jun-16,New Jersey,Willingboro,Mosshill Lane,0,4,2016,NJ,us,40.0277778,-74.8694444,False
+1096,21-Jun-16,Kentucky,Louisville,2802 Rodman Street,2,2,2016,KY,us,38.2541667,-85.7594444,False
+1097,19-Jun-16,Virginia,Roanoke,2328 Melrose Avenue,0,4,2016,VA,us,37.2708333,-79.9416667,False
+1098,18-Jun-16,Virginia,Exmore,Fredrick Douglas Road,1,3,2016,VA,us,37.5316667,-75.8233333,False
+1099,18-Jun-16,Georgia,Waycross,2625 Arnold Ct,2,2,2016,GA,us,31.2133333,-82.35416670000002,False
+1100,18-Jun-16,Illinois,Chicago,East 79th Street and South Escanaba Avenue,0,4,2016,IL,us,41.85,-87.65,False
+1101,14-Jun-16,Delaware,Wilmington,South Van Buren and Elm streets,0,4,2016,DE,us,39.7458333,-75.5469444,False
+1102,14-Jun-16,California,Oakland,1301 Franklin Street,1,3,2016,CA,us,37.8044444,-122.2697222,False
+1103,13-Jun-16,California,Fresno,East El Monte Way and Recreation Avenue,0,4,2016,CA,us,36.7477778,-119.7713889,False
+1104,13-Jun-16,New York,Brooklyn,Avenue D and E. 57th,0,5,2016,NY,us,40.65,-73.95,False
+1105,13-Jun-16,Illinois,Chicago,3200 block of West Congress,0,5,2016,IL,us,41.85,-87.65,False
+1106,12-Jun-16,Florida,Orlando,1912 S Orange Avenue,50,53,2016,FL,us,28.538055600000003,-81.3794444,False
+1107,11-Jun-16,New Mexico,Roswell,2300 block of Davis Ave,5,0,2016,NM,us,33.3941667,-104.5225,False
+1108,11-Jun-16,Minnesota,Webster,4000 block of Elmore Avenue,0,4,2016,MN,us,44.5297222,-93.3525,False
+1109,11-Jun-16,California,Stockton,Alvarado Avenue,1,3,2016,CA,us,37.9577778,-121.2897222,False
+1110,11-Jun-16,California,Panorama City,8500 block of Cedros Avenue,3,2,2016,CA,us,34.2247222,-118.4488889,False
+1111,11-Jun-16,North Carolina,Charlotte,4000 block of Collegiate Avenue,1,3,2016,NC,us,35.226944399999994,-80.8433333,False
+1112,09-Jun-16,Florida,Fort Walton Beach,Landview Drive,0,4,2016,FL,us,30.405555600000003,-86.6188889,False
+1113,08-Jun-16,District of Columbia,Washington,North Capitol Street and New York Avenue NW,0,4,2016,,,47.751076,-120.740135,True
+1114,08-Jun-16,Massachusetts,Boston,66 Washington St,1,3,2016,MA,us,42.3583333,-71.0602778,False
+1115,06-Jun-16,California,Visalia,33 60 South Fairway Street,0,4,2016,CA,us,36.3302778,-119.2911111,False
+1116,05-Jun-16,Minnesota,Minneapolis,8th and Humboldt Avenue N.,0,4,2016,MN,us,44.98,-93.2636111,False
+1117,05-Jun-16,Florida,Cape Coral,2600 block of Skyline Boulevard S,3,3,2016,FL,us,26.5625,-81.94972220000002,False
+1118,05-Jun-16,Arizona,Phoenix,8152 N Black Canyon Hwy,2,4,2016,AZ,us,33.4483333,-112.0733333,False
+1119,05-Jun-16,New York,Brooklyn,Mermaid Ave and 16th St.,0,4,2016,NY,us,40.65,-73.95,False
+1120,04-Jun-16,Colorado,Denver,3600 block of Hudson Street,3,1,2016,CO,us,39.7391667,-104.98416670000002,False
+1121,31-May-16,Illinois,Chicago,3300 block of West Huron Street,0,4,2016,IL,us,41.85,-87.65,False
+1122,31-May-16,Indiana,Fort Wayne,6600 block of Pawawna Drive,0,4,2016,IN,us,41.1305556,-85.1288889,False
+1123,30-May-16,Maryland,Baltimore,500 block of East 43rd Street,0,5,2016,MD,us,39.2902778,-76.6125,False
+1124,30-May-16,California,Sacramento,3900 block of 44th,0,5,2016,CA,us,38.5816667,-121.4933333,False
+1125,29-May-16,Nevada,Las Vegas,200 block of N 3rd St,0,4,2016,NV,us,36.175,-115.1363889,False
+1126,29-May-16,New Jersey,Trenton,600 block of Martin Luther King Jr. Boulevard,0,6,2016,NJ,us,40.2169444,-74.7433333,False
+1127,29-May-16,Indiana,Indianapolis,300 block of South Meridian Street,0,4,2016,IN,us,39.7683333,-86.1580556,False
+1128,29-May-16,Texas,Houston,13210 Memorial Drive,2,6,2016,TX,us,29.763055600000005,-95.3630556,False
+1129,23-May-16,New Jersey,Newark,102 Isabella Avenue,0,5,2016,NJ,us,40.73555560000001,-74.17277779999998,False
+1130,22-May-16,Louisiana,New Orleans,8639 Apple St,0,4,2016,LA,us,29.9544444,-90.075,False
+1131,22-May-16,California,Stockton,Poplar and Sutter Streets,1,3,2016,CA,us,37.9577778,-121.2897222,False
+1132,22-May-16,Tennessee,Nashville,100 block of Rains Avenue,0,4,2016,TN,us,36.1658333,-86.7844444,False
+1133,21-May-16,Georgia,Jackson,Levi Barnes Road,1,3,2016,GA,us,33.2944444,-83.96611109999998,False
+1134,18-May-16,Indiana,Indianapolis,34th Street and North Keystone Avenue,0,4,2016,IN,us,39.7683333,-86.1580556,False
+1135,17-May-16,South Carolina,Ravenel,5360 Savannah Highway,3,1,2016,SC,us,32.7630556,-80.25027779999998,False
+1136,15-May-16,Indiana,Evansville,420 North Garvin Street,0,4,2016,IN,us,37.9747222,-87.5558333,False
+1137,15-May-16,Georgia,Moultrie,Rossman Dairy Road,5,0,2016,GA,us,31.1797222,-83.7891667,False
+1138,14-May-16,Georgia,Atlanta,Cordova and Peoples Street,0,5,2016,GA,us,33.7488889,-84.3880556,False
+1139,14-May-16,West Virginia,Charleston,2337 Washington St W,1,3,2016,WV,us,38.3497222,-81.6327778,False
+1140,11-May-16,Alabama,Birmingham,1400 block of 21st Street N,1,4,2016,AL,us,33.5205556,-86.8025,False
+1141,11-May-16,Illinois,Chicago,7100 block of South State Street,0,5,2016,IL,us,41.85,-87.65,False
+1142,08-May-16,Texas,Austin,8600 block of North Lamar,1,3,2016,TX,us,30.2669444,-97.7427778,False
+1143,06-May-16,Michigan,Detroit,12300 block of Gratiot,1,4,2016,MI,us,42.33138889999999,-83.0458333,False
+1144,06-May-16,Alabama,Montgomery,1300 block of Clay Street,1,3,2016,AL,us,32.3666667,-86.3,False
+1145,06-May-16,Maryland,Bethesda,7101 Democracy Blvd,3,3,2016,MD,us,38.9805556,-77.10055559999998,False
+1146,05-May-16,Louisiana,Shreveport,300 block of North Thomas Drive,2,6,2016,LA,us,32.525,-93.75,False
+1147,05-May-16,Florida,Miami,2108 NW 19th Terrace,1,3,2016,FL,us,25.7738889,-80.1938889,False
+1148,04-May-16,Minnesota,Minneapolis,16th Avenue North and Newton Avenue North,1,7,2016,MN,us,44.98,-93.2636111,False
+1149,01-May-16,Tennessee,Murfreesboro,1955 Old Castle Drive,0,5,2016,TN,us,35.84555560000001,-86.39027779999998,False
+1150,29-Apr-16,Missouri,Saint Louis,400 block of N Dade Ave,0,4,2016,MO,us,38.6272222,-90.1977778,False
+1151,29-Apr-16,California,Oakland,3200 block of San Pablo Avenue,0,5,2016,CA,us,37.8044444,-122.2697222,False
+1152,27-Apr-16,Louisiana,Baton Rouge,4300 Block of Kerrit Dr,2,2,2016,LA,us,30.450555600000005,-91.1544444,False
+1153,27-Apr-16,Mississippi,Kilmichael,Pecan Drive,3,1,2016,MS,us,33.4433333,-89.57166670000002,False
+1154,26-Apr-16,Maryland,District Heights,6500 block of Hil-Mar Drive,1,4,2016,MD,us,38.8575,-76.88972220000002,False
+1155,25-Apr-16,Tennessee,Nashville,400 Charlotte Avenue,0,4,2016,TN,us,36.1658333,-86.7844444,False
+1156,25-Apr-16,Florida,Miami,1506 Northwest 70th Street,0,5,2016,FL,us,25.7738889,-80.1938889,False
+1157,24-Apr-16,Virginia,Halifax,1055 L P Bailey Memorial Hwy,0,5,2016,VA,us,36.7658333,-78.9286111,False
+1158,24-Apr-16,Illinois,Chicago,2000 block of West 68th Place,2,3,2016,IL,us,41.85,-87.65,False
+1159,24-Apr-16,Colorado,Denver,1400 block of 14th Street,0,4,2016,CO,us,39.7391667,-104.98416670000002,False
+1160,23-Apr-16,Nevada,Las Vegas,1650 South Hollywood Boulevard,1,3,2016,NV,us,36.175,-115.1363889,False
+1161,23-Apr-16,Alabama,Auburn,1200 block of Lee Road 83,3,1,2016,AL,us,32.6097222,-85.4808333,False
+1162,23-Apr-16,Kansas,Topeka,3732 S.W. Topeka Boulevard,1,4,2016,KS,us,39.0483333,-95.6777778,False
+1163,23-Apr-16,New York,New York,West 141st Street and Edgecombe Avenue,0,4,2016,NY,us,40.7141667,-74.0063889,False
+1164,22-Apr-16,Ohio,Piketon,4077 Union Hill Road,8,0,2016,OH,us,39.0680556,-83.0144444,False
+1165,22-Apr-16,Georgia,Appling,3162 Johnson Drive,6,0,2016,GA,us,33.5458333,-82.31611109999999,False
+1166,21-Apr-16,Maryland,Baltimore,4800 block of Frankford Avenue,0,4,2016,MD,us,39.2902778,-76.6125,False
+1167,19-Apr-16,Alabama,Blountsville,81551 Us Highway 278,1,4,2016,AL,us,34.08138889999999,-86.59111109999998,False
+1168,19-Apr-16,Illinois,Chicago,2700 block of West 53rd Street,1,3,2016,IL,us,41.85,-87.65,False
+1169,19-Apr-16,Illinois,Chicago,1400 block of West 84th Street,1,4,2016,IL,us,41.85,-87.65,False
+1170,18-Apr-16,California,Long Beach,1200 block of E. 17th Street,1,3,2016,CA,us,33.76694439999999,-118.18833329999998,False
+1171,17-Apr-16,Pennsylvania,Philadelphia,600 block of Westmoreland Street,3,1,2016,PA,us,39.9522222,-75.1641667,False
+1172,17-Apr-16,South Carolina,Pelzer,200 block of Eastview Road,1,3,2016,SC,us,34.6422222,-82.45611109999999,False
+1173,17-Apr-16,Texas,Edinburg,5021 W St Hwy 107,1,6,2016,TX,us,26.3013889,-98.1630556,False
+1174,16-Apr-16,Michigan,Detroit,9500 block of Oakland,1,4,2016,MI,us,42.33138889999999,-83.0458333,False
+1175,16-Apr-16,Florida,Orlando,1100 block of Conley Street,2,4,2016,FL,us,28.538055600000003,-81.3794444,False
+1176,16-Apr-16,Alabama,Enterprise,Baxter Street,0,4,2016,AL,us,31.315,-85.8552778,False
+1177,10-Apr-16,Wisconsin,Milwaukee,76th and Sheridan,1,3,2016,WI,us,43.0388889,-87.90638890000002,False
+1178,10-Apr-16,California,Los Angeles,84th Street and Towne Avenue,0,4,2016,CA,us,34.0522222,-118.2427778,False
+1179,09-Apr-16,Tennessee,Memphis,Mt Moriah Road and Ridgeway Road,0,4,2016,TN,us,35.14944439999999,-90.04888890000002,False
+1180,09-Apr-16,Alabama,Anniston,West 15th Street and Crawford Avenue,0,4,2016,AL,us,33.6597222,-85.8316667,False
+1181,09-Apr-16,New Mexico,Albuquerque,2600 block of Mesa Drive SE,0,4,2016,NM,us,35.084444399999995,-106.6505556,False
+1182,07-Apr-16,Illinois,Chicago,2200 block of East 70th Place,0,4,2016,IL,us,41.85,-87.65,False
+1183,31-Mar-16,Illinois,Chicago,6800 block of South Throop,0,4,2016,IL,us,41.85,-87.65,False
+1184,25-Mar-16,Illinois,Chicago,4500 block of West West End Avenue,0,4,2016,IL,us,41.85,-87.65,False
+1185,25-Mar-16,Colorado,Denver,8501 E. Alameda Avenue,0,4,2016,CO,us,39.7391667,-104.98416670000002,False
+1186,21-Mar-16,Illinois,Chicago,5700 block of West Washington Boulevard,0,4,2016,IL,us,41.85,-87.65,False
+1187,19-Mar-16,Florida,Plantation,12050 NW 4th Court,1,4,2016,FL,us,26.1272222,-80.2333333,False
+1188,19-Mar-16,Alabama,Wetumpka,South Shelby Street,2,2,2016,AL,us,32.54361110000001,-86.21194440000002,False
+1189,15-Mar-16,Georgia,Atlanta,Donald Lee Hollowell Drive,0,5,2016,GA,us,33.7488889,-84.3880556,False
+1190,13-Mar-16,Florida,Fort Myers,50 South Road,0,4,2016,FL,us,26.6402778,-81.8725,False
+1191,12-Mar-16,Oregon,Portland,16126 S.E. Stark St.,0,4,2016,OR,us,45.5236111,-122.675,False
+1192,12-Mar-16,California,Oakland,Interstate 880,0,4,2016,CA,us,37.8044444,-122.2697222,False
+1193,11-Mar-16,Michigan,Detroit,2600 block of Hazelwood,2,2,2016,MI,us,42.33138889999999,-83.0458333,False
+1194,11-Mar-16,New Jersey,Trenton,Oliver Avenue,0,5,2016,NJ,us,40.2169444,-74.7433333,False
+1195,09-Mar-16,Pennsylvania,Pittsburgh,1304 Franklin Ave,5,3,2016,PA,us,40.4405556,-79.9961111,False
+1196,08-Mar-16,Texas,San Antonio,Sherman St,2,3,2016,TX,us,29.4238889,-98.4933333,False
+1197,07-Mar-16,Louisiana,Lafayette,800 block of Martin Luther King Jr. Drive,0,4,2016,LA,us,30.223888899999995,-92.0197222,False
+1198,07-Mar-16,Kansas,Kansas City,3000 block of South 36th Street,5,0,2016,KS,us,39.1141667,-94.6272222,False
+1199,06-Mar-16,Massachusetts,Chelsea,120 Washington Avenue,1,6,2016,MA,us,42.3916667,-71.0333333,False
+1200,06-Mar-16,Georgia,Roswell,890 Atlanta St,0,4,2016,GA,us,34.023055600000006,-84.3616667,False
+1201,06-Mar-16,California,Compton,900 block of West Victoria Street,1,8,2016,CA,us,33.8958333,-118.21916670000002,False
+1202,05-Mar-16,Kansas,Wichita,116 North Mead,0,4,2016,KS,us,37.6922222,-97.3372222,False
+1203,04-Mar-16,Ohio,Columbus,900 E 5th Ave,1,3,2016,OH,us,39.9611111,-82.99888890000003,False
+1204,28-Feb-16,Michigan,Detroit,8800 block of Livernois,0,5,2016,MI,us,42.33138889999999,-83.0458333,False
+1205,28-Feb-16,California,Riverside,5500 block of Etiwanda Avenue,1,3,2016,CA,us,33.9533333,-117.3952778,False
+1206,27-Feb-16,Virginia,Woodbridge,13051 Lashmere Ct,2,2,2016,VA,us,38.6580556,-77.25,False
+1207,26-Feb-16,Washington,Belfair,300 block of Horseshoe Rd.,5,0,2016,WA,us,47.4508333,-122.8261111,False
+1208,25-Feb-16,Kansas,Hesston,200 S Ridge Rd,4,14,2016,KS,us,38.1383333,-97.4311111,False
+1209,23-Feb-16,Arizona,Glendale,4812 West Sunnyside Ave,5,0,2016,AZ,us,33.538611100000004,-112.1852778,False
+1210,23-Feb-16,Florida,Daytona Beach,1042 Sheridan Road,0,4,2016,FL,us,29.210555600000006,-81.02305559999998,False
+1211,21-Feb-16,Missouri,Hazelwood,Interstate Highway 270 and North Lindbergh Boulevard,1,3,2016,MO,us,38.7713889,-90.3708333,False
+1212,21-Feb-16,Texas,Houston,5100 block of Idaho Street,0,5,2016,TX,us,29.763055600000005,-95.3630556,False
+1213,20-Feb-16,Florida,Tampa,2810 E. Bearss Ave,1,3,2016,FL,us,27.9472222,-82.45861109999998,False
+1214,20-Feb-16,Michigan,Kalamazoo,5581 Cracker Barrel Blvd,6,2,2016,MI,us,42.2916667,-85.58722220000001,False
+1215,20-Feb-16,Mississippi,Iuka,231 Co Rd 201,2,3,2016,MS,us,34.8116667,-88.19,False
+1216,20-Feb-16,Alabama,Bessemer,200 block of Elm Street,1,3,2016,AL,us,33.4016667,-86.9544444,False
+1217,20-Feb-16,Florida,Orlando,446 S Parramore Ave,0,4,2016,FL,us,28.538055600000003,-81.3794444,False
+1218,19-Feb-16,Missouri,Edgerton,4100 block of Buena Vista Road,4,0,2016,MO,us,39.505,-94.6330556,False
+1219,19-Feb-16,California,Vallejo,509 Porter Street,1,3,2016,CA,us,38.1041667,-122.25555559999998,False
+1220,14-Feb-16,Texas,Houston,8449 Gulf Freeway,1,3,2016,TX,us,29.763055600000005,-95.3630556,False
+1221,14-Feb-16,Alabama,Eutaw,Earnest Friday Road,0,5,2016,AL,us,32.8405556,-87.8875,False
+1222,13-Feb-16,Louisiana,Marrero,5425 Lapalco Boulevard,0,4,2016,LA,us,29.8991667,-90.1002778,False
+1223,07-Feb-16,Mississippi,Pass Christian,Davis Avenue,2,4,2016,MS,us,30.315555600000003,-89.2475,False
+1224,07-Feb-16,Florida,Orlando,7432 Universal Blvd,2,10,2016,FL,us,28.538055600000003,-81.3794444,False
+1225,07-Feb-16,New York,Rochester,547 State St,1,7,2016,NY,us,43.1547222,-77.61583329999998,False
+1226,07-Feb-16,Illinois,Chicago,6500 block of South Green Street,0,4,2016,IL,us,41.85,-87.65,False
+1227,06-Feb-16,California,Los Angeles,12800 block of Cook Street,1,3,2016,CA,us,34.0522222,-118.2427778,False
+1228,06-Feb-16,Florida,Apopka,10th Street,0,4,2016,FL,us,28.6802778,-81.50972220000001,False
+1229,06-Feb-16,Florida,Tampa,8123 N Nebraska Ave,2,6,2016,FL,us,27.9472222,-82.45861109999998,False
+1230,03-Feb-16,District of Columbia,Washington,1500 block of Butler St. SE,0,4,2016,,,47.751076,-120.740135,True
+1231,30-Jan-16,Arizona,Glendale,67th and Missouri Avenue,3,5,2016,AZ,us,33.538611100000004,-112.1852778,False
+1232,27-Jan-16,Virginia,Chesapeake,1401 N. George Washington Hwy,6,0,2016,VA,us,36.8188889,-76.2752778,False
+1233,26-Jan-16,Washington,Seattle,Airport Way S. and S. Atlantic St.,2,3,2016,WA,us,47.6063889,-122.33083329999998,False
+1234,25-Jan-16,California,Perris,140 S. D Street,1,4,2016,CA,us,33.7825,-117.2277778,False
+1235,23-Jan-16,California,Los Angeles,8105 Avalon Blvd,2,2,2016,CA,us,34.0522222,-118.2427778,False
+1236,17-Jan-16,Virginia,Ware Neck,Ditchley Road and Gill Lane,1,3,2016,VA,us,37.4025,-76.4588889,False
+1237,11-Jan-16,Delaware,Wilmington,900 block of Brown Street,1,4,2016,DE,us,39.7458333,-75.5469444,False
+1238,08-Jan-16,District of Columbia,Washington,1700 East Capitol Street Northeast,0,4,2016,,,47.751076,-120.740135,True
+1239,08-Jan-16,Illinois,Chicago,1500 block of South Kedzie,1,4,2016,IL,us,41.85,-87.65,False
+1240,07-Jan-16,Tennessee,Memphis,3800 block of Kerwood Avenue,1,3,2016,TN,us,35.14944439999999,-90.04888890000002,False
+1241,06-Jan-16,Florida,Lakeland,2312 East Magnolia Street,3,1,2016,FL,us,28.039166700000006,-81.95,False
+1242,09-Oct-17,Texas,Houston,3352 Old Spanish Trail,0,5,2017,TX,us,29.763055600000005,-95.3630556,False
+1243,07-Oct-17,Arizona,Phoenix,87th Ave and Thomas Rd,0,4,2017,AZ,us,33.4483333,-112.0733333,False
+1244,06-Oct-17,Illinois,Chicago,8000 block of S Marshfield,0,5,2017,IL,us,41.85,-87.65,False
+1245,05-Oct-17,Arizona,Casa Grande,400 block of W 13th Street,4,0,2017,AZ,us,32.8794444,-111.7566667,False
+1246,03-Oct-17,Florida,Miami,2051 NW 65th St,0,4,2017,FL,us,25.7738889,-80.1938889,False
+1247,01-Oct-17,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,241,2017,NV,us,36.175,-115.1363889,False
+1248,01-Oct-17,Kansas,Lawrence,1000 block of Massachusetts St,3,2,2017,KS,us,38.9716667,-95.235,False
+1249,30-Sep-17,Tennessee,Memphis,800 block of Kerr Avenue,1,3,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1250,28-Sep-17,Louisiana,New Orleans,2001 N Rocheblave St,1,3,2017,LA,us,29.9544444,-90.075,False
+1251,26-Sep-17,Tennessee,Memphis,2531 Chelsea Ave,0,4,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1252,26-Sep-17,Maryland,Baltimore,3200 block of Lyndale Ave,2,2,2017,MD,us,39.2902778,-76.6125,False
+1253,26-Sep-17,Pennsylvania,Philadelphia,100 block of Pastorius St,1,3,2017,PA,us,39.9522222,-75.1641667,False
+1254,24-Sep-17,Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4,2017,MD,us,39.2902778,-76.6125,False
+1255,24-Sep-17,New Jersey,Mays Landing,6000 block of Hoover Dr,1,3,2017,NJ,us,39.4522222,-74.7280556,False
+1256,24-Sep-17,Tennessee,Antioch,3890 Pin Hook Rd,1,8,2017,TN,us,36.06,-86.67222220000002,False
+1257,24-Sep-17,New York,Syracuse,1226 E Fayette St,0,4,2017,NY,us,43.04805560000001,-76.1477778,False
+1258,23-Sep-17,Illinois,Danville,Seminary St and Jackson St,0,5,2017,IL,us,40.1244444,-87.63,False
+1259,23-Sep-17,California,Bakersfield,818 Real Rd,1,4,2017,CA,us,35.3733333,-119.0177778,False
+1260,20-Sep-17,Indiana,Gary,4300 block of 23rd Ct,0,5,2017,IN,us,41.5933333,-87.34638890000002,False
+1261,17-Sep-17,Michigan,Detroit,5000 block of Stanton Street,1,3,2017,MI,us,42.33138889999999,-83.0458333,False
+1262,17-Sep-17,Virginia,Petersburg,300 Mistletoe St,1,4,2017,VA,us,37.2277778,-77.40222220000003,False
+1263,16-Sep-17,South Carolina,Columbia,920 Lady Street,0,8,2017,SC,us,34.00055560000001,-81.035,False
+1264,13-Sep-17,Washington,Rockford,14626 S Jackson Rd,1,3,2017,WA,us,47.4522222,-117.1297222,False
+1265,13-Sep-17,Pennsylvania,York,400 block of S Duke St,0,4,2017,PA,us,39.9625,-76.7280556,False
+1266,13-Sep-17,Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4,2017,PA,us,39.9522222,-75.1641667,False
+1267,13-Sep-17,Tennessee,Memphis,1000 block of Morehead St,1,5,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1268,10-Sep-17,Louisiana,New Orleans,Elysian Fields Ave and N Claiborne Ave,0,4,2017,LA,us,29.9544444,-90.075,False
+1269,10-Sep-17,Texas,Plano,1712 West Spring Creek Parkway,9,1,2017,TX,us,33.019722200000004,-96.6986111,False
+1270,09-Sep-17,Alabama,Selma,Kings Bend Road,0,4,2017,AL,us,32.4072222,-87.02111109999998,False
+1271,06-Sep-17,Illinois,Chicago,2700 block of Madison,0,4,2017,IL,us,41.85,-87.65,False
+1272,04-Sep-17,Illinois,Bellwood,1000 block of Bellwood Ave,0,4,2017,IL,us,41.8813889,-87.88305559999998,False
+1273,03-Sep-17,California,Inglewood,10100 block of S Firmona Ave,2,3,2017,CA,us,33.9616667,-118.3522222,False
+1274,02-Sep-17,Kentucky,Louisville,8008 Watterson Trail,0,4,2017,KY,us,38.2541667,-85.7594444,False
+1275,02-Sep-17,Illinois,Chicago,8300 block of S Hermitage,1,3,2017,IL,us,41.85,-87.65,False
+1276,28-Aug-17,New Mexico,Clovis,701 N Main St,2,4,2017,NM,us,34.4047222,-103.2047222,False
+1277,27-Aug-17,California,Sacramento,7760 24th St,1,4,2017,CA,us,38.5816667,-121.4933333,False
+1278,27-Aug-17,Indiana,Evansville,1127 Chestnut St,1,3,2017,IN,us,37.9747222,-87.5558333,False
+1279,25-Aug-17,Florida,Gainesville,1600 NE 8th Ave,0,4,2017,FL,us,29.6513889,-82.325,False
+1280,24-Aug-17,Missouri,Saint Louis,10400 block of Balmoral Dr,4,0,2017,MO,us,38.6272222,-90.1977778,False
+1281,22-Aug-17,Illinois,Chicago,300 block of N Central Ave,0,4,2017,IL,us,41.85,-87.65,False
+1282,21-Aug-17,New Jersey,Newark,Fabyan Place,0,4,2017,NJ,us,40.73555560000001,-74.17277779999998,False
+1283,21-Aug-17,New Jersey,Newark,700 block of S 19th St,1,3,2017,NJ,us,40.73555560000001,-74.17277779999998,False
+1284,21-Aug-17,Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3,2017,MD,us,39.2902778,-76.6125,False
+1285,21-Aug-17,North Carolina,Whitakers,980 Fishing Creek Rd,4,0,2017,NC,us,36.1052778,-77.7130556,False
+1286,21-Aug-17,Tennessee,Memphis,262 Decatur St,0,4,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1287,20-Aug-17,Illinois,Chicago,11901 S Loomis St,2,5,2017,IL,us,41.85,-87.65,False
+1288,20-Aug-17,New York,Brooklyn,100th St and Ave M,0,4,2017,NY,us,40.65,-73.95,False
+1289,19-Aug-17,Ohio,Cleveland,11143 Superior Ave,1,4,2017,OH,us,41.4994444,-81.69555559999998,False
+1290,16-Aug-17,New York,Wyandanch,Merritt Ave and 15th St,0,4,2017,NY,us,40.7538889,-73.3608333,False
+1291,14-Aug-17,California,North Hollywood,Morrison St and Klump Ave,2,2,2017,CA,us,34.1722222,-118.37805559999998,False
+1292,13-Aug-17,California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4,2017,CA,us,38.5816667,-121.4933333,False
+1293,13-Aug-17,Virginia,Suffolk,8700 block of Quay Rd,0,4,2017,VA,us,36.72805560000001,-76.5838889,False
+1294,13-Aug-17,Pennsylvania,Philadelphia,39th St and Melon St,0,5,2017,PA,us,39.9522222,-75.1641667,False
+1295,12-Aug-17,Missouri,Saint Louis,12310 Bellefontaine Rd,1,3,2017,MO,us,38.6272222,-90.1977778,False
+1296,08-Aug-17,Illinois,Chicago,1 block of East 37th Street,1,6,2017,IL,us,41.85,-87.65,False
+1297,06-Aug-17,New York,Bronx,Wickham Ave,0,6,2017,NY,us,40.85,-73.8666667,False
+1298,06-Aug-17,New York,Bronx,Unionport Rd,0,4,2017,NY,us,40.85,-73.8666667,False
+1299,06-Aug-17,California,Oakland,1000 block of 106th Avenue,0,7,2017,CA,us,37.8044444,-122.2697222,False
+1300,05-Aug-17,New Jersey,Lakewood,900 block of Brook Road,0,4,2017,NJ,us,40.0977778,-74.2180556,False
+1301,05-Aug-17,South Carolina,Allendale,300 block of Ellis St,1,3,2017,SC,us,33.0077778,-81.3086111,False
+1302,05-Aug-17,Florida,Tallahassee,1939 W Tennessee St,1,3,2017,FL,us,30.43805560000001,-84.2808333,False
+1303,04-Aug-17,Montana,Lodge Grass,200 block of North Helen Street,3,2,2017,MT,us,45.3144444,-107.3625,False
+1304,03-Aug-17,District of Columbia,Washington,3426 18th St NE,1,3,2017,,,47.751076,-120.740135,True
+1305,02-Aug-17,Maryland,Baltimore,900 block of N Broadway,0,4,2017,MD,us,39.2902778,-76.6125,False
+1306,01-Aug-17,Washington,Toppenish,8000 Block of Lateral C Rd,0,6,2017,WA,us,46.3775,-120.3075,False
+1307,01-Aug-17,California,Fresno,Mariposa St and A St,0,7,2017,CA,us,36.7477778,-119.7713889,False
+1308,01-Aug-17,Illinois,Chicago,800 block of N Monticello Ave,0,4,2017,IL,us,41.85,-87.65,False
+1309,31-Jul-17,Illinois,Decatur,Jasper St and Main St,0,4,2017,IL,us,39.8402778,-88.9547222,False
+1310,30-Jul-17,Virginia,Norfolk,1500 block of Azalea Garden Rd,1,5,2017,VA,us,36.8466667,-76.2855556,False
+1311,30-Jul-17,Texas,El Paso,1810 George Dieter Dr,1,3,2017,TX,us,31.758611100000003,-106.4863889,False
+1312,29-Jul-17,New York,Buffalo,200 block of Carl St,1,4,2017,NY,us,42.8863889,-78.87861109999999,False
+1313,29-Jul-17,North Carolina,Salisbury,115 W Fisher St,2,3,2017,NC,us,35.6708333,-80.4744444,False
+1314,28-Jul-17,Delaware,Wilmington,400 block of N Washington St,0,4,2017,DE,us,39.7458333,-75.5469444,False
+1315,27-Jul-17,Illinois,Chicago,2000 block of E 71st St,1,4,2017,IL,us,41.85,-87.65,False
+1316,26-Jul-17,North Carolina,High Point,2111 E. Green Drive,1,6,2017,NC,us,35.95555560000001,-80.0055556,False
+1317,23-Jul-17,Illinois,Chicago,1500 block of East 82nd St,1,3,2017,IL,us,41.85,-87.65,False
+1318,23-Jul-17,Louisiana,Baton Rouge,10360 Ave H,0,4,2017,LA,us,30.450555600000005,-91.1544444,False
+1319,22-Jul-17,Ohio,Cincinnati,130 E Clifton Ave,0,5,2017,OH,us,39.1619444,-84.4569444,False
+1320,19-Jul-17,Virginia,Richmond,2300 block of Bethel St,0,5,2017,VA,us,37.55361110000001,-77.46055559999998,False
+1321,19-Jul-17,California,Los Angeles,Imperial Hwy and Broadway,1,3,2017,CA,us,34.0522222,-118.2427778,False
+1322,18-Jul-17,New Jersey,Trenton,Hewitt St and Division St,1,3,2017,NJ,us,40.2169444,-74.7433333,False
+1323,18-Jul-17,Wisconsin,Milwaukee,3000 Block of N 39th St,0,4,2017,WI,us,43.0388889,-87.90638890000002,False
+1324,18-Jul-17,Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4,2017,AZ,us,33.6130556,-112.3238889,False
+1325,15-Jul-17,Pennsylvania,Philadelphia,21st and Fitzwater,1,3,2017,PA,us,39.9522222,-75.1641667,False
+1326,15-Jul-17,Illinois,Chicago,12200 block of S Throop St,0,4,2017,IL,us,41.85,-87.65,False
+1327,09-Jul-17,Virginia,Lawrenceville,500 block Sturgeon Rd,0,7,2017,VA,us,36.7575,-77.8472222,False
+1328,08-Jul-17,Illinois,Alton,700 block of Oakwood,0,4,2017,IL,us,38.890555600000006,-90.1841667,False
+1329,08-Jul-17,Ohio,Cincinnati,9917 Capstan Dr,1,8,2017,OH,us,39.1619444,-84.4569444,False
+1330,06-Jul-17,Mississippi,Meridian,Eighth Ave,0,4,2017,MS,us,32.3641667,-88.70361109999997,False
+1331,05-Jul-17,Georgia,Savannah,Jefferson Street and West St. Julian Street,0,4,2017,GA,us,32.0833333,-81.1,False
+1332,05-Jul-17,Illinois,Chicago,11000 block of S Eberhart,2,2,2017,IL,us,41.85,-87.65,False
+1333,05-Jul-17,Maine,Madison,300 block of Russell Rd,4,1,2017,ME,us,44.7975,-69.88027779999999,False
+1334,04-Jul-17,Florida,Orlando,501 W Lancaster Rd,0,4,2017,FL,us,28.538055600000003,-81.3794444,False
+1335,04-Jul-17,Virginia,Hampton,500 block of Patterson Ave,1,4,2017,VA,us,37.0297222,-76.3455556,False
+1336,04-Jul-17,North Carolina,Raleigh,105 E South St,1,3,2017,NC,us,35.77194439999999,-78.63888890000001,False
+1337,03-Jul-17,Alabama,Prattville,112 US 82,3,1,2017,AL,us,32.46388889999999,-86.4597222,False
+1338,03-Jul-17,Michigan,Pontiac,50 block of Thorpe St,1,3,2017,MI,us,42.6388889,-83.2911111,False
+1339,02-Jul-17,New Jersey,Jersey City,Wilkinson Avenue,0,4,2017,NJ,us,40.72805560000001,-74.0780556,False
+1340,02-Jul-17,South Carolina,Greenwood,SC 72 Bypass,0,4,2017,SC,us,34.1952778,-82.1619444,False
+1341,01-Jul-17,Illinois,Momence,2727 S 13000 Rd E,0,4,2017,IL,us,41.1666667,-87.66277779999999,False
+1342,01-Jul-17,New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2,2017,NJ,us,40.73555560000001,-74.17277779999998,False
+1343,01-Jul-17,California,Oakland,3200 Humboldt Ave,0,4,2017,CA,us,37.8044444,-122.2697222,False
+1344,01-Jul-17,Arkansas,Little Rock,220 W 6th St,0,25,2017,AR,us,34.7463889,-92.2894444,False
+1345,30-Jun-17,New York,Bronx,1650 Grand Concourse,2,6,2017,NY,us,40.85,-73.8666667,False
+1346,27-Jun-17,Illinois,Chicago,200 block of S Lotus,0,5,2017,IL,us,41.85,-87.65,False
+1347,25-Jun-17,District of Columbia,Washington,5900 block of Southern Ave SE,0,4,2017,,,47.751076,-120.740135,True
+1348,25-Jun-17,Missouri,Saint Louis,5000 block of Thekla Ave,1,3,2017,MO,us,38.6272222,-90.1977778,False
+1349,24-Jun-17,Florida,Fort Lauderdale,2335 NW 16th Ct,1,4,2017,FL,us,26.1219444,-80.14361109999999,False
+1350,24-Jun-17,New York,New York,114th St and Manhattan Ave,0,5,2017,NY,us,40.7141667,-74.0063889,False
+1351,24-Jun-17,New Jersey,Willingboro,Pastoral Lane,0,4,2017,NJ,us,40.0277778,-74.8694444,False
+1352,22-Jun-17,Georgia,Atlanta,1100 block of Osborne Street,1,6,2017,GA,us,33.7488889,-84.3880556,False
+1353,18-Jun-17,Missouri,Saint Louis,1900 block of N 14th St,3,2,2017,MO,us,38.6272222,-90.1977778,False
+1354,18-Jun-17,District of Columbia,Washington,3100 block of Buena Vista Terrace SE,0,4,2017,,,47.751076,-120.740135,True
+1355,18-Jun-17,Illinois,Chicago,3300 block of W Crystal,0,4,2017,IL,us,41.85,-87.65,False
+1356,18-Jun-17,South Carolina,Myrtle Beach,311 N Ocean Blvd,0,7,2017,SC,us,33.688888899999995,-78.8869444,False
+1357,17-Jun-17,Ohio,Columbus,6252 Busch Blvd,1,4,2017,OH,us,39.9611111,-82.99888890000003,False
+1358,17-Jun-17,Illinois,Chicago,1 block of North Latrobe,0,4,2017,IL,us,41.85,-87.65,False
+1359,15-Jun-17,New Mexico,La Madera,491 NM 111,5,0,2017,NM,us,35.2227778,-106.37,False
+1360,15-Jun-17,Virginia,Richmond,4053 Old Brook Road,1,3,2017,VA,us,37.55361110000001,-77.46055559999998,False
+1361,14-Jun-17,Ohio,Canton,14th St. NE and Gibbs Ave. NE,0,4,2017,OH,us,40.7988889,-81.37861109999999,False
+1362,14-Jun-17,Virginia,Alexandria,420 E Monroe Ave,1,5,2017,VA,us,38.8047222,-77.04722220000002,False
+1363,14-Jun-17,California,San Francisco,720 San Bruno,4,2,2017,CA,us,37.775,-122.4183333,False
+1364,13-Jun-17,Maryland,Baltimore,3300 block of Ayrdale Avenue,0,4,2017,MD,us,39.2902778,-76.6125,False
+1365,13-Jun-17,Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2,2017,MD,us,39.2902778,-76.6125,False
+1366,13-Jun-17,Missouri,Saint Louis,Ferguson Ave and Plymouth Ave,0,4,2017,MO,us,38.6272222,-90.1977778,False
+1367,11-Jun-17,Illinois,Chicago,3300 block of W Douglas Blvd,0,9,2017,IL,us,41.85,-87.65,False
+1368,11-Jun-17,Tennessee,Chattanooga,4272 Bonny Oaks Drive,0,4,2017,TN,us,35.04555560000001,-85.30972220000002,False
+1369,11-Jun-17,Texas,Houston,505 Cypress Station Dr,0,4,2017,TX,us,29.763055600000005,-95.3630556,False
+1370,10-Jun-17,Tennessee,Memphis,571 East Street,0,4,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1371,09-Jun-17,Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5,2017,TX,us,32.7252778,-97.3205556,False
+1372,08-Jun-17,Louisiana,New Orleans,3650 Franklin Ave,0,6,2017,LA,us,29.9544444,-90.075,False
+1373,06-Jun-17,Utah,Sandy,2232 Alta Canyon Drive,3,2,2017,UT,,40.571563,-111.852286,True
+1374,05-Jun-17,Florida,Orlando,2427 Forsyth Rd,6,0,2017,FL,us,28.538055600000003,-81.3794444,False
+1375,03-Jun-17,Missouri,Saint Louis,1600 Block of Union Blvd,2,2,2017,MO,us,38.6272222,-90.1977778,False
+1376,03-Jun-17,Louisiana,New Orleans,3717 Tulane Ave,3,2,2017,LA,us,29.9544444,-90.075,False
+1377,02-Jun-17,Texas,Laredo,5301 McPherson Rd,2,3,2017,TX,us,27.5061111,-99.5072222,False
+1378,02-Jun-17,California,Los Angeles,89th St and Broadway,1,3,2017,CA,us,34.0522222,-118.2427778,False
+1379,01-Jun-17,Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1,2017,MO,us,38.6272222,-90.1977778,False
+1380,30-May-17,Ohio,Middletown,1200 Elliott Dr,1,3,2017,OH,us,39.515,-84.3983333,False
+1381,29-May-17,Kentucky,Louisville,231 Witherspoon St,1,3,2017,KY,us,38.2541667,-85.7594444,False
+1382,28-May-17,Alabama,Phenix City,100 block of 6th Street South,0,12,2017,AL,us,32.470833299999995,-85.0008333,False
+1383,28-May-17,New Jersey,Paterson,86 Main Street,1,5,2017,NJ,us,40.9166667,-74.17222220000002,False
+1384,28-May-17,Mississippi,Moss Point,6103 Hwy. 63,0,5,2017,MS,us,30.411388899999995,-88.5344444,False
+1385,27-May-17,New York,New York,318 W 14th St,0,4,2017,NY,us,40.7141667,-74.0063889,False
+1386,27-May-17,District of Columbia,Washington,100 block of Q Street Northwest,1,7,2017,,,47.751076,-120.740135,True
+1387,27-May-17,Mississippi,Bogue Chitto,2871 Lee Drive,8,1,2017,MS,us,31.438611100000006,-90.4522222,False
+1388,26-May-17,Florida,Miami,2730 NW 167th St,0,4,2017,FL,us,25.7738889,-80.1938889,False
+1389,21-May-17,Iowa,Des Moines,4300 Beaver Dr,1,3,2017,IA,us,41.60055560000001,-93.6088889,False
+1390,21-May-17,Arizona,Mesa,441 N Val Vista Dr,0,4,2017,AZ,us,33.4222222,-111.8219444,False
+1391,20-May-17,Pennsylvania,Philadelphia,2100 block of W Huntingdon St,0,10,2017,PA,us,39.9522222,-75.1641667,False
+1392,16-May-17,South Carolina,Ruffin,21785 Lowcountry Hwy,3,1,2017,SC,us,33.0044444,-80.8158333,False
+1393,14-May-17,Arkansas,Jonesboro,311 S Main St,1,6,2017,AR,us,35.8422222,-90.7041667,False
+1394,14-May-17,Illinois,Dolton,14112 Chicago Road,0,5,2017,IL,us,41.6388889,-87.60722220000002,False
+1395,14-May-17,Florida,Avon Park,Hal McRae Blvd and Delaney Ave,0,5,2017,FL,us,27.595555600000004,-81.5063889,False
+1396,14-May-17,Texas,Fort Worth,8600 block of Calmont Ave,0,4,2017,TX,us,32.7252778,-97.3205556,False
+1397,10-May-17,New Jersey,Trenton,300 block of Centre St,1,3,2017,NJ,us,40.2169444,-74.7433333,False
+1398,09-May-17,Kansas,Kansas City,1900 block of S. Boeke,3,1,2017,KS,us,39.1141667,-94.6272222,False
+1399,07-May-17,Illinois,Chicago,2600 block of 46th Pl,2,8,2017,IL,us,41.85,-87.65,False
+1400,04-May-17,Michigan,Flint,600 block of Copeman Boulevard,1,3,2017,MI,us,43.0125,-83.6875,False
+1401,02-May-17,Florida,Jacksonville,1566 West 24th Street,1,3,2017,FL,us,30.3319444,-81.6558333,False
+1402,01-May-17,Texas,Dallas,3200 block of Reynolds Ave,2,3,2017,TX,us,32.783333299999995,-96.8,False
+1403,30-Apr-17,Kansas,Topeka,4104 SW 28th,4,1,2017,KS,us,39.0483333,-95.6777778,False
+1404,30-Apr-17,Florida,Jacksonville,1200 Ken Knight Dr N,0,5,2017,FL,us,30.3319444,-81.6558333,False
+1405,30-Apr-17,South Carolina,Loris,268 N Sea Green Rd,1,5,2017,SC,us,34.0561111,-78.8905556,False
+1406,30-Apr-17,California,San Diego,9080 Judicial Dr,2,6,2017,CA,us,32.7152778,-117.1563889,False
+1407,29-Apr-17,Maryland,Germantown,12800 block of Kitchen House Way,1,3,2017,MD,us,39.17305560000001,-77.2719444,False
+1408,29-Apr-17,California,Los Angeles,Murchison St and Lancaster Ave,1,3,2017,CA,us,34.0522222,-118.2427778,False
+1409,29-Apr-17,California,Sacramento,3800 block of 26th Avenue,0,5,2017,CA,us,38.5816667,-121.4933333,False
+1410,29-Apr-17,California,Whittier,10000 block of Carmentia Rd,1,5,2017,CA,us,33.9791667,-118.0319444,False
+1411,29-Apr-17,California,Compton,2000 Block of N Nestor Ave,0,4,2017,CA,us,33.8958333,-118.21916670000002,False
+1412,29-Apr-17,Virginia,Virginia Beach,200 block of 18th St,0,4,2017,VA,us,36.8527778,-75.9783333,False
+1413,28-Apr-17,Pennsylvania,Chester,5 E 21st St,0,4,2017,PA,us,39.8494444,-75.35611109999998,False
+1414,27-Apr-17,New Jersey,Newark,1100 block of S Orange Ave,1,3,2017,NJ,us,40.73555560000001,-74.17277779999998,False
+1415,26-Apr-17,Florida,Miami,SW 264th St and 139th Ave,0,4,2017,FL,us,25.7738889,-80.1938889,False
+1416,21-Apr-17,Florida,Palm Bay,2500 block of Vernon Dr,2,2,2017,FL,us,28.0341667,-80.58888890000001,False
+1417,20-Apr-17,Kentucky,Louisville,700 block of East Jacob Street,0,4,2017,KY,us,38.2541667,-85.7594444,False
+1418,16-Apr-17,California,Vallejo,110 Calhoun Street,0,4,2017,CA,us,38.1041667,-122.25555559999998,False
+1419,16-Apr-17,North Carolina,Elizabeth City,611 S Martin St,0,4,2017,NC,us,36.2944444,-76.25138890000002,False
+1420,16-Apr-17,Ohio,Columbus,1710 Cleveland Av,0,9,2017,OH,us,39.9611111,-82.99888890000003,False
+1421,15-Apr-17,Illinois,Rock Falls,311 W 2nd St,0,4,2017,IL,us,41.7797222,-89.68888890000002,False
+1422,15-Apr-17,Indiana,Indianapolis,300 block of S Meridian St,0,4,2017,IN,us,39.7683333,-86.1580556,False
+1423,15-Apr-17,Alabama,Birmingham,1480 Center Point Pkwy,0,6,2017,AL,us,33.5205556,-86.8025,False
+1424,15-Apr-17,Pennsylvania,Philadelphia,5900 block of Hammond Street,0,4,2017,PA,us,39.9522222,-75.1641667,False
+1425,15-Apr-17,Illinois,Harvey,14600 block of Myrtle Avenue,0,4,2017,IL,us,41.61,-87.6466667,False
+1426,15-Apr-17,California,Banning,900 block of N Allen St,0,4,2017,CA,us,33.9255556,-116.87555559999998,False
+1427,13-Apr-17,Georgia,Atlanta,30 Anderson Ave SW,1,3,2017,GA,us,33.7488889,-84.3880556,False
+1428,09-Apr-17,Texas,San Antonio,3100 block of Fidelia Drive,1,3,2017,TX,us,29.4238889,-98.4933333,False
+1429,09-Apr-17,Indiana,Fort Wayne,9439 Lima Rd,1,3,2017,IN,us,41.1305556,-85.1288889,False
+1430,07-Apr-17,North Carolina,Hickory,1423 29th Ave Dr NE,3,1,2017,NC,us,35.73305560000001,-81.34138890000001,False
+1431,07-Apr-17,Texas,Houston,3829 Mount Pleasant St,5,0,2017,TX,us,29.763055600000005,-95.3630556,False
+1432,07-Apr-17,Minnesota,Saint Paul,1600 block of English St,4,1,2017,MN,us,44.9444444,-93.0930556,False
+1433,07-Apr-17,Illinois,Chicago,5600 block of W Lake St,1,5,2017,IL,us,41.85,-87.65,False
+1434,06-Apr-17,Louisiana,Lake Charles,2000 block of Tulip St,1,3,2017,LA,us,30.2263889,-93.2172222,False
+1435,03-Apr-17,Pennsylvania,Philadelphia,1100 block of W Stiles St,3,1,2017,PA,us,39.9522222,-75.1641667,False
+1436,03-Apr-17,Texas,Lubbock,5401 Ave Q,0,7,2017,TX,us,33.5777778,-101.8547222,False
+1437,02-Apr-17,Illinois,Chicago,3500 block of West Van Buren Street,2,4,2017,IL,us,41.85,-87.65,False
+1438,02-Apr-17,Iowa,Des Moines,2500 Martin Luther King Jr. Parkway,0,5,2017,IA,us,41.60055560000001,-93.6088889,False
+1439,01-Apr-17,California,Pittsburg,100 block of Madoline Street,0,5,2017,CA,us,38.0280556,-121.8836111,False
+1440,01-Apr-17,Florida,Tampa,219 S Howard Ave,1,4,2017,FL,us,27.9472222,-82.45861109999998,False
+1441,01-Apr-17,Oklahoma,Oklahoma City,1200 block of N Woodward Avenue,2,3,2017,OK,us,35.4675,-97.5161111,False
+1442,30-Mar-17,Illinois,Chicago,2704 E 75th St,4,0,2017,IL,us,41.85,-87.65,False
+1443,27-Mar-17,Florida,Sanford,209 Hays Dr,2,4,2017,FL,us,28.8002778,-81.2733333,False
+1444,26-Mar-17,Texas,Houston,5619 Aldine Bender Rd,2,4,2017,TX,us,29.763055600000005,-95.3630556,False
+1445,26-Mar-17,Ohio,Cincinnati,4601 Kellogg Ave,2,15,2017,OH,us,39.1619444,-84.4569444,False
+1446,26-Mar-17,Ohio,Cleveland,E 75th St,2,2,2017,OH,us,41.4994444,-81.69555559999998,False
+1447,25-Mar-17,Michigan,Detroit,8443 Grand River Ave,1,3,2017,MI,us,42.33138889999999,-83.0458333,False
+1448,25-Mar-17,Tennessee,Knoxville,Minnesota Avenue,1,4,2017,TN,us,35.960555600000006,-83.9208333,False
+1449,25-Mar-17,Ohio,Cleveland,E 79th St and Woodland Ave,2,2,2017,OH,us,41.4994444,-81.69555559999998,False
+1450,24-Mar-17,California,Fresno,300 block of South Villa Avenue,1,4,2017,CA,us,36.7477778,-119.7713889,False
+1451,24-Mar-17,Missouri,Saint Louis,5100 block of Palm St,1,6,2017,MO,us,38.6272222,-90.1977778,False
+1452,22-Mar-17,Wisconsin,Rothschild,1133 E Grand Ave,5,0,2017,WI,us,44.8872222,-89.62,False
+1453,19-Mar-17,Kentucky,Louisville,1512 Portland Avenue,1,5,2017,KY,us,38.2541667,-85.7594444,False
+1454,18-Mar-17,Michigan,Detroit,16000 block of Rutherford,3,2,2017,MI,us,42.33138889999999,-83.0458333,False
+1455,15-Mar-17,Louisiana,Metairie,2508 Pasadena Ave,3,1,2017,LA,us,29.9838889,-90.1527778,False
+1456,10-Mar-17,Illinois,Chicago,123 E 51st St,2,2,2017,IL,us,41.85,-87.65,False
+1457,10-Mar-17,Louisiana,New Orleans,4200 block of Touro St,3,1,2017,LA,us,29.9544444,-90.075,False
+1458,07-Mar-17,Illinois,Chicago,West 76th Street and South May streets,0,4,2017,IL,us,41.85,-87.65,False
+1459,05-Mar-17,Georgia,Columbus,600 block of 32nd Street,0,4,2017,GA,us,32.4608333,-84.98777779999998,False
+1460,04-Mar-17,Kansas,Topeka,23rd and Bellview,1,4,2017,KS,us,39.0483333,-95.6777778,False
+1461,04-Mar-17,California,Sacramento,2500 block of 33rd St,0,4,2017,CA,us,38.5816667,-121.4933333,False
+1462,03-Mar-17,Pennsylvania,Philadelphia,7165 Germantown Ave,0,4,2017,PA,us,39.9522222,-75.1641667,False
+1463,03-Mar-17,California,Riverside,8300 block of Trey Ave,0,5,2017,CA,us,33.9533333,-117.3952778,False
+1464,28-Feb-17,Ohio,Cincinnati,1700 of Casey Drive,0,6,2017,OH,us,39.1619444,-84.4569444,False
+1465,27-Feb-17,Virginia,Newport News,11810 Fountain Way,0,4,2017,VA,us,36.9786111,-76.42833329999998,False
+1466,26-Feb-17,Indiana,Gary,1700 block of Grant St,1,4,2017,IN,us,41.5933333,-87.34638890000002,False
+1467,25-Feb-17,Ohio,Warren,1564 Niles Cortland Rd SE,2,3,2017,OH,us,41.2375,-80.8186111,False
+1468,25-Feb-17,Florida,Jacksonville,3604 Moncrief Rd,1,4,2017,FL,us,30.3319444,-81.6558333,False
+1469,22-Feb-17,New York,Rochester,191 Genesee St,0,4,2017,NY,us,43.1547222,-77.61583329999998,False
+1470,21-Feb-17,Ohio,Cleveland,16700 Lorain Ave,0,4,2017,OH,us,41.4994444,-81.69555559999998,False
+1471,21-Feb-17,Mississippi,Toomsuba,Butts Road,4,0,2017,MS,us,32.4183333,-88.5069444,False
+1472,20-Feb-17,Ohio,Cleveland,1082 East 105th Street,0,5,2017,OH,us,41.4994444,-81.69555559999998,False
+1473,19-Feb-17,Virginia,Norfolk,Church Street and East Virginia Beach Blvd,1,3,2017,VA,us,36.8466667,-76.2855556,False
+1474,18-Feb-17,Pennsylvania,Philadelphia,1 block of N Conestoga,0,4,2017,PA,us,39.9522222,-75.1641667,False
+1475,18-Feb-17,Indiana,South Bend,1000 block of Yukon St,1,3,2017,IN,us,41.6833333,-86.25,False
+1476,15-Feb-17,California,Salinas,30 Soledad Street,0,4,2017,CA,us,36.6777778,-121.65444440000002,False
+1477,15-Feb-17,Illinois,Chicago,3949 South Albany Avenue,3,2,2017,IL,us,41.85,-87.65,False
+1478,12-Feb-17,Missouri,Caruthersville,908 Truman Blvd,1,6,2017,MO,us,36.1930556,-89.6555556,False
+1479,12-Feb-17,New York,Newburgh,253 South William Street,1,3,2017,NY,us,41.5033333,-74.0108333,False
+1480,12-Feb-17,Florida,Greenville,Church Ave and Obadiah St,0,5,2017,FL,us,30.4691667,-83.63027779999999,False
+1481,11-Feb-17,Tennessee,Savannah,Clifton Road and Midway Drive,0,4,2017,TN,us,35.2247222,-88.2491667,False
+1482,11-Feb-17,Illinois,Chicago,100 block of North Mayfield,1,3,2017,IL,us,41.85,-87.65,False
+1483,10-Feb-17,Louisiana,New Orleans,2nd St and Dryades St,1,5,2017,LA,us,29.9544444,-90.075,False
+1484,09-Feb-17,Mississippi,Jackson,3150 Robinson Road,4,0,2017,MS,us,32.2986111,-90.1847222,False
+1485,08-Feb-17,Ohio,Cleveland,16379 Euclid Ave,1,4,2017,OH,us,41.4994444,-81.69555559999998,False
+1486,07-Feb-17,South Carolina,Columbia,5500 block of Fairfield Road,0,4,2017,SC,us,34.00055560000001,-81.035,False
+1487,07-Feb-17,Arkansas,Little Rock,25 Par Drive,1,4,2017,AR,us,34.7463889,-92.2894444,False
+1488,06-Feb-17,Mississippi,Yazoo City,11th Street,4,0,2017,MS,us,32.855,-90.4055556,False
+1489,31-Jan-17,Tennessee,Memphis,1576 S White Station Rd,0,4,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1490,31-Jan-17,District of Columbia,Washington,2900 block of Martin Luther King Jr Ave,0,4,2017,,,47.751076,-120.740135,True
+1491,30-Jan-17,Minnesota,Minneapolis,5410 Lakeland Ave N,0,4,2017,MN,us,44.98,-93.2636111,False
+1492,29-Jan-17,Louisiana,Shreveport,6363 Hearne Ave,1,4,2017,LA,us,32.525,-93.75,False
+1493,27-Jan-17,Tennessee,Brownsville,221 Morgan St,0,10,2017,TN,us,35.5938889,-89.26222220000002,False
+1494,26-Jan-17,Georgia,Albany,1510 Maryland Drive,2,3,2017,GA,us,31.5783333,-84.1558333,False
+1495,25-Jan-17,Illinois,Chicago,500 block of E 75th St,0,6,2017,IL,us,41.85,-87.65,False
+1496,22-Jan-17,Illinois,Chicago,1800 block of W 63rd,0,4,2017,IL,us,41.85,-87.65,False
+1497,22-Jan-17,Texas,Manvel,200 block of Oak Shore Dr,3,2,2017,TX,us,29.4625,-95.3577778,False
+1498,22-Jan-17,Georgia,Atlanta,2841 Greenbriar Pkwy SW,3,1,2017,GA,us,33.7488889,-84.3880556,False
+1499,21-Jan-17,Georgia,Jonesboro,6510 Tara Blvd,0,6,2017,GA,us,33.5213889,-84.35388890000002,False
+1500,21-Jan-17,Florida,Boynton Beach,500 NE 2nd St,0,5,2017,FL,us,26.525,-80.0666667,False
+1501,21-Jan-17,Tennessee,Memphis,500 block of Delta Road,2,2,2017,TN,us,35.14944439999999,-90.04888890000002,False
+1502,20-Jan-17,Mississippi,Como,Smart Road,1,4,2017,MS,us,34.5105556,-89.9397222,False
+1503,20-Jan-17,California,Fresno,4700 block of E Montecito Ave,0,4,2017,CA,us,36.7477778,-119.7713889,False
+1504,16-Jan-17,Texas,Houston,8535 Martin Luther King Boulevard,0,4,2017,TX,us,29.763055600000005,-95.3630556,False
+1505,16-Jan-17,Florida,Miami,6011 NW 32nd Ave,0,8,2017,FL,us,25.7738889,-80.1938889,False
+1506,15-Jan-17,Colorado,Capulin,County Road Y,3,1,2017,CO,us,37.2838889,-106.11083329999998,False
+1507,15-Jan-17,Mississippi,Magnolia,6000 block of Church Road,1,4,2017,MS,us,31.143055600000004,-90.45861109999998,False
+1508,12-Jan-17,Missouri,Kansas City,8607 E 61st Terrace,3,2,2017,MO,us,39.0997222,-94.5783333,False
+1509,12-Jan-17,California,Salinas,500 block of Sunrise St,2,2,2017,CA,us,36.6777778,-121.65444440000002,False
+1510,11-Jan-17,New Jersey,Newark,Hawkins Street and Christie Street,1,3,2017,NJ,us,40.73555560000001,-74.17277779999998,False
+1511,11-Jan-17,Illinois,Chicago,4200 block of S Talman,1,3,2017,IL,us,41.85,-87.65,False
+1512,07-Jan-17,Michigan,Flint,2500 block of Churchill Ave,1,3,2017,MI,us,43.0125,-83.6875,False
+1513,06-Jan-17,California,Pasadena,100 block of W Claremont St,2,2,2017,CA,us,34.1477778,-118.1436111,False
+1514,06-Jan-17,Florida,Fort Lauderdale,100 Terminal Dr,5,6,2017,FL,us,26.1219444,-80.14361109999999,False
+1515,04-Jan-17,California,Fontana,14520 Village Drive,3,1,2017,CA,us,34.0922222,-117.43416670000002,False
+1516,03-Jan-17,Texas,Allen,500 block of Hawthorne Drive,0,4,2017,TX,us,33.103055600000005,-96.6702778,False
+1517,01-Jan-17,Mississippi,Winstonville,114 North Greyer Street,0,5,2017,MS,us,33.91,-90.7513889,False
+1518,01-Jan-17,Texas,Dallas,9220 Skillman Street,1,3,2017,TX,us,32.783333299999995,-96.8,False
+1519,01-Jan-17,Florida,Miami,8000 block of NW 14th Ave,0,7,2017,FL,us,25.7738889,-80.1938889,False
