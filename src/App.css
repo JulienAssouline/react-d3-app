@@ -1,32 +1,91 @@
-.App {
-  text-align: center;
+
+.drone_strikes{
+  fill: red;
+}
+.brush{
+  fill: white;
+  stroke: white;
+  opacity: 0.3;
+  stroke-width: 1px;
+}
+.selection{
+  display: block
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.axis_y_states path {
+    fill: none;
+    stroke: white;
   }
-  to {
-    transform: rotate(360deg);
+
+.axis_y_states line{
+    fill: none;
+    stroke: none;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+    opacity: 0.7;
+    stroke-dasharray: 3,3;
   }
-}
+
+  .axis_y_bars path {
+    fill: none;
+    stroke: white;
+  }
+.axis_y_bars line{
+    fill: none;
+    stroke: #dcd9d3;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+    opacity: 0.7;
+    stroke-dasharray: 3,3;
+  }
+
+  .axis_x_bars path {
+    fill: none;
+    stroke: white;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+  }
+  .axis_x_bars line {
+    fill: none;
+    stroke: grey;
+  }
+
+  .title {
+    width: 100%;
+    text-align:center;
+  }
+
+  #button-wrapper {
+    width: 100%;
+    text-align:center;
+  }
+
+  .killedButton {
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+    border: 1px solid white;
+    padding: 8px 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 3px;
+  }
+
+  .injuredButton {
+    margin-left:10px;
+        -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+    border: 1px solid white;
+    padding: 8px 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 3px;
+  }
+  button:focus {outline:0;}
+
+
