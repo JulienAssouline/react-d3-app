@@ -57,9 +57,6 @@ class BarStates extends React.Component {
       .attr("transform", "translate(100," + margin.top +")")
       .call(yAxis)
 
-      console.log(grouped_values_sorted)
-
-
      const rectStates = grouped_values_sorted.map((d,i) =>
         <rect
         key = {"rectStates" + i}

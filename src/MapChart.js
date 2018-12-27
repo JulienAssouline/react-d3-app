@@ -19,6 +19,9 @@ class MapChart extends React.Component{
         us_states
       })
     })
+    .catch(error => {
+    console.log(error)
+    });
 
     // Promise.all([
     //   d3.csv(us_states),

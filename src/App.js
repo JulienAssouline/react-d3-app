@@ -128,8 +128,6 @@ class App extends React.Component {
     // we only use this for the mapChart component. The barChart data changes only on opacity
     const filterData = data.filter((d,i) => this.state.brushExtent[1] >= d.Date && d.Date >= this.state.brushExtent[0] )
 
-    console.log(filterData)
-
     return (
       <div className="App">
       <h2 className = "title"> Mass Shootings in the United States</h2>
