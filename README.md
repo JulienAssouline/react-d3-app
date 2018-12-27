@@ -5,8 +5,8 @@ React and D3 dashboard application with brushing, hover, and click event handlin
 
 Once you clone the repo you can run:
 
-### `$ npm install
-$ npm start`
+`$ npm install`
+`$ npm start`
 
 The app will start on  [http://localhost:3000](http://localhost:3000).
 
