@@ -102,14 +102,12 @@ class MapChart extends React.Component{
 
       const number_victims = this.props.killedState === true ? d.Killed : d.Injured
       const text_victims = this.props.killedState === true ? "killed" : "injured"
-      console.log(d)
 
         d3.select(this.node)
         .html(number_victims + " " + text_victims + " in " + d.City)
 
       }}
       onMouseMove = { () => {
-        console.log()
         d3.select(this.node)
         .style("left", (window.event.pageX - 40) + "px")
         .style("top", (window.event.pageY - 45) + "px")
