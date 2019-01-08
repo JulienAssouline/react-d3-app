@@ -1,5 +1,5 @@
 
-React and D3 dashboard application with brushing, hover, and click event handling.
+React and D3 dashboard application with brushing, responsiveness, hover, tooltip and click event handling.
 
 ## View the app
 
