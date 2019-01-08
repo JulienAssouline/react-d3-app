@@ -13,8 +13,9 @@ class MapChart extends React.Component{
 
   componentWillMount() {
 
-    d3.csv(us_states)
+    d3.csv("./us.json")
     .then((json) => {
+      console.log(json)
       this.setState({
         us_states
       })
