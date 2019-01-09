@@ -3,10 +3,6 @@ React and D3 dashboard application with brushing, responsiveness, hover, tooltip
 
 ## View the app
 
-Once you clone the repo you can run:
+Here is a link to the app: https://julienassouline.github.io/react-d3-app/
 
-`$ npm install`<br>
-`$ npm start`
-
-The app will start on  [http://localhost:3000](http://localhost:3000).
 
